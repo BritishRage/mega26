@@ -1,0 +1,26 @@
+﻿CHARACTERS = {
+	c:KAU = {
+		create_character = {
+			first_name = "Nyurapayia_Araluen"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			female = yes
+			birth_date = 1809.4.11
+			traits = {
+				opium_addiction 
+			}
+		}
+
+		create_character = {
+			first_name = "Gelar_Apari"
+			ruler = yes
+			culture = cu:aborigine
+			religion = rel:animist
+			birth_date = 1792.8.18
+			traits = {
+				ambitious 
+			}
+		}
+
+	}
+}

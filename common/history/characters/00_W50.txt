@@ -1,0 +1,64 @@
+﻿CHARACTERS = {
+	c:W50 = {
+		create_character = {
+			first_name = "Khnata"
+			last_name = "al-Shabani"
+			female = yes
+			culture = cu:maghrebi
+			religion = rel:catholic
+			birth_date = 1808.8.14
+			traits = {
+				direct 
+			}
+		}
+
+		create_character = {
+			first_name = "_Abd_al-Haqq"
+			last_name = "de_Trastamara"
+			heir = yes
+			culture = cu:maghrebi
+			religion = rel:catholic
+			birth_date = 1835.5.11
+			traits = {
+				trait_child 
+			}
+		}
+
+		create_character = {
+			first_name = "Zayn_Behar"
+			is_admiral = yes
+			birth_date = 1816.5.14
+			traits = {
+				opium_addiction 
+			}
+		}
+
+		create_character = {
+			first_name = "al-Yazid_I"
+			last_name = "de_Trastamara"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_3
+			culture = cu:maghrebi
+			religion = rel:catholic
+			birth_date = 1810.5.8
+			traits = {
+				experienced_diplomat innovative 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Isma_il_Behar"
+			is_general = yes
+			commander_rank = commander_rank_4
+			birth_date = 1789.12.2
+			traits = {
+				basic_defensive_strategist 
+			}
+		}
+
+	}
+}

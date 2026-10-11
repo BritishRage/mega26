@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:LKT = {
+		create_character = {
+			first_name = "Shacope_Hunkpapha"
+			ruler = yes
+			culture = cu:dakota
+			religion = rel:animist
+			birth_date = 1708.4.9
+			traits = {
+				basic_colonial_administrator cancer 
+			}
+		}
+
+	}
+}

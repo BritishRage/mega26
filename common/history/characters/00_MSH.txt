@@ -1,0 +1,81 @@
+﻿CHARACTERS = {
+	c:MSH = {
+		create_character = {
+			first_name = "Changamire_Mutasa"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1810.9.2
+			traits = {
+				inexperienced 
+			}
+		}
+
+		create_character = {
+			first_name = "Nyambo_Njie"
+			is_general = yes
+			birth_date = 1807.4.2
+			traits = {
+				opium_addiction 
+			}
+		}
+
+		create_character = {
+			first_name = "Ningomoxa_Moyo"
+			is_general = yes
+			birth_date = 1794.10.23
+			traits = {
+				opium_addiction 
+			}
+		}
+
+		create_character = {
+			first_name = "Mukombero"
+			last_name = "Mwenemutapa"
+			heir = yes
+			culture = cu:sena
+			religion = rel:animist
+			birth_date = 1825.6.26
+			traits = {
+				basic_colonial_administrator trait_child 
+			}
+		}
+
+		create_character = {
+			first_name = "Molwa_Moyo"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1800.11.6
+			traits = {
+				alcoholic 
+			}
+		}
+
+		create_character = {
+			first_name = "Gumboremvura_Moyo"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1785.4.4
+			traits = {
+				alcoholic 
+			}
+		}
+
+		create_character = {
+			first_name = "Mucombo_Tembo"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1787.8.21
+			traits = {
+				shellshocked 
+			}
+		}
+
+		create_character = {
+			first_name = "Nechagadzike_Chrima"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1767.5.10
+		}
+
+	}
+}

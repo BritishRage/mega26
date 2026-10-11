@@ -1,0 +1,48 @@
+﻿CHARACTERS = {
+	c:X07 = {
+		create_character = {
+			first_name = "Ibrahim_I"
+			last_name = "Walashma"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_3
+			culture = cu:somali
+			religion = rel:sunni
+			birth_date = 1794.4.14
+			traits = {
+				experienced_political_operator reserved 
+			}
+		}
+
+		create_character = {
+			first_name = "Malaq_Adam_Abdelrashid"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1782.6.21
+			traits = {
+				shellshocked 
+			}
+		}
+
+		create_character = {
+			first_name = "Sa_ad_al-Din_Lemn"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1779.1.30
+			traits = {
+				alcoholic 
+			}
+		}
+
+		create_character = {
+			first_name = "Sabr_al-Din_Teka"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1746.12.28
+			traits = {
+				alcoholic cancer 
+			}
+		}
+
+	}
+}

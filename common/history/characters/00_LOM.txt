@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:LOM = {
+		create_character = {
+			first_name = "Lealdo_I"
+			last_name = "Gross"
+			ruler = yes
+			culture = cu:south_german
+			religion = rel:hussite
+			birth_date = 1815.10.24
+			traits = {
+				hedonist 
+			}
+		}
+
+	}
+}

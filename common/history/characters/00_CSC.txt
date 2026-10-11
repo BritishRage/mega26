@@ -1,0 +1,51 @@
+﻿CHARACTERS = {
+	c:CSC = {
+		create_character = {
+			first_name = "Margaret"
+			last_name = "Kelupaina"
+			female = yes
+			culture = cu:neo-canada_colony-polynesian
+			religion = rel:animist
+			birth_date = 1805.10.5
+			traits = {
+				direct 
+			}
+		}
+
+		create_character = {
+			first_name = "Kapena_I"
+			last_name = "Ahulani"
+			ruler = yes
+			culture = cu:neo-canada_colony-polynesian
+			religion = rel:animist
+			birth_date = 1814.3.6
+			traits = {
+				meticulous 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Iwalani_Kalani"
+			is_admiral = yes
+			commander_rank = commander_rank_2
+			birth_date = 1797.8.6
+			traits = {
+				inexperienced 
+			}
+		}
+
+		create_character = {
+			first_name = "Kale_Iwalani"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1778.9.2
+			traits = {
+				grifter 
+			}
+		}
+
+	}
+}

@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:Y07 = {
+		create_character = {
+			first_name = "Kalti_Mearann"
+			ruler = yes
+			culture = cu:aborigine
+			religion = rel:animist
+			birth_date = 1782.11.15
+			traits = {
+				basic_colonial_administrator cautious 
+			}
+		}
+
+	}
+}

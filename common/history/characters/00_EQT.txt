@@ -1,0 +1,56 @@
+﻿CHARACTERS = {
+	c:EQT = {
+		create_character = {
+			first_name = "Gabriel_de_Egmont"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_1
+			culture = cu:neo-brazil_colony-castillian
+			religion = rel:catholic
+			birth_date = 1784.2.15
+			traits = {
+				direct 
+			}
+		}
+
+		create_character = {
+			first_name = "Gabriel_de_Austria"
+			is_general = yes
+			birth_date = 1802.11.7
+			traits = {
+				alcoholic 
+			}
+		}
+
+		create_character = {
+			first_name = "Cristobal_de_Grijalva"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1779.9.15
+			traits = {
+				inexperienced 
+			}
+		}
+
+		create_character = {
+			first_name = "Carlos_de_Bazan"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1791.12.19
+			traits = {
+				charismatic 
+			}
+		}
+
+		create_character = {
+			first_name = "Jose_de_Bazan"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1783.1.10
+			traits = {
+				bigoted 
+			}
+		}
+
+	}
+}

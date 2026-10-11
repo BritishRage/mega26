@@ -1,0 +1,63 @@
+﻿CHARACTERS = {
+	c:HAW = {
+		create_character = {
+			first_name = "Miliani"
+			last_name = "Aluala"
+			female = yes
+			culture = cu:hawaiian
+			religion = rel:animist
+			birth_date = 1800.10.28
+			traits = {
+				basic_diplomat charismatic 
+			}
+		}
+
+		create_character = {
+			first_name = "Alaula"
+			last_name = "Kelupaina"
+			heir = yes
+			female = yes
+			culture = cu:hawaiian
+			religion = rel:animist
+			birth_date = 1826.10.21
+			traits = {
+				basic_colonial_administrator trait_child 
+			}
+		}
+
+		create_character = {
+			first_name = "Palani_III"
+			last_name = "Kelupaina"
+			ruler = yes
+			culture = cu:hawaiian
+			religion = rel:animist
+			birth_date = 1802.6.7
+			traits = {
+				experienced_political_operator hedonist 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Malo_Analu"
+			is_general = yes
+			birth_date = 1790.3.26
+			traits = {
+				alcoholic 
+			}
+		}
+
+		create_character = {
+			first_name = "Akamu_Keahi"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1785.5.24
+			traits = {
+				alcoholic 
+			}
+		}
+
+	}
+}

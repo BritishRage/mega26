@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:X82 = {
+		create_character = {
+			first_name = "Feleti_Palani"
+			ruler = yes
+			culture = cu:polynesian
+			religion = rel:animist
+			birth_date = 1788.11.12
+			traits = {
+				basic_colonial_administrator tactful 
+			}
+		}
+
+	}
+}

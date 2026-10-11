@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:KSN = {
+		create_character = {
+			first_name = "Kinguri_I"
+			last_name = "Imbangala"
+			ruler = yes
+			culture = cu:lunda
+			religion = rel:animist
+			birth_date = 1569.12.30
+			traits = {
+				cancer imperious 
+			}
+		}
+
+	}
+}

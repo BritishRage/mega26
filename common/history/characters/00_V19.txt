@@ -1,0 +1,42 @@
+﻿CHARACTERS = {
+	c:V19 = {
+		create_character = {
+			first_name = "Ciro_Mazzini"
+			ruler = yes
+			culture = cu:neapolitan
+			religion = rel:sunni
+			birth_date = 1778.11.23
+			traits = {
+				arrogant expert_political_operator 
+			}
+		}
+
+		create_character = {
+			first_name = "Samuele_Rizzi"
+			is_admiral = yes
+			commander_rank = commander_rank_2
+			birth_date = 1795.6.19
+			traits = {
+				expensive_tastes 
+			}
+		}
+
+		create_character = {
+			first_name = "Luciano_Platamonte"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1796.6.21
+			traits = {
+				cocaine_addiction 
+			}
+		}
+
+		create_character = {
+			first_name = "Federigo_Tanucci"
+			is_admiral = yes
+			commander_rank = commander_rank_2
+			birth_date = 1791.11.26
+		}
+
+	}
+}

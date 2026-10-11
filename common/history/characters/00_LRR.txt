@@ -1,0 +1,25 @@
+﻿CHARACTERS = {
+	c:LRR = {
+		create_character = {
+			first_name = "Uwan_Adoni"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1811.11.15
+			traits = {
+				inexperienced 
+			}
+		}
+
+		create_character = {
+			first_name = "Balun_Warrain"
+			ruler = yes
+			culture = cu:aborigine
+			religion = rel:animist
+			birth_date = 1814.4.9
+			traits = {
+				basic_colonial_administrator cautious 
+			}
+		}
+
+	}
+}

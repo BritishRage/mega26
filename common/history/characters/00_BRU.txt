@@ -1,0 +1,85 @@
+﻿CHARACTERS = {
+	c:BRU = {
+		create_character = {
+			first_name = "Ala__ad-Din_Amir"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1804.8.19
+			traits = {
+				alcoholic 
+			}
+		}
+
+		create_character = {
+			first_name = "Rim"
+			last_name = "Kutai"
+			female = yes
+			culture = cu:bornean
+			religion = rel:sunni
+			birth_date = 1803.4.19
+			traits = {
+				basic_diplomat romantic 
+			}
+		}
+
+		create_character = {
+			first_name = "Muhammad"
+			last_name = "Bolkiah"
+			heir = yes
+			culture = cu:bornean
+			religion = rel:sunni
+			birth_date = 1822.10.2
+			traits = {
+				basic_political_operator trait_child 
+			}
+		}
+
+		create_character = {
+			first_name = "Ala__ad-Din_I"
+			last_name = "Bolkiah"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_2
+			interest_group = ig_industrialists
+			culture = cu:bornean
+			religion = rel:sunni
+			birth_date = 1807.10.2
+			traits = {
+				basic_colonial_administrator wrathful 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "_Abd_al-Qahhar_Mahat"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1791.8.25
+			traits = {
+				expensive_tastes 
+			}
+		}
+
+		create_character = {
+			first_name = "Sayf_ar-Rijal_Amir"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1779.2.28
+			traits = {
+				alcoholic 
+			}
+		}
+
+		create_character = {
+			first_name = "_Abd_al-Qahhar_Chairul"
+			is_admiral = yes
+			birth_date = 1768.9.5
+			traits = {
+				alcoholic 
+			}
+		}
+
+	}
+}

@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:BLF = {
+		create_character = {
+			first_name = "Natoseonistors_Niwayiks"
+			ruler = yes
+			culture = cu:algonquian
+			religion = rel:animist
+			birth_date = 1748.8.30
+			traits = {
+				kidney_stones 
+			}
+		}
+
+	}
+}

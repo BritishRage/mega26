@@ -1,0 +1,12 @@
+﻿CHARACTERS = {
+	c:ARP = {
+		create_character = {
+			first_name = "Watchano_Clackamas"
+			ruler = yes
+			culture = cu:algonquian
+			religion = rel:animist
+			birth_date = 1786.1.19
+		}
+
+	}
+}

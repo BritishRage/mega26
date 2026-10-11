@@ -1,0 +1,81 @@
+﻿CHARACTERS = {
+	c:W91 = {
+		create_character = {
+			first_name = "Nilakendra_Wani"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1812.9.17
+		}
+
+		create_character = {
+			first_name = "Girindrawardhana_Ratri"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1804.1.21
+			traits = {
+				expensive_tastes 
+			}
+		}
+
+		create_character = {
+			first_name = "Raden_Sumirat"
+			last_name = "Banten"
+			heir = yes
+			culture = cu:javan
+			religion = rel:hindu
+			birth_date = 1830.10.22
+			traits = {
+				basic_colonial_administrator trait_child 
+			}
+		}
+
+		create_character = {
+			first_name = "Lakshmi"
+			last_name = "Chalukya"
+			female = yes
+			culture = cu:tamil
+			religion = rel:hindu
+			birth_date = 1809.5.9
+			traits = {
+				experienced_political_operator reserved 
+			}
+		}
+
+		create_character = {
+			first_name = "Kertawijaya_Budi"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1796.7.19
+			traits = {
+				grifter 
+			}
+		}
+
+		create_character = {
+			first_name = "Mangkubumi_Suradipati_III"
+			last_name = "Banten"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_2
+			culture = cu:javan
+			religion = rel:hindu
+			birth_date = 1814.12.30
+			traits = {
+				basic_political_operator meticulous 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Kertawijaya_Slamet"
+			is_admiral = yes
+			birth_date = 1796.11.15
+			traits = {
+				grifter 
+			}
+		}
+
+	}
+}

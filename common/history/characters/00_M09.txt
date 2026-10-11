@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:M09 = {
+		create_character = {
+			first_name = "Kiwash_Waswanipi"
+			ruler = yes
+			culture = cu:cree
+			religion = rel:animist
+			birth_date = 1623.5.17
+			traits = {
+				cancer experienced_colonial_administrator 
+			}
+		}
+
+	}
+}

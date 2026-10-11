@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:TWT = {
+		create_character = {
+			first_name = "Tupac_Amaru_III"
+			last_name = "Hanan"
+			ruler = yes
+			culture = cu:quechua
+			religion = rel:animist
+			birth_date = 1747.9.15
+			traits = {
+				experienced_political_operator hedonist 
+			}
+		}
+
+	}
+}

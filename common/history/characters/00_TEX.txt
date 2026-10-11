@@ -1,0 +1,54 @@
+﻿CHARACTERS = {
+	c:TEX = {
+		create_character = {
+			first_name = "Kelii_Brock"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_2
+			culture = cu:dixie
+			religion = rel:protestant
+			birth_date = 1777.3.12
+			traits = {
+				direct 
+			}
+		}
+
+		create_character = {
+			first_name = "Alfred_Wolfe"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1808.11.22
+			traits = {
+				alcoholic 
+			}
+		}
+
+		create_character = {
+			first_name = "Christopher_Clive"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1801.10.6
+			traits = {
+				ruthless 
+			}
+		}
+
+		create_character = {
+			first_name = "Samuel_Essex"
+			is_admiral = yes
+			commander_rank = commander_rank_2
+			birth_date = 1781.9.21
+			traits = {
+				expensive_tastes 
+			}
+		}
+
+		create_character = {
+			first_name = "Octavius_Norfolk"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1775.11.9
+		}
+
+	}
+}

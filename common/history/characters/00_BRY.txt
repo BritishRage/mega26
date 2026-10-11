@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:BRY = {
+		create_character = {
+			first_name = "Native_Council"
+			ruler = yes
+			culture = cu:buryat
+			religion = rel:tengri_pagan_reformed
+			birth_date = 115.1.1
+			traits = {
+				basic_political_operator kidney_stones 
+			}
+		}
+
+	}
+}

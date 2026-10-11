@@ -1,0 +1,128 @@
+﻿CHARACTERS = {
+	c:GBR = {
+		create_character = {
+			first_name = "Kalei_Herbert"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1815.4.2
+		}
+
+		create_character = {
+			first_name = "Hugh_de_Clifford"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1810.4.28
+		}
+
+		create_character = {
+			first_name = "George_Boscawen"
+			is_admiral = yes
+			commander_rank = commander_rank_2
+			birth_date = 1802.3.28
+			traits = {
+				expensive_tastes 
+			}
+		}
+
+		create_character = {
+			first_name = "Daniel_Norfolk"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1813.4.8
+			traits = {
+				inept 
+			}
+		}
+
+		create_character = {
+			first_name = "Frederick_Augustus"
+			last_name = "Hyde"
+			culture = cu:british
+			religion = rel:protestant
+			birth_date = 1807.6.13
+			traits = {
+				basic_diplomat direct 
+			}
+		}
+
+		create_character = {
+			first_name = "George"
+			last_name = "Tudor"
+			heir = yes
+			culture = cu:british
+			religion = rel:protestant
+			birth_date = 1829.6.17
+			traits = {
+				trait_child 
+			}
+		}
+
+		create_character = {
+			first_name = "Jeremy_Howard"
+			is_admiral = yes
+			commander_rank = commander_rank_2
+			birth_date = 1785.8.21
+			traits = {
+				cruel 
+			}
+		}
+
+		create_character = {
+			first_name = "Anne_I"
+			last_name = "Tudor"
+			ruler = yes
+			female = yes
+			interest_group = ig_industrialists
+			culture = cu:british
+			religion = rel:protestant
+			birth_date = 1806.8.22
+			traits = {
+				basic_political_operator imposing 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Thomas_Cabot"
+			is_admiral = yes
+			commander_rank = commander_rank_4
+			birth_date = 1785.9.6
+			traits = {
+				explorer 
+			}
+		}
+
+		create_character = {
+			first_name = "Joseph_Uxbridge"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1783.10.23
+			traits = {
+				psychological_affliction 
+			}
+		}
+
+		create_character = {
+			first_name = "Winston_Smith"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1774.5.12
+			traits = {
+				basic_offensive_planner 
+			}
+		}
+
+		create_character = {
+			first_name = "Francis_Herbert"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1779.10.7
+			traits = {
+				surveyor 
+			}
+		}
+
+	}
+}

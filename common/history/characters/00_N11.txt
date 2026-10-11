@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:N11 = {
+		create_character = {
+			first_name = "Moxusson_Koasek"
+			ruler = yes
+			culture = cu:algonquian
+			religion = rel:animist
+			birth_date = 1592.3.25
+			traits = {
+				basic_political_operator senile 
+			}
+		}
+
+	}
+}

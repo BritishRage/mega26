@@ -1,0 +1,55 @@
+﻿CHARACTERS = {
+	c:TAR = {
+		create_character = {
+			first_name = "Khalil_Nurgali"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1788.3.7
+			traits = {
+				ambitious 
+			}
+		}
+
+		create_character = {
+			first_name = "Alia"
+			last_name = "Tuqay"
+			female = yes
+			culture = cu:tatar
+			religion = rel:sunni
+			birth_date = 1798.11.16
+			traits = {
+				experienced_colonial_administrator reserved 
+			}
+		}
+
+		create_character = {
+			first_name = "Ulugh_Muhammad"
+			last_name = "Shaybanid"
+			heir = yes
+			culture = cu:tatar
+			religion = rel:sunni
+			birth_date = 1826.1.21
+			traits = {
+				basic_colonial_administrator trait_child 
+			}
+		}
+
+		create_character = {
+			first_name = "Ulugh_Muhammad_V"
+			last_name = "Shaybanid"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_2
+			culture = cu:tatar
+			religion = rel:sunni
+			birth_date = 1810.4.26
+			traits = {
+				hedonist 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}

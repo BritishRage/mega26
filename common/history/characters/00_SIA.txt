@@ -1,0 +1,55 @@
+﻿CHARACTERS = {
+	c:SIA = {
+		create_character = {
+			first_name = "Chanarong"
+			last_name = "Thonburi"
+			female = yes
+			culture = cu:thai
+			religion = rel:theravada
+			birth_date = 1796.8.22
+			traits = {
+				basic_colonial_administrator romantic 
+			}
+		}
+
+		create_character = {
+			first_name = "Ramaracha"
+			last_name = "Sukhothai"
+			heir = yes
+			culture = cu:thai
+			religion = rel:theravada
+			birth_date = 1823.2.11
+			traits = {
+				basic_diplomat trait_child 
+			}
+		}
+
+		create_character = {
+			first_name = "Si_Saowaphak_I"
+			last_name = "Sukhothai"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_2
+			culture = cu:thai
+			religion = rel:theravada
+			birth_date = 1807.2.1
+			traits = {
+				basic_diplomat direct imperious 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Prasat_Thong_Ariyanuntaka"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1787.4.24
+			traits = {
+				bigoted 
+			}
+		}
+
+	}
+}

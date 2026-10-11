@@ -1,0 +1,46 @@
+﻿CHARACTERS = {
+	c:NPU = {
+		create_character = {
+			first_name = "Vicente_Gravina"
+			ruler = yes
+			is_general = yes
+			culture = cu:south_andean
+			religion = rel:catholic
+			birth_date = 1800.12.5
+			traits = {
+				ambitious basic_diplomat 
+			}
+		}
+
+		create_character = {
+			first_name = "Carlos_de_Beaumont"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1795.3.9
+			traits = {
+				inexperienced 
+			}
+		}
+
+		create_character = {
+			first_name = "Felipe_Colon"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1792.3.27
+			traits = {
+				cocaine_addiction 
+			}
+		}
+
+		create_character = {
+			first_name = "Garcia_Cabeza_de_Vaca"
+			is_admiral = yes
+			commander_rank = commander_rank_2
+			birth_date = 1781.10.31
+			traits = {
+				expensive_tastes 
+			}
+		}
+
+	}
+}

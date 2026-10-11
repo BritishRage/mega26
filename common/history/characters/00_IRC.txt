@@ -1,0 +1,12 @@
+﻿CHARACTERS = {
+	c:IRC = {
+		create_character = {
+			first_name = "Emitahapiskinne_Canhdada"
+			ruler = yes
+			culture = cu:siouan
+			religion = rel:animist
+			birth_date = 1768.9.21
+		}
+
+	}
+}

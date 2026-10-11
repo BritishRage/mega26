@@ -1,0 +1,25 @@
+﻿CHARACTERS = {
+	c:NNG = {
+		create_character = {
+			first_name = "Uwan_Gelar"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1798.8.26
+			traits = {
+				inexperienced 
+			}
+		}
+
+		create_character = {
+			first_name = "Ganan_Matari"
+			ruler = yes
+			culture = cu:aborigine
+			religion = rel:animist
+			birth_date = 1785.10.9
+			traits = {
+				charismatic 
+			}
+		}
+
+	}
+}

@@ -1,0 +1,104 @@
+﻿CHARACTERS = {
+	c:TUR = {
+		create_character = {
+			first_name = "Kamer_Damad"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1811.7.5
+		}
+
+		create_character = {
+			first_name = "Abdulmecid_Damad"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1789.11.22
+			traits = {
+				alcoholic 
+			}
+		}
+
+		create_character = {
+			first_name = "Kamer_Pasha"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1796.9.30
+			traits = {
+				grifter 
+			}
+		}
+
+		create_character = {
+			first_name = "Ishak_Rumi"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1790.6.16
+			traits = {
+				inexperienced 
+			}
+		}
+
+		create_character = {
+			first_name = "Celaleddin_Haseki"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1790.12.13
+			traits = {
+				inexperienced 
+			}
+		}
+
+		create_character = {
+			first_name = "Mustafa"
+			last_name = "Osmanoglu"
+			heir = yes
+			is_general = yes
+			commander_rank = commander_rank_3
+			culture = cu:turkish
+			religion = rel:sunni
+			birth_date = 1811.6.29
+			traits = {
+				experienced_political_operator reserved 
+			}
+		}
+
+		create_character = {
+			first_name = "Gulfem"
+			last_name = "Osmanoglu"
+			female = yes
+			culture = cu:turkish
+			religion = rel:sunni
+			birth_date = 1789.4.18
+			traits = {
+				experienced_diplomat reserved 
+			}
+		}
+
+		create_character = {
+			first_name = "Dursun_Nishanci"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1784.3.11
+			traits = {
+				syphilis 
+			}
+		}
+
+		create_character = {
+			first_name = "Mustafa_III"
+			last_name = "Osmanoglu"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_1
+			culture = cu:turkish
+			religion = rel:sunni
+			birth_date = 1791.5.6
+			traits = {
+				direct experienced_diplomat 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}

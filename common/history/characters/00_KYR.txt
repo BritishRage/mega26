@@ -1,0 +1,43 @@
+﻿CHARACTERS = {
+	c:KYR = {
+		create_character = {
+			first_name = "Abdul-Karim"
+			last_name = "Ediguid"
+			heir = yes
+			culture = cu:mongol
+			religion = rel:sunni
+			birth_date = 1829.7.20
+			traits = {
+				trait_child 
+			}
+		}
+
+		create_character = {
+			first_name = "Chanarong"
+			last_name = "Sukhothai"
+			female = yes
+			culture = cu:thai
+			religion = rel:theravada
+			birth_date = 1803.8.30
+			traits = {
+				basic_diplomat charismatic 
+			}
+		}
+
+		create_character = {
+			first_name = "Uwais_II"
+			last_name = "Ediguid"
+			ruler = yes
+			culture = cu:mongol
+			religion = rel:sunni
+			birth_date = 1808.2.22
+			traits = {
+				ambitious 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}

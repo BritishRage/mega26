@@ -1,0 +1,44 @@
+﻿CHARACTERS = {
+	c:PLT = {
+		create_character = {
+			first_name = "Jaime_de_Benavides"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_2
+			culture = cu:platinean
+			religion = rel:catholic
+			birth_date = 1787.11.3
+			traits = {
+				hedonist 
+			}
+		}
+
+		create_character = {
+			first_name = "Lope_de_Ripperda"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1809.8.25
+		}
+
+		create_character = {
+			first_name = "Jorge_Abarca_de_Bolea"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1782.7.9
+			traits = {
+				inept 
+			}
+		}
+
+		create_character = {
+			first_name = "Emilio_Elcano"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1793.9.1
+			traits = {
+				grifter 
+			}
+		}
+
+	}
+}
