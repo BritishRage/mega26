@@ -18956,13 +18956,11 @@
 			create_pop = {
 				culture = dyula
 				religion = sunni
-				pop_type = slaves
 				size = 6875
 			}
 			create_pop = {
 				culture = fulbe
 				religion = sunni
-				pop_type = slaves
 				size = 625
 			}
 		}
@@ -32056,7 +32054,6 @@
 			create_pop = {
 				culture = tagalog
 				religion = animist
-				pop_type = slaves
 				size = 1679
 			}
 			create_pop = {
@@ -32067,7 +32064,6 @@
 			create_pop = {
 				culture = aborigine
 				religion = animist
-				pop_type = slaves
 				size = 843
 			}
 		}
@@ -33162,7 +33158,6 @@
 			create_pop = {
 				culture = moluccan
 				religion = animist
-				pop_type = slaves
 				size = 21345
 			}
 			create_pop = {
@@ -33173,7 +33168,6 @@
 			create_pop = {
 				culture = polynesian
 				religion = animist
-				pop_type = slaves
 				size = 13799
 			}
 		}
@@ -50031,7 +50025,6 @@
 			create_pop = {
 				culture = balinese
 				religion = animist
-				pop_type = slaves
 				size = 5674
 			}
 			create_pop = {
@@ -50042,7 +50035,6 @@
 			create_pop = {
 				culture = polynesian
 				religion = animist
-				pop_type = slaves
 				size = 3464
 			}
 		}
@@ -57523,7 +57515,6 @@
 			create_pop = {
 				culture = melanesian
 				religion = animist
-				pop_type = slaves
 				size = 132
 			}
 			create_pop = {
@@ -57534,7 +57525,6 @@
 			create_pop = {
 				culture = melanesian
 				religion = animist
-				pop_type = slaves
 				size = 105
 			}
 			create_pop = {
@@ -57545,7 +57535,6 @@
 			create_pop = {
 				culture = melanesian
 				religion = animist
-				pop_type = slaves
 				size = 158
 			}
 			create_pop = {
@@ -57556,7 +57545,6 @@
 			create_pop = {
 				culture = melanesian
 				religion = animist
-				pop_type = slaves
 				size = 105
 			}
 		}

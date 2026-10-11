@@ -278,7 +278,7 @@
 	c:X68 ?= {
 		create_diplomatic_pact = {
 			country = c:CKC
-			type = protectorate
+			type = tributary
 		}
 	}
 	c:CKC ?= {
@@ -314,7 +314,7 @@
 	c:HAW ?= {
 		create_diplomatic_pact = {
 			country = c:LRR
-			type = protectorate
+			type = tributary
 		}
 	}
 	c:LRR ?= {
@@ -323,7 +323,7 @@
 	c:HAW ?= {
 		create_diplomatic_pact = {
 			country = c:K13
-			type = protectorate
+			type = tributary
 		}
 	}
 	c:K13 ?= {
@@ -332,7 +332,7 @@
 	c:HAW ?= {
 		create_diplomatic_pact = {
 			country = c:KAU
-			type = protectorate
+			type = tributary
 		}
 	}
 	c:KAU ?= {
@@ -341,7 +341,7 @@
 	c:HAW ?= {
 		create_diplomatic_pact = {
 			country = c:NNG
-			type = protectorate
+			type = tributary
 		}
 	}
 	c:NNG ?= {
@@ -350,7 +350,7 @@
 	c:HAW ?= {
 		create_diplomatic_pact = {
 			country = c:W94
-			type = protectorate
+			type = tributary
 		}
 	}
 	c:W94 ?= {
@@ -359,7 +359,7 @@
 	c:HAW ?= {
 		create_diplomatic_pact = {
 			country = c:W26
-			type = protectorate
+			type = tributary
 		}
 	}
 	c:W26 ?= {
@@ -368,7 +368,7 @@
 	c:HAW ?= {
 		create_diplomatic_pact = {
 			country = c:Y07
-			type = protectorate
+			type = tributary
 		}
 	}
 	c:Y07 ?= {
@@ -377,7 +377,7 @@
 	c:HAW ?= {
 		create_diplomatic_pact = {
 			country = c:X81
-			type = puppet
+			type = vassal
 		}
 	}
 	c:X81 ?= {
@@ -386,7 +386,7 @@
 	c:HAW ?= {
 		create_diplomatic_pact = {
 			country = c:X82
-			type = puppet
+			type = vassal
 		}
 	}
 	c:X82 ?= {

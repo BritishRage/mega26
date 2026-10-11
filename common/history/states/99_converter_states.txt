@@ -213,6 +213,8 @@
 		add_homeland = cu:cree
 		add_homeland = cu:metis
 		add_homeland = cu:neo-canada_colony-polynesian
+		add_claim = c:ARP
+		add_claim = c:BLF
 		add_claim = c:CSC
 		add_claim = c:GBR
 		add_claim = c:NEW
@@ -852,6 +854,7 @@
 		add_homeland = cu:bakongo
 		add_homeland = cu:lunda
 		add_homeland = cu:mongo
+		add_claim = c:KSN
 	}
 	s:STATE_BAVARIA = {
 		create_state = {
@@ -1304,6 +1307,7 @@
 		add_claim = c:ALK
 		add_claim = c:CSC
 		add_claim = c:TEX
+		add_claim = c:X42
 	}
 	s:STATE_CAMBODIA = {
 		create_state = {
@@ -2018,6 +2022,7 @@
 		}
 		add_homeland = cu:bambara
 		add_homeland = cu:mande
+		add_claim = c:MDK
 	}
 	s:STATE_EASTERN_NEW_GUINEA = {
 		create_state = {
@@ -2102,6 +2107,8 @@
 		}
 		add_homeland = cu:lunda
 		add_homeland = cu:ovimbundu
+		add_claim = c:CHK
+		add_claim = c:KSN
 	}
 	s:STATE_EAST_BENGAL = {
 		create_state = {
@@ -4293,6 +4300,7 @@
 		add_homeland = cu:metis
 		add_homeland = cu:neo-canada_colony-danish
 		add_homeland = cu:siouan
+		add_claim = c:IRC
 		add_claim = c:NEW
 		add_claim = c:X24
 	}
@@ -4499,6 +4507,7 @@
 		add_homeland = cu:algonquian
 		add_homeland = cu:neo-usa_north_colony-danish
 		add_homeland = cu:siouan
+		add_claim = c:LKT
 		add_claim = c:X26
 		add_claim = c:X28
 		add_claim = c:X30
@@ -4578,9 +4587,9 @@
 		add_homeland = cu:algonquian
 		add_homeland = cu:dakota
 		add_homeland = cu:yankee
+		add_claim = c:IRC
 		add_claim = c:NEW
 		add_claim = c:TEX
-		add_claim = c:X24
 		add_claim = c:X30
 	}
 	s:STATE_MINSK = {
@@ -5264,6 +5273,7 @@
 		}
 		add_homeland = cu:aborigine
 		add_homeland = cu:australian
+		add_claim = c:P14
 	}
 	s:STATE_NORTHERN_THRACE = {
 		create_state = {
@@ -5403,6 +5413,7 @@
 		add_homeland = cu:dakota
 		add_homeland = cu:pueblo
 		add_homeland = cu:siouan
+		add_claim = c:IRC
 		add_claim = c:TEX
 		add_claim = c:X30
 	}
@@ -5669,6 +5680,8 @@
 		add_homeland = cu:franco_canadian
 		add_homeland = cu:iroquoian
 		add_homeland = cu:neo-canada_colony-danish
+		add_claim = c:M09
+		add_claim = c:N11
 		add_claim = c:NEW
 		add_claim = c:X24
 	}
@@ -5714,6 +5727,7 @@
 		add_homeland = cu:salish
 		add_claim = c:ALK
 		add_claim = c:CSC
+		add_claim = c:X42
 	}
 	s:STATE_ORISSA = {
 		create_state = {
@@ -6286,6 +6300,7 @@
 		add_homeland = cu:aborigine
 		add_homeland = cu:australian
 		add_homeland = cu:polynesian
+		add_claim = c:P14
 	}
 	s:STATE_QUETTA = {
 		create_state = {
@@ -6673,6 +6688,7 @@
 		add_homeland = cu:cree
 		add_homeland = cu:metis
 		add_homeland = cu:salish
+		add_claim = c:ARP
 		add_claim = c:NEW
 		add_claim = c:X24
 	}
@@ -8168,6 +8184,7 @@
 		add_homeland = cu:salish
 		add_claim = c:ALK
 		add_claim = c:CSC
+		add_claim = c:X42
 	}
 	s:STATE_WESTERN_AUSTRALIA = {
 		create_state = {
@@ -8324,6 +8341,7 @@
 		add_homeland = cu:bornean
 		add_homeland = cu:hakka
 		add_homeland = cu:polynesian
+		add_claim = c:HAW
 		add_claim = c:W44
 		add_claim = c:X17
 	}
@@ -8483,6 +8501,7 @@
 		add_homeland = cu:algonquian
 		add_homeland = cu:neo-usa_north_colony-danish
 		add_homeland = cu:siouan
+		add_claim = c:A06
 		add_claim = c:X26
 		add_claim = c:X28
 		add_claim = c:X30

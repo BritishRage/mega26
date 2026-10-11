@@ -1,0 +1,4373 @@
+﻿BUILDINGS = {
+	s:STATE_ALASKA = {
+		region_state:A04 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:A04
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:DE0 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:DE0
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:DH1 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:DH1
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:DH2 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:DH2
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:DX1 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:DX1
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:G03 = {
+			create_building = {
+				building = "building_livestock_ranch"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:G03
+						levels = 1
+						region = STATE_ALASKA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:IN1 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:IN1
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:IN1
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_port"
+				add_ownership = {
+					country = {
+						country = c:IN1
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_livestock_ranch"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:IN1
+						levels = 1
+						region = STATE_ALASKA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:N07 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:N07
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:T03 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:T03
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_AMAZONAS = {
+		region_state:K38 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:K38
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:K39 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:K39
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:M45 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:M45
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:M46 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:M46
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:M46
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_maize_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:M46
+						levels = 1
+						region = STATE_AMAZONAS
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:N22 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:N22
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:P22 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:P22
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:P24 = {
+			create_building = {
+				building = "building_maize_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:P24
+						levels = 1
+						region = STATE_AMAZONAS
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:P25 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:P25
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:SM1 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:SM1
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:W21 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:W21
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_AMHARA = {
+		region_state:BRN = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:BRN
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:BRN
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_millet_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:BRN
+						levels = 1
+						region = STATE_AMHARA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_AREQUIPA = {
+		region_state:TWT = {
+			create_building = {
+				building = "building_maize_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:TWT
+						levels = 1
+						region = STATE_AREQUIPA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_BOLIVAR = {
+		region_state:Y15 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:Y15
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:Y15
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_port"
+				add_ownership = {
+					country = {
+						country = c:Y15
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_BOTSWANA = {
+		region_state:TSW = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:TSW
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TSW
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_millet_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:TSW
+						levels = 1
+						region = STATE_BOTSWANA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_BRITISH_COLUMBIA = {
+		region_state:DA1 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:DA1
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:DA1
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_port"
+				add_ownership = {
+					country = {
+						country = c:DA1
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_wheat_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:DA1
+						levels = 1
+						region = STATE_BRITISH_COLUMBIA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:DZ1 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:DZ1
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:K03 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:K03
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:K03
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_port"
+				add_ownership = {
+					country = {
+						country = c:K03
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:L04 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:L04
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:L04
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_port"
+				add_ownership = {
+					country = {
+						country = c:L04
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_wheat_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:L04
+						levels = 1
+						region = STATE_BRITISH_COLUMBIA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:SD1 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:SD1
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SD1
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_port"
+				add_ownership = {
+					country = {
+						country = c:SD1
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_wheat_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:SD1
+						levels = 1
+						region = STATE_BRITISH_COLUMBIA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:T02 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:T02
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:T06 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:T06
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:T06
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_port"
+				add_ownership = {
+					country = {
+						country = c:T06
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:TY1 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:TY1
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_CALIFORNIA = {
+		region_state:M08 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:M08
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:T01 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:T01
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_CHAD = {
+		region_state:TBI = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:TBI
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TBI
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_livestock_ranch"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:TBI
+						levels = 1
+						region = STATE_CHAD
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_CHUKOTKA = {
+		region_state:O05 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:O05
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_COLORADO = {
+		region_state:UTE = {
+			create_building = {
+				building = "building_maize_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:UTE
+						levels = 1
+						region = STATE_COLORADO
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_CONGO = {
+		region_state:BOB = {
+			create_building = {
+				building = "building_millet_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:BOB
+						levels = 1
+						region = STATE_CONGO
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_CONGO_ORIENTALE = {
+		region_state:MNB = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:MNB
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MNB
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_millet_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:MNB
+						levels = 1
+						region = STATE_CONGO_ORIENTALE
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:ZND = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:ZND
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ZND
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_millet_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:ZND
+						levels = 1
+						region = STATE_CONGO_ORIENTALE
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_EASTERN_NEW_GUINEA = {
+		region_state:PPU = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:PPU
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:PPU
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_port"
+				add_ownership = {
+					country = {
+						country = c:PPU
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_rice_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:PPU
+						levels = 1
+						region = STATE_EASTERN_NEW_GUINEA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_EAST_ANGOLA = {
+		region_state:LZO = {
+			create_building = {
+				building = "building_millet_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:LZO
+						levels = 1
+						region = STATE_EAST_ANGOLA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_EAST_SAHARA = {
+		region_state:AHG = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:AHG
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:AHG
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_livestock_ranch"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:AHG
+						levels = 1
+						region = STATE_EAST_SAHARA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_EQUATEUR = {
+		region_state:BNG = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:BNG
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:BNG
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_millet_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:BNG
+						levels = 1
+						region = STATE_EQUATEUR
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_livestock_ranch"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:BNG
+						levels = 1
+						region = STATE_EQUATEUR
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:BOB = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:BOB
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:BOB
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_millet_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:BOB
+						levels = 1
+						region = STATE_EQUATEUR
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_EQUATORIA = {
+		region_state:DFT = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:DFT
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:DFT
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_millet_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:DFT
+						levels = 1
+						region = STATE_EQUATORIA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:DNK = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:DNK
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:DNK
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_millet_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:DNK
+						levels = 1
+						region = STATE_EQUATORIA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:NUE = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:NUE
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:NUE
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_millet_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:NUE
+						levels = 1
+						region = STATE_EQUATORIA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:TPS = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:TPS
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TPS
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_millet_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:TPS
+						levels = 1
+						region = STATE_EQUATORIA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_GABON = {
+		region_state:FNG = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:FNG
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:FNG
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_port"
+				add_ownership = {
+					country = {
+						country = c:FNG
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_millet_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:FNG
+						levels = 1
+						region = STATE_GABON
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_GUAVIARE = {
+		region_state:A27 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:A27
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:A27
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_rice_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:A27
+						levels = 1
+						region = STATE_GUAVIARE
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:K37 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:K37
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:K37
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:P24 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:P24
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:P24
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_HEREROLAND = {
+		region_state:HRO = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:HRO
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRO
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_port"
+				add_ownership = {
+					country = {
+						country = c:HRO
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_livestock_ranch"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:HRO
+						levels = 1
+						region = STATE_HEREROLAND
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_ICA = {
+		region_state:TWT = {
+			create_building = {
+				building = "building_maize_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:TWT
+						levels = 1
+						region = STATE_ICA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_IDAHO = {
+		region_state:I01 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:I01
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:NZP = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:NZP
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_INNER_MAURITANIA = {
+		region_state:OUA = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:OUA
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:OUA
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_livestock_ranch"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:OUA
+						levels = 1
+						region = STATE_INNER_MAURITANIA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_IVORY_COAST = {
+		region_state:AYI = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:AYI
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:AYI
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_port"
+				add_ownership = {
+					country = {
+						country = c:AYI
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_millet_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:AYI
+						levels = 1
+						region = STATE_IVORY_COAST
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_KAMCHATKA = {
+		region_state:K17 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:K17
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:K17
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_port"
+				add_ownership = {
+					country = {
+						country = c:K17
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_livestock_ranch"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:K17
+						levels = 1
+						region = STATE_KAMCHATKA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_KENYA = {
+		region_state:KKY = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:KKY
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:KKY
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_port"
+				add_ownership = {
+					country = {
+						country = c:KKY
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_millet_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:KKY
+						levels = 1
+						region = STATE_KENYA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_KOLYMA = {
+		region_state:V09 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:V09
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:V09
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_livestock_ranch"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:V09
+						levels = 1
+						region = STATE_KOLYMA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_LA_PAZ = {
+		region_state:TWT = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:TWT
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TWT
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_rice_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:TWT
+						levels = 1
+						region = STATE_LA_PAZ
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_LIMA = {
+		region_state:TWT = {
+			create_building = {
+				building = "building_maize_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:TWT
+						levels = 1
+						region = STATE_LIMA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_LUZON = {
+		region_state:I06 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:I06
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:I06
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_port"
+				add_ownership = {
+					country = {
+						country = c:I06
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_rice_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:I06
+						levels = 1
+						region = STATE_LUZON
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:SUL = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:SUL
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SUL
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_port"
+				add_ownership = {
+					country = {
+						country = c:SUL
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_rice_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:SUL
+						levels = 1
+						region = STATE_LUZON
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_MATO_GROSSO = {
+		region_state:K31 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:K31
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:K31
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_maize_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:K31
+						levels = 1
+						region = STATE_MATO_GROSSO
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:K32 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:K32
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:K32
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_maize_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:K32
+						levels = 1
+						region = STATE_MATO_GROSSO
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:N21 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:N21
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:R05 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:R05
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:R05
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_maize_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:R05
+						levels = 1
+						region = STATE_MATO_GROSSO
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_MAURITANIA = {
+		region_state:OUA = {
+			create_building = {
+				building = "building_livestock_ranch"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:OUA
+						levels = 1
+						region = STATE_MAURITANIA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:TRZ = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:TRZ
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TRZ
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_port"
+				add_ownership = {
+					country = {
+						country = c:TRZ
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_livestock_ranch"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:TRZ
+						levels = 1
+						region = STATE_MAURITANIA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_MONTANA = {
+		region_state:K03 = {
+			create_building = {
+				building = "building_wheat_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:K03
+						levels = 1
+						region = STATE_MONTANA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_NAMAQUALAND = {
+		region_state:NAM = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:NAM
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:NAM
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_port"
+				add_ownership = {
+					country = {
+						country = c:NAM
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_livestock_ranch"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:NAM
+						levels = 1
+						region = STATE_NAMAQUALAND
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_NEVADA = {
+		region_state:N05 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:N05
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:N05
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_livestock_ranch"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:N05
+						levels = 1
+						region = STATE_NEVADA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_NEWFOUNDLAND = {
+		region_state:N12 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:N12
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_NEW_SOUTH_WALES = {
+		region_state:M24 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:M24
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:P15 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:P15
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:P15
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_port"
+				add_ownership = {
+					country = {
+						country = c:P15
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_wheat_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:P15
+						levels = 1
+						region = STATE_NEW_SOUTH_WALES
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_NORTHERN_CAPE = {
+		region_state:TSW = {
+			create_building = {
+				building = "building_wheat_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:TSW
+						levels = 1
+						region = STATE_NORTHERN_CAPE
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_NORTHERN_TERRITORY = {
+		region_state:A12 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:A12
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:NY1 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:NY1
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:W12 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:W12
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:W13 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:W13
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_NORTHWEST_TERRITORIES = {
+		region_state:DC1 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:DC1
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:DC1
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_livestock_ranch"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:DC1
+						levels = 1
+						region = STATE_NORTHWEST_TERRITORIES
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:DE2 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:DE2
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:DE2
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_livestock_ranch"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:DE2
+						levels = 1
+						region = STATE_NORTHWEST_TERRITORIES
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:K04 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:K04
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:K04
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_livestock_ranch"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:K04
+						levels = 1
+						region = STATE_NORTHWEST_TERRITORIES
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:KG1 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:KG1
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:S12 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:S12
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:S12
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:S13 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:S13
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:SG1 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:SG1
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:T04 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:T04
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:T04
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_livestock_ranch"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:T04
+						levels = 1
+						region = STATE_NORTHWEST_TERRITORIES
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:T05 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:T05
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_NORTH_CAMEROON = {
+		region_state:SOK = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:SOK
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SOK
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_millet_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:SOK
+						levels = 2
+						region = STATE_NORTH_CAMEROON
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_livestock_ranch"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:SOK
+						levels = 1
+						region = STATE_NORTH_CAMEROON
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_coffee_plantation"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:SOK
+						levels = 1
+						region = STATE_NORTH_CAMEROON
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_NUNAVUT = {
+		region_state:A05 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:A05
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:K05 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:K05
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:N08 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:N08
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:Q01 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:Q01
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:Q01
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_port"
+				add_ownership = {
+					country = {
+						country = c:Q01
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_livestock_ranch"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:Q01
+						levels = 1
+						region = STATE_NUNAVUT
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_OB = {
+		region_state:N18 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:N18
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_OKHOTSK = {
+		region_state:E03 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:E03
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:E03
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_port"
+				add_ownership = {
+					country = {
+						country = c:E03
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_livestock_ranch"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:E03
+						levels = 1
+						region = STATE_OKHOTSK
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_OREGON = {
+		region_state:S08 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:S08
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_PARA = {
+		region_state:A24 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:A24
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:A24
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_port"
+				add_ownership = {
+					country = {
+						country = c:A24
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_rice_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:A24
+						levels = 1
+						region = STATE_PARA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:A25 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:A25
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:A25
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_port"
+				add_ownership = {
+					country = {
+						country = c:A25
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_rice_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:A25
+						levels = 1
+						region = STATE_PARA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:M43 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:M43
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:M43
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_port"
+				add_ownership = {
+					country = {
+						country = c:M43
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_rice_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:M43
+						levels = 1
+						region = STATE_PARA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:M44 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:M44
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:M44
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_port"
+				add_ownership = {
+					country = {
+						country = c:M44
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_rice_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:M44
+						levels = 1
+						region = STATE_PARA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:O09 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:O09
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:U08 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:U08
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:W19 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:W19
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:W19
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_port"
+				add_ownership = {
+					country = {
+						country = c:W19
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_rice_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:W19
+						levels = 1
+						region = STATE_PARA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:Y14 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:Y14
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:Y14
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_port"
+				add_ownership = {
+					country = {
+						country = c:Y14
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_rice_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:Y14
+						levels = 1
+						region = STATE_PARA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_QUEBEC = {
+		region_state:EI1 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:EI1
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:EI1
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_port"
+				add_ownership = {
+					country = {
+						country = c:EI1
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_wheat_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:EI1
+						levels = 1
+						region = STATE_QUEBEC
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:N09 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:N09
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:N13 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:N13
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:N13
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_port"
+				add_ownership = {
+					country = {
+						country = c:N13
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_wheat_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:N13
+						levels = 1
+						region = STATE_QUEBEC
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:S14 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:S14
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_QUEENSLAND = {
+		region_state:G11 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:G11
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:K15 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:K15
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:M22 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:M22
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:M23 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:M23
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:T20 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:T20
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_SAHARA = {
+		region_state:TUA = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:TUA
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUA
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_livestock_ranch"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:TUA
+						levels = 1
+						region = STATE_SAHARA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_SOUTH_ANGOLA = {
+		region_state:OVM = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:OVM
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:OVM
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_port"
+				add_ownership = {
+					country = {
+						country = c:OVM
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_millet_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:OVM
+						levels = 1
+						region = STATE_SOUTH_ANGOLA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_SOUTH_AUSTRALIA = {
+		region_state:K14 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:K14
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:K14
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_port"
+				add_ownership = {
+					country = {
+						country = c:K14
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_wheat_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:K14
+						levels = 1
+						region = STATE_SOUTH_AUSTRALIA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:K16 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:K16
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:K16
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_port"
+				add_ownership = {
+					country = {
+						country = c:K16
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_wheat_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:K16
+						levels = 1
+						region = STATE_SOUTH_AUSTRALIA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:MRN = {
+			create_building = {
+				building = "building_wheat_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:MRN
+						levels = 1
+						region = STATE_SOUTH_AUSTRALIA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:NY2 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:NY2
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:NY2
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_port"
+				add_ownership = {
+					country = {
+						country = c:NY2
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_wheat_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:NY2
+						levels = 1
+						region = STATE_SOUTH_AUSTRALIA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:TY2 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:TY2
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:Y08 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:Y08
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_SOUTH_CAMEROON = {
+		region_state:FNG = {
+			create_building = {
+				building = "building_millet_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:FNG
+						levels = 1
+						region = STATE_SOUTH_CAMEROON
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_TIMBUKTU = {
+		region_state:ADG = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:ADG
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_TRANS_BAIKAL = {
+		region_state:YAK = {
+			create_building = {
+				building = "building_rye_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:YAK
+						levels = 1
+						region = STATE_TRANS_BAIKAL
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_UBANGI_SHARI = {
+		region_state:DAK = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:DAK
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:DAK
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_millet_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:DAK
+						levels = 1
+						region = STATE_UBANGI_SHARI
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:ZND = {
+			create_building = {
+				building = "building_millet_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:ZND
+						levels = 1
+						region = STATE_UBANGI_SHARI
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_UPPER_YENISEYSK = {
+		region_state:DU1 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:DU1
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:DU1
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_UTAH = {
+		region_state:N04 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:N04
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:N04
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:UTE = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:UTE
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:UTE
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_maize_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:UTE
+						levels = 1
+						region = STATE_UTAH
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_WESTERN_AUSTRALIA = {
+		region_state:MRN = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:MRN
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MRN
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_port"
+				add_ownership = {
+					country = {
+						country = c:MRN
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:WTI = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:WTI
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:WTI
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_port"
+				add_ownership = {
+					country = {
+						country = c:WTI
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_WESTERN_NEW_GUINEA = {
+		region_state:PPU = {
+			create_building = {
+				building = "building_rice_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:PPU
+						levels = 1
+						region = STATE_WESTERN_NEW_GUINEA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_WEST_SAHARA = {
+		region_state:SAH = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:SAH
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SAH
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_port"
+				add_ownership = {
+					country = {
+						country = c:SAH
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_livestock_ranch"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:SAH
+						levels = 1
+						region = STATE_WEST_SAHARA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_WINDWARD_COAST = {
+		region_state:BLE = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:BLE
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:BLE
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_port"
+				add_ownership = {
+					country = {
+						country = c:BLE
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_millet_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:BLE
+						levels = 1
+						region = STATE_WINDWARD_COAST
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:KBD = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:KBD
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:KBD
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_port"
+				add_ownership = {
+					country = {
+						country = c:KBD
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_millet_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:KBD
+						levels = 1
+						region = STATE_WINDWARD_COAST
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:KRU = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:KRU
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:KRU
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_port"
+				add_ownership = {
+					country = {
+						country = c:KRU
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_millet_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:KRU
+						levels = 1
+						region = STATE_WINDWARD_COAST
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_WYOMING = {
+		region_state:UTE = {
+			create_building = {
+				building = "building_wheat_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:UTE
+						levels = 1
+						region = STATE_WYOMING
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_YAKUTSK = {
+		region_state:DU1 = {
+			create_building = {
+				building = "building_livestock_ranch"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:DU1
+						levels = 1
+						region = STATE_YAKUTSK
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:E04 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:E04
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:E04
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_livestock_ranch"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:E04
+						levels = 1
+						region = STATE_YAKUTSK
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:YAK = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:YAK
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:YAK
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_livestock_ranch"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:YAK
+						levels = 1
+						region = STATE_YAKUTSK
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_YUKON_TERRITORY = {
+		region_state:DA0 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:DA0
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:DA0
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_livestock_ranch"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:DA0
+						levels = 1
+						region = STATE_YUKON_TERRITORY
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:G03 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:G03
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:G03
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_livestock_ranch"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:G03
+						levels = 1
+						region = STATE_YUKON_TERRITORY
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:HH1 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:HH1
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HH1
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_livestock_ranch"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:HH1
+						levels = 1
+						region = STATE_YUKON_TERRITORY
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:HH2 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:HH2
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HH2
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:IN1 = {
+			create_building = {
+				building = "building_livestock_ranch"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:IN1
+						levels = 1
+						region = STATE_YUKON_TERRITORY
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:KD1 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:KD1
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:KD1
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:L04 = {
+			create_building = {
+				building = "building_livestock_ranch"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:L04
+						levels = 1
+						region = STATE_YUKON_TERRITORY
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:T06 = {
+			create_building = {
+				building = "building_livestock_ranch"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:T06
+						levels = 1
+						region = STATE_YUKON_TERRITORY
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_ZAMBIA = {
+		region_state:LZO = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:LZO
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:LZO
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_millet_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:LZO
+						levels = 1
+						region = STATE_ZAMBIA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+}
