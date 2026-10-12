@@ -1,0 +1,11 @@
+﻿l_english:
+  czech:0 "Moravian"
+
+PLURAL_DEMONYM_czech: "Moravians"
+
+SINGULAR_DEMONYM_czech: "Moravian"
+PLURAL_DEMONYM_FEMALE_czech: "Moravians"
+
+SINGULAR_DEMONYM_FEMALE_czech: "Moravian"
+### Traditions
+tradition_imperial: "Imperial"

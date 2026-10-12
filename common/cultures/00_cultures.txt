@@ -3,7 +3,7 @@
 	religion = protestant
 	heritage = heritage_germanic
 	language = language_germanophone
-	traditions = { }
+	traditions = { tradition_imperial }
 	obsessions = {
 		meat
 	}
@@ -199,7 +199,7 @@ south_german={
 	religion = catholic
 	heritage = heritage_germanic
 	language = language_germanophone
-	traditions = { }
+	traditions = { tradition_imperial }
 	obsessions = {
 		meat
 	}
@@ -524,7 +524,7 @@ dutch={
 	religion = protestant
 	heritage = heritage_netherlandish
 	language = language_dutch
-	traditions = { }
+	traditions = { tradition_imperial }
 	obsessions = {
 		coffee
 	}
@@ -1925,7 +1925,7 @@ alemannic={
 	religion = protestant
 	heritage = heritage_germanic
 	language = language_germanophone
-	traditions = { tradition_helvetic }
+	traditions = { tradition_helvetic tradition_tradition_imperial }
 	obsessions = {
 		meat
 	}
@@ -3546,7 +3546,7 @@ north_italian={
 	religion = catholic
 	heritage = heritage_italic
 	language = language_italian
-	traditions = { }
+	traditions = { tradition_imperial }
 	
 	obsessions = {
 		wine
@@ -7999,7 +7999,7 @@ slovene={
 	religion = catholic
 	heritage = heritage_south_slavic
 	language = language_slovene
-	traditions = { }
+	traditions = { tradition_imperial }
 	male_common_first_names={
 		sl_Adolf sl_Albert sl_Albin sl_Ales sl_Aljaz sl_Aljosa sl_Alojz sl_Alvin
 		sl_Andrej sl_Anton sl_Antoni sl_Antonijo sl_Anze sl_Avgust sl_Berislav
@@ -9316,11 +9316,11 @@ lithuanian={
 }
 
 czech={
-	color= hsv{ 0.66 0.32 0.99 }
-	religion = protestant
-	heritage = heritage_baltic
-	language = language_baltic
-	traditions = { }
+	color= { 245 77 94 }
+	religion = hussite
+	heritage = heritage_west_slavic
+	language = language_west_slavic
+	traditions = { tradition_imperial }
 	obsessions = {
 		liquor
 	}
