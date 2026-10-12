@@ -1,5 +1,5 @@
 ﻿CHARACTERS = {
-	c:I09 = {
+	c:I09 ?= {
 		create_character = {
 			first_name = "Khaarchaana"
 			last_name = "Burgumi"

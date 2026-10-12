@@ -1,19 +1,4 @@
 ﻿AI = {
-	c:A06 = {
-		random_list = {
-			25 = { set_strategy = ai_strategy_agricultural_expansion }
-			50 = { set_strategy = ai_strategy_placate_population }
-			25 = { set_strategy = ai_strategy_plantation_economy }
-		}
-		random_list = {
-			50 = { set_strategy = ai_strategy_armed_isolationism }
-			25 = { set_strategy = ai_strategy_colonial_expansion }
-			25 = { set_strategy = ai_strategy_economic_imperialism }
-			50 = { set_strategy = ai_strategy_maintain_power_balance }
-			25 = { set_strategy = ai_strategy_territorial_expansion }
-		}
-		set_strategy = ai_strategy_conservative_agenda
-	}
 	c:ALI = {
 		set_strategy = ai_strategy_placate_population
 		random_list = {
@@ -36,42 +21,6 @@
 		}
 		set_strategy = ai_strategy_progressive_agenda
 	}
-	c:ARP = {
-		random_list = {
-			25 = { set_strategy = ai_strategy_agricultural_expansion }
-			25 = { set_strategy = ai_strategy_placate_population }
-			25 = { set_strategy = ai_strategy_plantation_economy }
-		}
-		random_list = {
-			25 = { set_strategy = ai_strategy_armed_isolationism }
-			25 = { set_strategy = ai_strategy_colonial_expansion }
-			25 = { set_strategy = ai_strategy_economic_imperialism }
-			50 = { set_strategy = ai_strategy_maintain_power_balance }
-			25 = { set_strategy = ai_strategy_territorial_expansion }
-		}
-		random_list = {
-			25 = { set_strategy = ai_strategy_conservative_agenda }
-			25 = { set_strategy = ai_strategy_progressive_agenda }
-		}
-	}
-	c:BLF = {
-		random_list = {
-			25 = { set_strategy = ai_strategy_agricultural_expansion }
-			25 = { set_strategy = ai_strategy_placate_population }
-			25 = { set_strategy = ai_strategy_plantation_economy }
-		}
-		random_list = {
-			25 = { set_strategy = ai_strategy_armed_isolationism }
-			25 = { set_strategy = ai_strategy_colonial_expansion }
-			25 = { set_strategy = ai_strategy_economic_imperialism }
-			50 = { set_strategy = ai_strategy_maintain_power_balance }
-			25 = { set_strategy = ai_strategy_territorial_expansion }
-		}
-		random_list = {
-			25 = { set_strategy = ai_strategy_conservative_agenda }
-			25 = { set_strategy = ai_strategy_progressive_agenda }
-		}
-	}
 	c:BRU = {
 		random_list = {
 			25 = { set_strategy = ai_strategy_placate_population }
@@ -87,19 +36,6 @@
 			50 = { set_strategy = ai_strategy_conservative_agenda }
 			25 = { set_strategy = ai_strategy_progressive_agenda }
 		}
-	}
-	c:BRY = {
-		random_list = {
-			25 = { set_strategy = ai_strategy_agricultural_expansion }
-			50 = { set_strategy = ai_strategy_placate_population }
-		}
-		random_list = {
-			50 = { set_strategy = ai_strategy_armed_isolationism }
-			25 = { set_strategy = ai_strategy_colonial_expansion }
-			50 = { set_strategy = ai_strategy_maintain_power_balance }
-			25 = { set_strategy = ai_strategy_territorial_expansion }
-		}
-		set_strategy = ai_strategy_conservative_agenda
 	}
 	c:BUK = {
 		set_strategy = ai_strategy_placate_population
@@ -130,20 +66,6 @@
 			50 = { set_strategy = ai_strategy_conservative_agenda }
 			25 = { set_strategy = ai_strategy_progressive_agenda }
 		}
-	}
-	c:CHK = {
-		random_list = {
-			25 = { set_strategy = ai_strategy_agricultural_expansion }
-			50 = { set_strategy = ai_strategy_placate_population }
-		}
-		random_list = {
-			50 = { set_strategy = ai_strategy_armed_isolationism }
-			25 = { set_strategy = ai_strategy_colonial_expansion }
-			25 = { set_strategy = ai_strategy_economic_imperialism }
-			50 = { set_strategy = ai_strategy_maintain_power_balance }
-			25 = { set_strategy = ai_strategy_territorial_expansion }
-		}
-		set_strategy = ai_strategy_conservative_agenda
 	}
 	c:CKC = {
 		set_strategy = ai_strategy_placate_population
@@ -198,20 +120,6 @@
 		}
 		set_strategy = ai_strategy_progressive_agenda
 	}
-	c:FRA = {
-		set_strategy = ai_strategy_placate_population
-		random_list = {
-			25 = { set_strategy = ai_strategy_armed_isolationism }
-			25 = { set_strategy = ai_strategy_colonial_expansion }
-			75 = { set_strategy = ai_strategy_economic_imperialism }
-			50 = { set_strategy = ai_strategy_maintain_power_balance }
-			25 = { set_strategy = ai_strategy_territorial_expansion }
-		}
-		random_list = {
-			50 = { set_strategy = ai_strategy_conservative_agenda }
-			25 = { set_strategy = ai_strategy_progressive_agenda }
-		}
-	}
 	c:GBR = {
 		random_list = {
 			25 = { set_strategy = ai_strategy_agricultural_expansion }
@@ -258,41 +166,6 @@
 			25 = { set_strategy = ai_strategy_progressive_agenda }
 		}
 	}
-	c:I09 = {
-		random_list = {
-			25 = { set_strategy = ai_strategy_agricultural_expansion }
-			50 = { set_strategy = ai_strategy_placate_population }
-			25 = { set_strategy = ai_strategy_resource_expansion }
-		}
-		random_list = {
-			50 = { set_strategy = ai_strategy_armed_isolationism }
-			25 = { set_strategy = ai_strategy_economic_imperialism }
-			50 = { set_strategy = ai_strategy_maintain_power_balance }
-			25 = { set_strategy = ai_strategy_territorial_expansion }
-		}
-		random_list = {
-			50 = { set_strategy = ai_strategy_conservative_agenda }
-			10 = { set_strategy = ai_strategy_progressive_agenda }
-		}
-	}
-	c:IRC = {
-		random_list = {
-			25 = { set_strategy = ai_strategy_agricultural_expansion }
-			25 = { set_strategy = ai_strategy_placate_population }
-			25 = { set_strategy = ai_strategy_plantation_economy }
-		}
-		random_list = {
-			25 = { set_strategy = ai_strategy_armed_isolationism }
-			25 = { set_strategy = ai_strategy_colonial_expansion }
-			25 = { set_strategy = ai_strategy_economic_imperialism }
-			50 = { set_strategy = ai_strategy_maintain_power_balance }
-			25 = { set_strategy = ai_strategy_territorial_expansion }
-		}
-		random_list = {
-			25 = { set_strategy = ai_strategy_conservative_agenda }
-			10 = { set_strategy = ai_strategy_progressive_agenda }
-		}
-	}
 	c:JAP = {
 		set_strategy = ai_strategy_resource_expansion
 		random_list = {
@@ -335,37 +208,6 @@
 			25 = { set_strategy = ai_strategy_conservative_agenda }
 			25 = { set_strategy = ai_strategy_progressive_agenda }
 		}
-	}
-	c:KFA = {
-		random_list = {
-			25 = { set_strategy = ai_strategy_agricultural_expansion }
-			50 = { set_strategy = ai_strategy_placate_population }
-			25 = { set_strategy = ai_strategy_resource_expansion }
-		}
-		random_list = {
-			50 = { set_strategy = ai_strategy_armed_isolationism }
-			25 = { set_strategy = ai_strategy_economic_imperialism }
-			50 = { set_strategy = ai_strategy_maintain_power_balance }
-			25 = { set_strategy = ai_strategy_territorial_expansion }
-		}
-		random_list = {
-			50 = { set_strategy = ai_strategy_conservative_agenda }
-			10 = { set_strategy = ai_strategy_progressive_agenda }
-		}
-	}
-	c:KSN = {
-		random_list = {
-			25 = { set_strategy = ai_strategy_agricultural_expansion }
-			50 = { set_strategy = ai_strategy_placate_population }
-		}
-		random_list = {
-			50 = { set_strategy = ai_strategy_armed_isolationism }
-			25 = { set_strategy = ai_strategy_colonial_expansion }
-			25 = { set_strategy = ai_strategy_economic_imperialism }
-			50 = { set_strategy = ai_strategy_maintain_power_balance }
-			25 = { set_strategy = ai_strategy_territorial_expansion }
-		}
-		set_strategy = ai_strategy_conservative_agenda
 	}
 	c:KTI = {
 		random_list = {
@@ -471,23 +313,6 @@
 			25 = { set_strategy = ai_strategy_armed_isolationism }
 			50 = { set_strategy = ai_strategy_colonial_expansion }
 			75 = { set_strategy = ai_strategy_economic_imperialism }
-			50 = { set_strategy = ai_strategy_maintain_power_balance }
-			25 = { set_strategy = ai_strategy_territorial_expansion }
-		}
-		random_list = {
-			50 = { set_strategy = ai_strategy_conservative_agenda }
-			25 = { set_strategy = ai_strategy_progressive_agenda }
-		}
-	}
-	c:MDK = {
-		random_list = {
-			25 = { set_strategy = ai_strategy_agricultural_expansion }
-			50 = { set_strategy = ai_strategy_placate_population }
-			25 = { set_strategy = ai_strategy_resource_expansion }
-		}
-		random_list = {
-			50 = { set_strategy = ai_strategy_armed_isolationism }
-			25 = { set_strategy = ai_strategy_economic_imperialism }
 			50 = { set_strategy = ai_strategy_maintain_power_balance }
 			25 = { set_strategy = ai_strategy_territorial_expansion }
 		}
@@ -604,23 +429,6 @@
 			25 = { set_strategy = ai_strategy_territorial_expansion }
 		}
 		set_strategy = ai_strategy_progressive_agenda
-	}
-	c:P14 = {
-		random_list = {
-			25 = { set_strategy = ai_strategy_agricultural_expansion }
-			25 = { set_strategy = ai_strategy_placate_population }
-		}
-		random_list = {
-			25 = { set_strategy = ai_strategy_armed_isolationism }
-			25 = { set_strategy = ai_strategy_colonial_expansion }
-			25 = { set_strategy = ai_strategy_economic_imperialism }
-			50 = { set_strategy = ai_strategy_maintain_power_balance }
-			25 = { set_strategy = ai_strategy_territorial_expansion }
-		}
-		random_list = {
-			25 = { set_strategy = ai_strategy_conservative_agenda }
-			10 = { set_strategy = ai_strategy_progressive_agenda }
-		}
 	}
 	c:PLT = {
 		random_list = {
@@ -1047,23 +855,6 @@
 			25 = { set_strategy = ai_strategy_progressive_agenda }
 		}
 	}
-	c:X18 = {
-		random_list = {
-			25 = { set_strategy = ai_strategy_agricultural_expansion }
-			50 = { set_strategy = ai_strategy_placate_population }
-			25 = { set_strategy = ai_strategy_resource_expansion }
-		}
-		random_list = {
-			25 = { set_strategy = ai_strategy_armed_isolationism }
-			25 = { set_strategy = ai_strategy_economic_imperialism }
-			50 = { set_strategy = ai_strategy_maintain_power_balance }
-			25 = { set_strategy = ai_strategy_territorial_expansion }
-		}
-		random_list = {
-			50 = { set_strategy = ai_strategy_conservative_agenda }
-			10 = { set_strategy = ai_strategy_progressive_agenda }
-		}
-	}
 	c:X22 = {
 		random_list = {
 			25 = { set_strategy = ai_strategy_plantation_economy }
@@ -1213,23 +1004,6 @@
 			25 = { set_strategy = ai_strategy_progressive_agenda }
 		}
 	}
-	c:X77 = {
-		random_list = {
-			25 = { set_strategy = ai_strategy_agricultural_expansion }
-			50 = { set_strategy = ai_strategy_placate_population }
-			25 = { set_strategy = ai_strategy_resource_expansion }
-		}
-		random_list = {
-			50 = { set_strategy = ai_strategy_armed_isolationism }
-			25 = { set_strategy = ai_strategy_economic_imperialism }
-			50 = { set_strategy = ai_strategy_maintain_power_balance }
-			25 = { set_strategy = ai_strategy_territorial_expansion }
-		}
-		random_list = {
-			50 = { set_strategy = ai_strategy_conservative_agenda }
-			10 = { set_strategy = ai_strategy_progressive_agenda }
-		}
-	}
 	c:X79 = {
 		random_list = {
 			25 = { set_strategy = ai_strategy_agricultural_expansion }
@@ -1294,23 +1068,6 @@
 		}
 		random_list = {
 			25 = { set_strategy = ai_strategy_conservative_agenda }
-			25 = { set_strategy = ai_strategy_progressive_agenda }
-		}
-	}
-	c:X84 = {
-		random_list = {
-			25 = { set_strategy = ai_strategy_placate_population }
-			25 = { set_strategy = ai_strategy_resource_expansion }
-		}
-		random_list = {
-			25 = { set_strategy = ai_strategy_armed_isolationism }
-			50 = { set_strategy = ai_strategy_colonial_expansion }
-			75 = { set_strategy = ai_strategy_economic_imperialism }
-			50 = { set_strategy = ai_strategy_maintain_power_balance }
-			25 = { set_strategy = ai_strategy_territorial_expansion }
-		}
-		random_list = {
-			50 = { set_strategy = ai_strategy_conservative_agenda }
 			25 = { set_strategy = ai_strategy_progressive_agenda }
 		}
 	}

@@ -1,5 +1,5 @@
 ﻿CHARACTERS = {
-	c:KSN = {
+	c:KSN ?= {
 		create_character = {
 			first_name = "Kinguri_I"
 			last_name = "Imbangala"

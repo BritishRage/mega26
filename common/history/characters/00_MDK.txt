@@ -1,5 +1,5 @@
 ﻿CHARACTERS = {
-	c:MDK = {
+	c:MDK ?= {
 		create_character = {
 			first_name = "Mamadu_III"
 			last_name = "Deo"

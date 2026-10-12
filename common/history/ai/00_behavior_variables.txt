@@ -1,0 +1,22 @@
+﻿AI = {
+	# Set historical tendencies for Ottomans vs Egypt
+	c:GBR ?= {
+		if = {
+			limit = { always = no } # mega26: disabled - vanilla Egypt-vs-Ottoman AI bias (no EGY in mega26; would skew GBR AI interests toward Arabia/Nile and toward backing TUR)
+			set_variable = veiled_protectorate_support_ottomans
+		}
+	}
+	c:AUS ?= {
+		set_variable = veiled_protectorate_support_ottomans
+	}
+	c:RUS ?= {
+		set_variable = veiled_protectorate_support_ottomans
+	}
+	c:PRU ?= {
+		set_variable = veiled_protectorate_support_ottomans
+	}
+}
+
+
+
+

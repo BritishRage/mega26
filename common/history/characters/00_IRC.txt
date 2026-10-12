@@ -1,5 +1,5 @@
 ﻿CHARACTERS = {
-	c:IRC = {
+	c:IRC ?= {
 		create_character = {
 			first_name = "Emitahapiskinne_Canhdada"
 			ruler = yes

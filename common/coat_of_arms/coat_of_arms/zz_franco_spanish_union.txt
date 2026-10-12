@@ -1,0 +1,56 @@
+﻿# Franco-Spanish Union: purple-gold-purple bands with the arms of Spain and France under one crown
+SPA = {
+	pattern = "pattern_solid.tga"
+	color1 = "iberian_republic_purple"
+
+	colored_emblem = {
+		texture = "ce_solid.dds"
+		color1 = "yellow"
+		color2 = "yellow"
+		instance = { scale = { 1.0 0.5 } position = { 0.5 0.5 } }
+	}
+	textured_emblem = {
+		texture = "te_coa_spain.dds"
+		instance = { scale = { 0.42 0.42 } position = { 0.36 0.54 } }
+	}
+	textured_emblem = {
+		texture = "te_coa_france_greater.dds"
+		instance = { scale = { 0.42 0.42 } position = { 0.64 0.54 } }
+	}
+	textured_emblem = {
+		texture = "te_crown.dds"
+		instance = { scale = { 0.3 0.3 } position = { 0.5 0.3 } }
+	}
+}
+
+# Republican variant: same bands and arms, no crown
+SPA_republic = {
+	pattern = "pattern_solid.tga"
+	color1 = "iberian_republic_purple"
+
+	colored_emblem = {
+		texture = "ce_solid.dds"
+		color1 = "yellow"
+		color2 = "yellow"
+		instance = { scale = { 1.0 0.5 } position = { 0.5 0.5 } }
+	}
+	textured_emblem = {
+		texture = "te_coa_spain.dds"
+		instance = { scale = { 0.42 0.42 } position = { 0.36 0.5 } }
+	}
+	textured_emblem = {
+		texture = "te_coa_france_greater.dds"
+		instance = { scale = { 0.42 0.42 } position = { 0.64 0.5 } }
+	}
+}
+
+# Every vanilla Spain flag variant shows the union flag instead
+SPA_absolute_monarchy = SPA
+SPA_dictatorship = SPA
+SPA_theocracy = SPA
+SPA_subject_GBR = SPA
+SPA_republic_2 = SPA_republic
+SPA_republic_3 = SPA_republic
+SPA_communist = SPA_republic
+SPA_anarchist = SPA_republic
+SPA_falangist = SPA_republic

@@ -1,5 +1,106 @@
 ﻿# This is executed last among all history
 GLOBAL = {
+	every_country = { add_era_researched = era_1 } # mega26: tech floor (all of era 1)
+	# mega26: the HRE grants transit rights through Goyana (its chartered company, which can't grant them itself as a junior market partner)
+	if = {
+		limit = { exists = c:HRE exists = c:TWT }
+		c:HRE = {
+			create_treaty = {
+				first_country = c:HRE
+				second_country = c:TWT
+				is_draft = no
+				binding_period = { years = 10 }
+				articles_to_create = {
+					{ article = transit_rights source_country = c:HRE target_country = c:TWT }
+				}
+			}
+		}
+	}
+	if = {
+		limit = { exists = c:HRE exists = c:W19 }
+		c:HRE = {
+			create_treaty = {
+				first_country = c:HRE
+				second_country = c:W19
+				is_draft = no
+				binding_period = { years = 10 }
+				articles_to_create = {
+					{ article = transit_rights source_country = c:HRE target_country = c:W19 }
+				}
+			}
+		}
+	}
+	# mega26: Rozvi grants transit rights so the landlocked nations it surrounds reach the world market (after the tech floor: needs international_relations)
+	if = {
+		limit = { exists = c:MSH exists = c:BNG }
+		c:MSH = {
+			create_treaty = {
+				first_country = c:MSH
+				second_country = c:BNG
+				is_draft = no
+				binding_period = { years = 10 }
+				articles_to_create = {
+					{ article = transit_rights source_country = c:MSH target_country = c:BNG }
+				}
+			}
+		}
+	}
+	if = {
+		limit = { exists = c:MSH exists = c:ZND }
+		c:MSH = {
+			create_treaty = {
+				first_country = c:MSH
+				second_country = c:ZND
+				is_draft = no
+				binding_period = { years = 10 }
+				articles_to_create = {
+					{ article = transit_rights source_country = c:MSH target_country = c:ZND }
+				}
+			}
+		}
+	}
+	if = {
+		limit = { exists = c:MSH exists = c:DNK }
+		c:MSH = {
+			create_treaty = {
+				first_country = c:MSH
+				second_country = c:DNK
+				is_draft = no
+				binding_period = { years = 10 }
+				articles_to_create = {
+					{ article = transit_rights source_country = c:MSH target_country = c:DNK }
+				}
+			}
+		}
+	}
+	if = {
+		limit = { exists = c:MSH exists = c:TBI }
+		c:MSH = {
+			create_treaty = {
+				first_country = c:MSH
+				second_country = c:TBI
+				is_draft = no
+				binding_period = { years = 10 }
+				articles_to_create = {
+					{ article = transit_rights source_country = c:MSH target_country = c:TBI }
+				}
+			}
+		}
+	}
+	if = {
+		limit = { exists = c:MSH exists = c:V27 }
+		c:MSH = {
+			create_treaty = {
+				first_country = c:MSH
+				second_country = c:V27
+				is_draft = no
+				binding_period = { years = 10 }
+				articles_to_create = {
+					{ article = transit_rights source_country = c:MSH target_country = c:V27 }
+				}
+			}
+		}
+	}
 	converter_historical_leader_cultures_effect = yes
 	converter_colonial_confederation_cultures_effect = yes
 	every_country = {

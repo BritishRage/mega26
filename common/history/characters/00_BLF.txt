@@ -1,5 +1,5 @@
 ﻿CHARACTERS = {
-	c:BLF = {
+	c:BLF ?= {
 		create_character = {
 			first_name = "Natoseonistors_Niwayiks"
 			ruler = yes

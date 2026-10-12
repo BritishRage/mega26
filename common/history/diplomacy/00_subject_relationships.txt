@@ -48,7 +48,7 @@
 		}
 	}
 	c:X42 ?= {
-		add_liberty_desire = 8.845
+		add_liberty_desire = -100
 	}
 	c:HRE ?= {
 		create_diplomatic_pact = {
@@ -57,7 +57,7 @@
 		}
 	}
 	c:C16 ?= {
-		add_liberty_desire = -31.754
+		add_liberty_desire = -100
 	}
 	c:HRE ?= {
 		create_diplomatic_pact = {
@@ -66,7 +66,7 @@
 		}
 	}
 	c:X80 ?= {
-		add_liberty_desire = -50
+		add_liberty_desire = -100
 	}
 	c:HRE ?= {
 		create_diplomatic_pact = {
@@ -75,7 +75,7 @@
 		}
 	}
 	c:X85 ?= {
-		add_liberty_desire = -50
+		add_liberty_desire = -100
 	}
 	c:HRE ?= {
 		create_diplomatic_pact = {
@@ -96,7 +96,7 @@
 		}
 	}
 	c:X86 ?= {
-		add_liberty_desire = -50
+		add_liberty_desire = -100
 	}
 	c:HRE ?= {
 		create_diplomatic_pact = {
@@ -105,7 +105,7 @@
 		}
 	}
 	c:X87 ?= {
-		add_liberty_desire = -50
+		add_liberty_desire = -100
 	}
 	c:HRE ?= {
 		create_diplomatic_pact = {
@@ -114,7 +114,7 @@
 		}
 	}
 	c:X88 ?= {
-		add_liberty_desire = -50
+		add_liberty_desire = -100
 	}
 	c:HRE ?= {
 		create_diplomatic_pact = {
@@ -123,7 +123,7 @@
 		}
 	}
 	c:X89 ?= {
-		add_liberty_desire = -8.159
+		add_liberty_desire = -100
 	}
 	c:HRE ?= {
 		create_diplomatic_pact = {
@@ -132,7 +132,7 @@
 		}
 	}
 	c:LOM ?= {
-		add_liberty_desire = -50
+		add_liberty_desire = -100
 	}
 	c:SPA ?= {
 		create_diplomatic_pact = {
@@ -141,7 +141,7 @@
 		}
 	}
 	c:W50 ?= {
-		add_liberty_desire = -50
+		add_liberty_desire = -100
 	}
 	c:SPA ?= {
 		create_diplomatic_pact = {
@@ -186,7 +186,7 @@
 		}
 	}
 	c:X13 ?= {
-		add_liberty_desire = -27.668
+		add_liberty_desire = -100
 	}
 	c:BRU ?= {
 		create_diplomatic_pact = {
@@ -195,7 +195,7 @@
 		}
 	}
 	c:KTI ?= {
-		add_liberty_desire = -31.114
+		add_liberty_desire = -100
 	}
 	c:BRU ?= {
 		create_diplomatic_pact = {
@@ -204,7 +204,7 @@
 		}
 	}
 	c:X17 ?= {
-		add_liberty_desire = -29.28
+		add_liberty_desire = -100
 	}
 	c:JAP ?= {
 		create_diplomatic_pact = {
@@ -213,7 +213,7 @@
 		}
 	}
 	c:W83 ?= {
-		add_liberty_desire = -29.268
+		add_liberty_desire = -100
 	}
 	c:JAP ?= {
 		create_diplomatic_pact = {
@@ -228,7 +228,7 @@
 		}
 	}
 	c:SIA ?= {
-		add_liberty_desire = -34.605
+		add_liberty_desire = -100
 	}
 	c:ALI ?= {
 		create_diplomatic_pact = {
@@ -237,7 +237,7 @@
 		}
 	}
 	c:SH0 ?= {
-		add_liberty_desire = -30.58
+		add_liberty_desire = -100
 	}
 	c:ALI ?= {
 		create_diplomatic_pact = {
@@ -246,7 +246,7 @@
 		}
 	}
 	c:KYR ?= {
-		add_liberty_desire = -48.23
+		add_liberty_desire = -100
 	}
 	c:ALI ?= {
 		create_diplomatic_pact = {
@@ -255,7 +255,13 @@
 		}
 	}
 	c:X91 ?= {
-		add_liberty_desire = -21.08
+		add_liberty_desire = -100
+	}
+	c:ALI ?= {
+		create_diplomatic_pact = {
+			country = c:W44
+			type = tributary
+		}
 	}
 	c:ALI ?= {
 		create_diplomatic_pact = {
@@ -264,7 +270,7 @@
 		}
 	}
 	c:X49 ?= {
-		add_liberty_desire = -28.405
+		add_liberty_desire = -100
 	}
 	c:ALI ?= {
 		create_diplomatic_pact = {
@@ -273,7 +279,7 @@
 		}
 	}
 	c:X16 ?= {
-		add_liberty_desire = 50
+		add_liberty_desire = -100
 	}
 	c:X68 ?= {
 		create_diplomatic_pact = {
@@ -282,16 +288,16 @@
 		}
 	}
 	c:CKC ?= {
-		add_liberty_desire = -50
+		add_liberty_desire = -100
 	}
-	c:X15 ?= {
+	c:CSC ?= { # mega26: was Blambangan's vassal (in Java), cut off from its market
 		create_diplomatic_pact = {
 			country = c:N06
-			type = vassal
+			type = puppet
 		}
 	}
 	c:N06 ?= {
-		add_liberty_desire = -50
+		add_liberty_desire = -100
 	}
 	c:W91 ?= {
 		create_diplomatic_pact = {
@@ -300,7 +306,7 @@
 		}
 	}
 	c:W31 ?= {
-		add_liberty_desire = -33.593
+		add_liberty_desire = -100
 	}
 	c:W91 ?= {
 		create_diplomatic_pact = {
@@ -309,7 +315,7 @@
 		}
 	}
 	c:X15 ?= {
-		add_liberty_desire = -25.853
+		add_liberty_desire = -100
 	}
 	c:HAW ?= {
 		create_diplomatic_pact = {
@@ -318,7 +324,7 @@
 		}
 	}
 	c:LRR ?= {
-		add_liberty_desire = -50
+		add_liberty_desire = -100
 	}
 	c:HAW ?= {
 		create_diplomatic_pact = {
@@ -327,7 +333,7 @@
 		}
 	}
 	c:K13 ?= {
-		add_liberty_desire = -50
+		add_liberty_desire = -100
 	}
 	c:HAW ?= {
 		create_diplomatic_pact = {
@@ -336,7 +342,7 @@
 		}
 	}
 	c:KAU ?= {
-		add_liberty_desire = -50
+		add_liberty_desire = -100
 	}
 	c:HAW ?= {
 		create_diplomatic_pact = {
@@ -345,7 +351,7 @@
 		}
 	}
 	c:NNG ?= {
-		add_liberty_desire = -50
+		add_liberty_desire = -100
 	}
 	c:HAW ?= {
 		create_diplomatic_pact = {
@@ -354,7 +360,7 @@
 		}
 	}
 	c:W94 ?= {
-		add_liberty_desire = -2.815
+		add_liberty_desire = -100
 	}
 	c:HAW ?= {
 		create_diplomatic_pact = {
@@ -363,7 +369,7 @@
 		}
 	}
 	c:W26 ?= {
-		add_liberty_desire = -50
+		add_liberty_desire = -100
 	}
 	c:HAW ?= {
 		create_diplomatic_pact = {
@@ -372,7 +378,7 @@
 		}
 	}
 	c:Y07 ?= {
-		add_liberty_desire = -50
+		add_liberty_desire = -100
 	}
 	c:HAW ?= {
 		create_diplomatic_pact = {
@@ -381,7 +387,7 @@
 		}
 	}
 	c:X81 ?= {
-		add_liberty_desire = -50
+		add_liberty_desire = -100
 	}
 	c:HAW ?= {
 		create_diplomatic_pact = {
@@ -390,6 +396,57 @@
 		}
 	}
 	c:X82 ?= {
-		add_liberty_desire = -50
+		add_liberty_desire = -100
+	}
+	c:X24 ?= {
+		add_liberty_desire = -100
+	}
+	c:X26 ?= {
+		add_liberty_desire = -100
+	}
+	c:X32 ?= {
+		add_liberty_desire = -100
+	}
+	c:X30 ?= {
+		add_liberty_desire = -100
+	}
+	c:NEW ?= {
+		add_liberty_desire = -100
+	}
+	c:X28 ?= {
+		add_liberty_desire = -100
+	}
+	c:TEX ?= {
+		add_liberty_desire = -100
+	}
+	c:X34 ?= {
+		add_liberty_desire = -100
+	}
+	c:WIN ?= {
+		add_liberty_desire = -100
+	}
+	c:EQT ?= {
+		add_liberty_desire = -100
+	}
+	c:PLT ?= {
+		add_liberty_desire = -100
+	}
+	c:X22 ?= {
+		add_liberty_desire = -100
+	}
+	c:CUB ?= {
+		add_liberty_desire = -100
+	}
+	c:X25 ?= {
+		add_liberty_desire = -100
+	}
+	c:NPU ?= {
+		add_liberty_desire = -100
+	}
+	c:ALK ?= {
+		add_liberty_desire = -100
+	}
+	c:W44 ?= {
+		add_liberty_desire = -100
 	}
 }

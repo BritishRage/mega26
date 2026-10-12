@@ -13,6 +13,7 @@
 			member = c:X16
 			member = c:X49
 			member = c:X91
+			member = c:W44
 		}
 	}
 

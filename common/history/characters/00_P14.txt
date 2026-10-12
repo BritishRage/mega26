@@ -1,5 +1,5 @@
 ﻿CHARACTERS = {
-	c:P14 = {
+	c:P14 ?= {
 		create_character = {
 			first_name = "Maka_Girra"
 			ruler = yes

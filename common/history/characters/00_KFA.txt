@@ -1,5 +1,5 @@
 ﻿CHARACTERS = {
-	c:KFA = {
+	c:KFA ?= {
 		create_character = {
 			first_name = "Madi_I"
 			last_name = "Minjo"

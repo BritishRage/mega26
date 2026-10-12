@@ -13,6 +13,12 @@ converter_game_started = {
 		#converter_historical_leader_cultures_effect = yes
 		#converter_colonial_confederation_cultures_effect = yes
 		converter_other_starting_cultural_effects = yes
+		c:HRE ?= { # mega26: Czech is the HRE's only primary culture (strip what the converter's culture pass adds)
+			every_primary_culture = {
+				limit = { NOT = { this = cu:czech } }
+				c:HRE ?= { remove_primary_culture = prev }
+			}
+		}
 		every_country = {
 			if = {
 				limit = { is_subject = yes }

@@ -450,8 +450,8 @@ REPLACE_OR_CREATE:ALI ?= {
 	color = { 74 121 198 }
 	country_type = unrecognized
 	tier = principality
-	cultures = { mongol }
-	religion = tengri_pagan_reformed
+	cultures = { mongol han manchu }
+	religion = confucian
 	capital = STATE_BEIJING
 }
 
@@ -1267,7 +1267,7 @@ REPLACE_OR_CREATE:BLE ?= {
 	color = { 218 104 44 }
 	country_type = unrecognized
 	tier = principality
-	cultures = { akan }
+	cultures = { akan kru mande }
 	capital = STATE_WINDWARD_COAST
 }
 
@@ -1326,7 +1326,7 @@ REPLACE_OR_CREATE:BNG ?= {
 	color = { 41 135 135 }
 	country_type = unrecognized
 	tier = principality
-	cultures = { fluvian_bantu mongo }
+	cultures = { fluvian_bantu mongo equatorial_bantu fang }
 	capital = STATE_EQUATEUR
 }
 
@@ -1934,7 +1934,8 @@ REPLACE_OR_CREATE:CHI ?= {
 	color = { 252 185 61 }
 	country_type = unrecognized
 	tier = empire
-	cultures = { han }
+	cultures = { han mongol manchu }
+	religion = confucian
 	capital = STATE_XIAN
 }
 
@@ -2000,9 +2001,9 @@ REPLACE_OR_CREATE:CKC ?= {
 	color = { 99 236 240 }
 	country_type = unrecognized
 	tier = principality
-	cultures = { siberian }
+	cultures = { siberian yakut }
 	religion = tengri_pagan_reformed
-	capital = STATE_KOLYMA
+	capital = STATE_KAMCHATKA
 }
 
 REPLACE_OR_CREATE:CLI ?= {
@@ -2153,7 +2154,7 @@ REPLACE_OR_CREATE:CSC ?= {
 	color = { 105 152 73 }
 	country_type = colonial
 	tier = principality
-	cultures = { neo-canada_colony-polynesian }
+	cultures = { neo-canada_colony-polynesian penutian paiute neo-usa_north_colony-polynesian salish }
 	religion = animist
 	capital = STATE_BRITISH_COLUMBIA
 }
@@ -2221,7 +2222,7 @@ REPLACE_OR_CREATE:CZH ?= {
 	color = { 43 89 202 }
 	country_type = unrecognized
 	tier = principality
-	cultures = { czech slovak }
+	cultures = { czech }
 	religion = animist
 	capital = STATE_MORAVIA
 }
@@ -2469,7 +2470,7 @@ REPLACE_OR_CREATE:DNK ?= {
 	color = { 78 99 75 }
 	country_type = unrecognized
 	tier = principality
-	cultures = { dinka }
+	cultures = { dinka oromo nuer nilotic }
 	capital = STATE_EQUATORIA
 }
 
@@ -3154,7 +3155,7 @@ REPLACE_OR_CREATE:GAL ?= {
 	color = { 13 81 130 }
 	country_type = unrecognized
 	tier = principality
-	cultures = { polish ukrainian }
+	cultures = { czech ukrainian }
 	religion = animist
 	capital = STATE_EAST_GALICIA
 }
@@ -3684,7 +3685,7 @@ REPLACE_OR_CREATE:HRE ?= {
 	color = { 250 250 245 }
 	country_type = recognized
 	tier = hegemony
-	cultures = { south_german }
+	cultures = { czech }
 	religion = hussite
 	capital = STATE_BOHEMIA
 }
@@ -4401,7 +4402,7 @@ REPLACE_OR_CREATE:K27 ?= {
 	color = { 115 30 50 }
 	country_type = unrecognized
 	tier = principality
-	cultures = { polish }
+	cultures = { czech }
 	religion = animist
 	capital = STATE_POSEN
 }
@@ -4882,7 +4883,7 @@ REPLACE_OR_CREATE:KRA ?= {
 	color = { 138 193 231 }
 	country_type = unrecognized
 	tier = city_state
-	cultures = { polish }
+	cultures = { czech }
 	religion = animist
 	capital = STATE_WEST_GALICIA
 }
@@ -4974,7 +4975,7 @@ REPLACE_OR_CREATE:KUK ?= {
 	color = { 190 90 95 }
 	country_type = recognized
 	tier = empire
-	cultures = { croat czech hungarian romanian slovak slovene south_german }
+	cultures = { croat czech hungarian romanian slovene south_german }
 	capital = STATE_CENTRAL_HUNGARY
 }
 
@@ -5328,7 +5329,7 @@ REPLACE_OR_CREATE:LKT ?= {
 	tier = principality
 	cultures = { dakota }
 	religion = animist
-	capital = STATE_NORTH_DAKOTA
+	capital = STATE_MINNESOTA
 }
 
 REPLACE_OR_CREATE:LMW ?= {
@@ -5377,7 +5378,7 @@ REPLACE_OR_CREATE:LP1 ?= {
 	color = { 245 163 176 }
 	country_type = unrecognized
 	tier = principality
-	cultures = { polish }
+	cultures = { czech }
 	religion = animist
 	capital = STATE_LESSER_POLAND
 }
@@ -5527,7 +5528,7 @@ REPLACE_OR_CREATE:M09 ?= {
 	color = { 220 132 25 }
 	country_type = unrecognized
 	tier = principality
-	cultures = { cree }
+	cultures = { cree algonquian }
 	religion = animist
 	capital = STATE_ONTARIO
 }
@@ -5730,7 +5731,7 @@ REPLACE_OR_CREATE:M34 ?= {
 	color = { 125 46 36 }
 	country_type = unrecognized
 	tier = principality
-	cultures = { polish }
+	cultures = { czech }
 	religion = animist
 	capital = STATE_GREATER_POLAND
 }
@@ -6161,7 +6162,7 @@ REPLACE_OR_CREATE:MOR ?= {
 	color = { 224 146 113 }
 	country_type = unrecognized
 	tier = kingdom
-	cultures = { maghrebi }
+	cultures = { maghrebi berber }
 	religion = sunni
 	capital = STATE_MARRAKECH
 }
@@ -6443,9 +6444,9 @@ REPLACE_OR_CREATE:N11 ?= {
 	color = { 103 198 78 }
 	country_type = unrecognized
 	tier = principality
-	cultures = { algonquian }
+	cultures = { algonquian cree inuit }
 	religion = animist
-	capital = STATE_ONTARIO
+	capital = STATE_QUEBEC
 }
 
 REPLACE_OR_CREATE:N12 ?= {
@@ -7135,7 +7136,7 @@ REPLACE_OR_CREATE:OVM ?= {
 	color = { 107 94 52 }
 	country_type = unrecognized
 	tier = principality
-	cultures = { ovimbundu }
+	cultures = { ovimbundu kavango_bantu khoisan tswana herero }
 	capital = STATE_SOUTH_ANGOLA
 }
 
@@ -7547,7 +7548,7 @@ REPLACE_OR_CREATE:PLC ?= {
 	color = { 219 31 62 }
 	country_type = recognized
 	tier = empire
-	cultures = { lithuanian polish }
+	cultures = { lithuanian czech }
 	capital = STATE_WEST_GALICIA
 }
 
@@ -7615,7 +7616,7 @@ REPLACE_OR_CREATE:POL ?= {
 	color = { 197 92 106 }
 	country_type = unrecognized
 	tier = principality
-	cultures = { polish }
+	cultures = { czech }
 	religion = animist
 	capital = STATE_POSEN
 }
@@ -8101,7 +8102,7 @@ REPLACE_OR_CREATE:S18 ?= {
 	color = { 169 35 75 }
 	country_type = unrecognized
 	tier = principality
-	cultures = { polish }
+	cultures = { czech }
 	religion = animist
 	capital = STATE_LOWER_SILESIA
 }
@@ -8691,7 +8692,7 @@ REPLACE_OR_CREATE:SLV ?= {
 	color = { 158 161 188 }
 	country_type = recognized
 	tier = principality
-	cultures = { slovak }
+	cultures = { czech }
 	religion = hussite
 	capital = STATE_SLOVAKIA
 }
@@ -8764,13 +8765,13 @@ REPLACE_OR_CREATE:SOK ?= {
 }
 
 REPLACE_OR_CREATE:SPA ?= {
-	color = { 211 136 6 }
+	color = { 120 40 160 }
 	primary_unit_color = { 15 25 76 }
-	secondary_unit_color = { 211 136 6 }
-	tertiary_unit_color = { 211 136 6 }
+	secondary_unit_color = { 120 40 160 }
+	tertiary_unit_color = { 120 40 160 }
 	country_type = recognized
 	tier = kingdom
-	cultures = { spanish }
+	cultures = { spanish french }
 	religion = catholic
 	capital = STATE_NEW_CASTILE
 }
@@ -9590,7 +9591,7 @@ REPLACE_OR_CREATE:TWT ?= {
 	color = { 125 92 110 }
 	country_type = unrecognized
 	tier = empire
-	cultures = { quechua }
+	cultures = { quechua amazonian je tupinamba }
 	religion = animist
 	capital = STATE_LA_PAZ
 }
@@ -10052,7 +10053,7 @@ REPLACE_OR_CREATE:V19 ?= {
 	color = { 154 153 157 }
 	country_type = recognized
 	tier = kingdom
-	cultures = { neapolitan }
+	cultures = { neapolitan maghrebi berber }
 	religion = sunni
 	capital = STATE_ALGIERS
 }
@@ -10466,7 +10467,7 @@ REPLACE_OR_CREATE:W18 ?= {
 	color = { 180 60 25 }
 	country_type = unrecognized
 	tier = city_state
-	cultures = { polish }
+	cultures = { czech }
 	religion = animist
 	capital = STATE_GREATER_POLAND
 }
@@ -10475,7 +10476,7 @@ REPLACE_OR_CREATE:W19 ?= {
 	color = { 201 129 171 }
 	country_type = unrecognized
 	tier = city_state
-	cultures = { cariban }
+	cultures = { cariban tupinamba }
 	capital = STATE_PARA
 }
 
@@ -11497,7 +11498,7 @@ REPLACE_OR_CREATE:X12 ?= {
 	color = { 49 175 191 }
 	country_type = unrecognized
 	tier = grand_principality
-	cultures = { kannada }
+	cultures = { kannada oriya }
 	religion = shiite
 	capital = STATE_CIRCARS
 }
@@ -11938,7 +11939,7 @@ REPLACE_OR_CREATE:X68 ?= {
 	color = { 163 182 143 }
 	country_type = unrecognized
 	tier = principality
-	cultures = { yakut }
+	cultures = { yakut siberian }
 	religion = tengri_pagan_reformed
 	capital = STATE_CHUKOTKA
 }
@@ -12401,7 +12402,7 @@ REPLACE_OR_CREATE:YAK ?= {
 	color = { 171 216 191 }
 	country_type = unrecognized
 	tier = principality
-	cultures = { yakut }
+	cultures = { yakut siberian manchu buryat }
 	religion = animist
 	capital = STATE_YAKUTSK
 }
@@ -12630,7 +12631,7 @@ REPLACE_OR_CREATE:ZND ?= {
 	color = { 208 225 57 }
 	country_type = unrecognized
 	tier = principality
-	cultures = { azande }
+	cultures = { azande fluvian_bantu }
 	capital = STATE_CONGO_ORIENTALE
 }
 

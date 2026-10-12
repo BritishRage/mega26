@@ -1,5 +1,5 @@
 ﻿CHARACTERS = {
-	c:ARP = {
+	c:ARP ?= {
 		create_character = {
 			first_name = "Watchano_Clackamas"
 			ruler = yes

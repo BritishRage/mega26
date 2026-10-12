@@ -1,5 +1,5 @@
 ﻿CHARACTERS = {
-	c:CHK = {
+	c:CHK ?= {
 		create_character = {
 			first_name = "Chinguli_I"
 			last_name = "Mwene"

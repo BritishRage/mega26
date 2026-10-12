@@ -1,5 +1,5 @@
 ﻿CHARACTERS = {
-	c:BRY = {
+	c:BRY ?= {
 		create_character = {
 			first_name = "Native_Council"
 			ruler = yes

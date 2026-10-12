@@ -1262,16 +1262,6 @@
 			country = c:X25
 			months = 18
 		}
-		create_bidirectional_truce = {
-			country = c:X84
-			months = 42
-		}
-	}
-	c:X84 ?= {
-		create_bidirectional_truce = {
-			country = c:X83
-			months = 42
-		}
 	}
 	c:X85 ?= {
 		create_bidirectional_truce = {

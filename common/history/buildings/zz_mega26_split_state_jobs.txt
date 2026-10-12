@@ -1,0 +1,105 @@
+﻿# mega26: jobs for split-state slivers holding far more people than their share of arable land
+BUILDINGS = {
+	s:STATE_ABU_DHABI = {
+		region_state:JAP = {
+			create_building = {
+				building = "building_food_industry"
+				add_ownership = {
+					building = {
+						type = building_food_industry
+						country = c:JAP
+						levels = 3
+						region = STATE_ABU_DHABI
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_sweeteners" "pm_pot_stills" }
+			}
+		}
+	}
+	s:STATE_AMUR = {
+		region_state:JAP = {
+			create_building = {
+				building = "building_food_industry"
+				add_ownership = {
+					building = {
+						type = building_food_industry
+						country = c:JAP
+						levels = 10
+						region = STATE_AMUR
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_sweeteners" "pm_pot_stills" }
+			}
+		}
+	}
+	s:STATE_LARISTAN = {
+		region_state:JAP = {
+			create_building = {
+				building = "building_food_industry"
+				add_ownership = {
+					building = {
+						type = building_food_industry
+						country = c:JAP
+						levels = 9
+						region = STATE_LARISTAN
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_sweeteners" "pm_pot_stills" }
+			}
+		}
+	}
+	s:STATE_MOLUCCAS = {
+		region_state:W44 = {
+			create_building = {
+				building = "building_food_industry"
+				add_ownership = {
+					building = {
+						type = building_food_industry
+						country = c:W44
+						levels = 14
+						region = STATE_MOLUCCAS
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_sweeteners" "pm_pot_stills" }
+			}
+		}
+	}
+	s:STATE_NORTH_SUMATRA = {
+		region_state:BRU = {
+			create_building = {
+				building = "building_food_industry"
+				add_ownership = {
+					building = {
+						type = building_food_industry
+						country = c:BRU
+						levels = 19
+						region = STATE_NORTH_SUMATRA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_sweeteners" "pm_pot_stills" }
+			}
+		}
+	}
+	s:STATE_SOUTH_SUMATRA = {
+		region_state:W44 = {
+			create_building = {
+				building = "building_food_industry"
+				add_ownership = {
+					building = {
+						type = building_food_industry
+						country = c:W44
+						levels = 19
+						region = STATE_SOUTH_SUMATRA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_sweeteners" "pm_pot_stills" }
+			}
+		}
+	}
+}

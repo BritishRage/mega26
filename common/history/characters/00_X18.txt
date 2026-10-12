@@ -1,5 +1,5 @@
 ﻿CHARACTERS = {
-	c:X18 = {
+	c:X18 ?= {
 		create_character = {
 			first_name = "Tsau-Lha_Syarifuddin"
 			is_general = yes

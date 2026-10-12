@@ -175,7 +175,7 @@
 		}
 	}
 	s:STATE_ACEH = {
-		region_state:X18 = {
+		region_state:X50 = {
 			create_pop = {
 				culture = sumatran
 				religion = sunni
@@ -276,8 +276,6 @@
 				religion = hindu
 				size = 44360
 			}
-		}
-		region_state:X50 = {
 			create_pop = {
 				culture = sumatran
 				religion = sunni
@@ -331,7 +329,7 @@
 		}
 	}
 	s:STATE_ACRE = {
-		region_state:M46 = {
+		region_state:TWT = {
 			create_pop = {
 				culture = amazonian
 				religion = animist
@@ -634,11 +632,51 @@
 		}
 	}
 	s:STATE_ALASKA = {
-		region_state:A04 = {
+		region_state:DE2 = {
 			create_pop = {
 				culture = athabaskan
 				religion = animist
 				size = 259
+			}
+			create_pop = {
+				culture = athabaskan
+				religion = animist
+				size = 14885
+			}
+			create_pop = {
+				culture = athabaskan
+				religion = animist
+				size = 12240
+			}
+			create_pop = {
+				culture = athabaskan
+				religion = animist
+				size = 18000
+			}
+			create_pop = {
+				culture = athabaskan
+				religion = animist
+				size = 13043
+			}
+			create_pop = {
+				culture = athabaskan
+				religion = animist
+				size = 32000
+			}
+			create_pop = {
+				culture = athabaskan
+				religion = animist
+				size = 15000
+			}
+			create_pop = {
+				culture = inuit
+				religion = animist
+				size = 2899
+			}
+			create_pop = {
+				culture = athabaskan
+				religion = animist
+				size = 18860
 			}
 		}
 		region_state:ALK = {
@@ -748,67 +786,11 @@
 				size = 4904
 			}
 		}
-		region_state:DE0 = {
-			create_pop = {
-				culture = athabaskan
-				religion = animist
-				size = 14885
-			}
-		}
-		region_state:DH1 = {
-			create_pop = {
-				culture = athabaskan
-				religion = animist
-				size = 12240
-			}
-		}
-		region_state:DH2 = {
-			create_pop = {
-				culture = athabaskan
-				religion = animist
-				size = 18000
-			}
-		}
-		region_state:DX1 = {
-			create_pop = {
-				culture = athabaskan
-				religion = animist
-				size = 13043
-			}
-		}
-		region_state:G03 = {
-			create_pop = {
-				culture = athabaskan
-				religion = animist
-				size = 32000
-			}
-		}
-		region_state:HH2 = {
-			create_pop = {
-				culture = athabaskan
-				religion = animist
-				size = 15000
-			}
-		}
-		region_state:IN1 = {
+		region_state:K04 = {
 			create_pop = {
 				culture = inuit
 				religion = animist
 				size = 25000
-			}
-		}
-		region_state:N07 = {
-			create_pop = {
-				culture = inuit
-				religion = animist
-				size = 2899
-			}
-		}
-		region_state:T03 = {
-			create_pop = {
-				culture = athabaskan
-				religion = animist
-				size = 18860
 			}
 		}
 	}
@@ -842,21 +824,24 @@
 		}
 	}
 	s:STATE_ALBERTA = {
-		region_state:BLF = {
+		region_state:CSC = {
 			create_pop = {
 				culture = siouan
 				religion = animist
 				size = 2869
 			}
+			create_pop = {
+				culture = nez_perce
+				religion = animist
+				size = 2344
+			}
 		}
-		region_state:DC1 = {
+		region_state:DE2 = {
 			create_pop = {
 				culture = athabaskan
 				religion = animist
 				size = 2078
 			}
-		}
-		region_state:DE2 = {
 			create_pop = {
 				culture = athabaskan
 				religion = animist
@@ -867,8 +852,6 @@
 				religion = animist
 				size = 4000
 			}
-		}
-		region_state:DZ1 = {
 			create_pop = {
 				culture = athabaskan
 				religion = animist
@@ -883,13 +866,6 @@
 				culture = siouan
 				religion = animist
 				size = 323
-			}
-		}
-		region_state:K03 = {
-			create_pop = {
-				culture = nez_perce
-				religion = animist
-				size = 2344
 			}
 		}
 		region_state:NEW = {
@@ -1649,7 +1625,7 @@
 		}
 	}
 	s:STATE_AMAZONAS = {
-		region_state:K37 = {
+		region_state:TWT = {
 			create_pop = {
 				culture = amazonian
 				religion = animist
@@ -1660,20 +1636,6 @@
 				religion = animist
 				size = 10000
 			}
-		}
-		region_state:K38 = {
-			create_pop = {
-				culture = amazonian
-				religion = animist
-				size = 1647
-			}
-			create_pop = {
-				culture = cariban
-				religion = animist
-				size = 4118
-			}
-		}
-		region_state:K39 = {
 			create_pop = {
 				culture = amazonian
 				religion = animist
@@ -1684,29 +1646,21 @@
 				religion = animist
 				size = 10000
 			}
-		}
-		region_state:M45 = {
 			create_pop = {
 				culture = amazonian
 				religion = animist
 				size = 15360
 			}
-		}
-		region_state:M46 = {
 			create_pop = {
 				culture = amazonian
 				religion = animist
 				size = 24000
 			}
-		}
-		region_state:N22 = {
 			create_pop = {
 				culture = amazonian
 				religion = animist
 				size = 19200
 			}
-		}
-		region_state:P22 = {
 			create_pop = {
 				culture = amazonian
 				religion = animist
@@ -1717,15 +1671,11 @@
 				religion = animist
 				size = 500
 			}
-		}
-		region_state:P24 = {
 			create_pop = {
 				culture = amazonian
 				religion = animist
 				size = 24000
 			}
-		}
-		region_state:P25 = {
 			create_pop = {
 				culture = amazonian
 				religion = animist
@@ -1736,8 +1686,6 @@
 				religion = animist
 				size = 10000
 			}
-		}
-		region_state:SM1 = {
 			create_pop = {
 				culture = amazonian
 				religion = animist
@@ -1748,8 +1696,6 @@
 				religion = animist
 				size = 7347
 			}
-		}
-		region_state:W21 = {
 			create_pop = {
 				culture = amazonian
 				religion = animist
@@ -1759,6 +1705,23 @@
 				culture = lokono
 				religion = animist
 				size = 10000
+			}
+			create_pop = {
+				culture = amazonian
+				religion = animist
+				size = 16421
+			}
+		}
+		region_state:W19 = {
+			create_pop = {
+				culture = amazonian
+				religion = animist
+				size = 1647
+			}
+			create_pop = {
+				culture = cariban
+				religion = animist
+				size = 4118
 			}
 		}
 		region_state:X34 = {
@@ -1823,16 +1786,9 @@
 				size = 17
 			}
 		}
-		region_state:Y15 = {
-			create_pop = {
-				culture = amazonian
-				religion = animist
-				size = 16421
-			}
-		}
 	}
 	s:STATE_AMHARA = {
-		region_state:BRN = {
+		region_state:DNK = {
 			create_pop = {
 				culture = oromo
 				religion = animist
@@ -1854,8 +1810,6 @@
 				pop_type = slaves
 				size = 10611
 			}
-		}
-		region_state:KFA = {
 			create_pop = {
 				culture = oromo
 				religion = oriental_orthodox
@@ -5195,7 +5149,7 @@
 				size = 76042
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 133219
 			}
@@ -5920,7 +5874,7 @@
 				size = 69623
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 132541
 			}
@@ -5945,7 +5899,7 @@
 				size = 37897
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 114120
 			}
@@ -6052,7 +6006,7 @@
 				size = 23350
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 31242
 			}
@@ -6759,7 +6713,7 @@
 				size = 112
 			}
 		}
-		region_state:Y15 = {
+		region_state:TWT = {
 			create_pop = {
 				culture = amazonian
 				religion = animist
@@ -6990,7 +6944,7 @@
 				size = 41200
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 68656
 			}
@@ -7010,7 +6964,7 @@
 				size = 34573
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 68394
 			}
@@ -7035,7 +6989,7 @@
 				size = 49127
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 115272
 			}
@@ -7055,7 +7009,7 @@
 				size = 40478
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 68586
 			}
@@ -7095,7 +7049,7 @@
 				size = 50441
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 98042
 			}
@@ -7107,14 +7061,12 @@
 		}
 	}
 	s:STATE_BOTSWANA = {
-		region_state:LZO = {
+		region_state:OVM = {
 			create_pop = {
 				culture = kavango_bantu
 				religion = animist
 				size = 14560
 			}
-		}
-		region_state:TSW = {
 			create_pop = {
 				culture = tswana
 				religion = animist
@@ -7290,12 +7242,12 @@
 				size = 881
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = catholic
 				size = 31428
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = hussite
 				size = 30365
 			}
@@ -7399,7 +7351,7 @@
 				size = 39450
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 66805
 			}
@@ -7419,7 +7371,7 @@
 				size = 18227
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 34104
 			}
@@ -7439,7 +7391,7 @@
 				size = 16687
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 29573
 			}
@@ -7459,7 +7411,7 @@
 				size = 39020
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 53749
 			}
@@ -7479,7 +7431,7 @@
 				size = 60425
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 75333
 			}
@@ -7686,8 +7638,18 @@
 				religion = animist
 				size = 7584
 			}
+			create_pop = {
+				culture = nez_perce
+				religion = animist
+				size = 1866
+			}
+			create_pop = {
+				culture = salish
+				religion = animist
+				size = 3529
+			}
 		}
-		region_state:DA1 = {
+		region_state:DE2 = {
 			create_pop = {
 				culture = athabaskan
 				religion = animist
@@ -7703,45 +7665,55 @@
 				religion = animist
 				size = 3208
 			}
-		}
-		region_state:DC1 = {
 			create_pop = {
 				culture = athabaskan
 				religion = animist
 				size = 2078
 			}
-		}
-		region_state:DZ1 = {
 			create_pop = {
 				culture = athabaskan
 				religion = animist
 				size = 9146
 			}
-		}
-		region_state:K03 = {
-			create_pop = {
-				culture = nez_perce
-				religion = animist
-				size = 1866
-			}
-			create_pop = {
-				culture = salish
-				religion = animist
-				size = 3529
-			}
-		}
-		region_state:KD1 = {
 			create_pop = {
 				culture = athabaskan
 				religion = animist
 				size = 14350
 			}
-		}
-		region_state:L04 = {
 			create_pop = {
 				culture = athabaskan
 				religion = animist
 				size = 30000
+			}
+			create_pop = {
+				culture = athabaskan
+				religion = animist
+				size = 32000
+			}
+			create_pop = {
+				culture = athabaskan
+				religion = animist
+				size = 2000
+			}
+			create_pop = {
+				culture = penutian
+				religion = animist
+				size = 7000
+			}
+			create_pop = {
+				culture = athabaskan
+				religion = animist
+				size = 16500
+			}
+			create_pop = {
+				culture = penutian
+				religion = animist
+				size = 1500
+			}
+			create_pop = {
+				culture = athabaskan
+				religion = animist
+				size = 1714
 			}
 		}
 		region_state:N06 = {
@@ -7851,44 +7823,6 @@
 				culture = neo-canada_colony-polynesian
 				religion = protestant
 				size = 5896
-			}
-		}
-		region_state:SD1 = {
-			create_pop = {
-				culture = athabaskan
-				religion = animist
-				size = 32000
-			}
-		}
-		region_state:T02 = {
-			create_pop = {
-				culture = athabaskan
-				religion = animist
-				size = 2000
-			}
-			create_pop = {
-				culture = penutian
-				religion = animist
-				size = 7000
-			}
-		}
-		region_state:T06 = {
-			create_pop = {
-				culture = athabaskan
-				religion = animist
-				size = 16500
-			}
-			create_pop = {
-				culture = penutian
-				religion = animist
-				size = 1500
-			}
-		}
-		region_state:TY1 = {
-			create_pop = {
-				culture = athabaskan
-				religion = animist
-				size = 1714
 			}
 		}
 	}
@@ -8207,7 +8141,7 @@
 				size = 53341
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 74604
 			}
@@ -8293,7 +8227,7 @@
 		}
 	}
 	s:STATE_BUNDELKHAND = {
-		region_state:W46 = {
+		region_state:X12 = {
 			create_pop = {
 				culture = oriya
 				religion = hindu
@@ -8433,7 +8367,7 @@
 		}
 	}
 	s:STATE_BURYATIA = {
-		region_state:BRY = {
+		region_state:YAK = {
 			create_pop = {
 				culture = buryat
 				religion = gelugpa
@@ -8707,8 +8641,6 @@
 				religion = animist
 				size = 9111
 			}
-		}
-		region_state:M08 = {
 			create_pop = {
 				culture = hokan
 				religion = animist
@@ -8719,8 +8651,6 @@
 				religion = animist
 				size = 3400
 			}
-		}
-		region_state:N04 = {
 			create_pop = {
 				culture = paiute
 				religion = animist
@@ -8731,8 +8661,6 @@
 				religion = animist
 				size = 225
 			}
-		}
-		region_state:N05 = {
 			create_pop = {
 				culture = paiute
 				religion = animist
@@ -8743,20 +8671,6 @@
 				religion = animist
 				size = 333
 			}
-		}
-		region_state:N06 = {
-			create_pop = {
-				culture = paiute
-				religion = animist
-				size = 8800
-			}
-			create_pop = {
-				culture = hokan
-				religion = animist
-				size = 880
-			}
-		}
-		region_state:S08 = {
 			create_pop = {
 				culture = athabaskan
 				religion = animist
@@ -8772,8 +8686,6 @@
 				religion = animist
 				size = 1000
 			}
-		}
-		region_state:T01 = {
 			create_pop = {
 				culture = paiute
 				religion = animist
@@ -8783,6 +8695,18 @@
 				culture = hokan
 				religion = animist
 				size = 55
+			}
+		}
+		region_state:N06 = {
+			create_pop = {
+				culture = paiute
+				religion = animist
+				size = 8800
+			}
+			create_pop = {
+				culture = hokan
+				religion = animist
+				size = 880
 			}
 		}
 		region_state:TEX = {
@@ -9940,7 +9864,7 @@
 				size = 61734
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 131011
 			}
@@ -9960,7 +9884,7 @@
 				size = 63967
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 139372
 			}
@@ -9980,7 +9904,7 @@
 				size = 82524
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 176580
 			}
@@ -11222,14 +11146,12 @@
 		}
 	}
 	s:STATE_CHUKOTKA = {
-		region_state:O05 = {
+		region_state:X68 = {
 			create_pop = {
 				culture = siberian
 				religion = animist
 				size = 2441
 			}
-		}
-		region_state:X68 = {
 			create_pop = {
 				culture = yakut
 				religion = tengri_pagan_reformed
@@ -11289,19 +11211,17 @@
 				size = 719800
 			}
 		}
-		region_state:W46 = {
-			create_pop = {
-				culture = oriya
-				religion = hindu
-				size = 37884
-			}
-			create_pop = {
-				culture = oriya
-				religion = hindu
-				size = 37884
-			}
-		}
 		region_state:X12 = {
+			create_pop = {
+				culture = oriya
+				religion = hindu
+				size = 37884
+			}
+			create_pop = {
+				culture = oriya
+				religion = hindu
+				size = 37884
+			}
 			create_pop = {
 				culture = oriya
 				religion = hindu
@@ -11357,7 +11277,7 @@
 		}
 	}
 	s:STATE_COLORADO = {
-		region_state:ARP = {
+		region_state:CSC = {
 			create_pop = {
 				culture = navajo
 				religion = animist
@@ -11372,6 +11292,16 @@
 				culture = siouan
 				religion = animist
 				size = 4941
+			}
+			create_pop = {
+				culture = paiute
+				religion = animist
+				size = 24000
+			}
+			create_pop = {
+				culture = apache
+				religion = animist
+				size = 16000
 			}
 		}
 		region_state:TEX = {
@@ -11446,21 +11376,9 @@
 				size = 6047
 			}
 		}
-		region_state:UTE = {
-			create_pop = {
-				culture = paiute
-				religion = animist
-				size = 24000
-			}
-			create_pop = {
-				culture = apache
-				religion = animist
-				size = 16000
-			}
-		}
 	}
 	s:STATE_CONGO = {
-		region_state:BOB = {
+		region_state:BNG = {
 			create_pop = {
 				culture = bakongo
 				religion = animist
@@ -11504,7 +11422,7 @@
 		}
 	}
 	s:STATE_CONGO_ORIENTALE = {
-		region_state:MNB = {
+		region_state:ZND = {
 			create_pop = {
 				culture = fluvian_bantu
 				religion = animist
@@ -11515,6 +11433,17 @@
 				religion = animist
 				pop_type = slaves
 				size = 34500
+			}
+			create_pop = {
+				culture = azande
+				religion = animist
+				size = 381006
+			}
+			create_pop = {
+				culture = azande
+				religion = animist
+				pop_type = slaves
+				size = 28506
 			}
 		}
 		region_state:MSH = {
@@ -11547,19 +11476,6 @@
 				culture = shona
 				religion = animist
 				size = 19964
-			}
-		}
-		region_state:ZND = {
-			create_pop = {
-				culture = azande
-				religion = animist
-				size = 381006
-			}
-			create_pop = {
-				culture = azande
-				religion = animist
-				pop_type = slaves
-				size = 28506
 			}
 		}
 	}
@@ -12022,7 +11938,7 @@
 				size = 105054
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 143643
 			}
@@ -12037,7 +11953,7 @@
 				size = 93631
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 135142
 			}
@@ -12052,7 +11968,7 @@
 				size = 68721
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 66849
 			}
@@ -12067,7 +11983,7 @@
 				size = 118646
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 107042
 			}
@@ -12082,7 +11998,7 @@
 				size = 36691
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 54423
 			}
@@ -12533,7 +12449,7 @@
 				size = 81880
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 140693
 			}
@@ -12548,7 +12464,7 @@
 				size = 75021
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 133651
 			}
@@ -13492,7 +13408,7 @@
 				size = 20213
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 53316
 			}
@@ -13733,7 +13649,7 @@
 		}
 	}
 	s:STATE_EAST_ANGOLA = {
-		region_state:CHK = {
+		region_state:OVM = {
 			create_pop = {
 				culture = kavango_bantu
 				religion = animist
@@ -13760,8 +13676,6 @@
 				religion = animist
 				size = 50793
 			}
-		}
-		region_state:KSN = {
 			create_pop = {
 				culture = lunda
 				religion = animist
@@ -13784,8 +13698,6 @@
 				pop_type = slaves
 				size = 1500
 			}
-		}
-		region_state:LZO = {
 			create_pop = {
 				culture = kavango_bantu
 				religion = animist
@@ -14123,7 +14035,7 @@
 				size = 18626
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 39795
 			}
@@ -14161,7 +14073,7 @@
 				size = 27551
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 86262
 			}
@@ -14199,7 +14111,7 @@
 				size = 30857
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 103974
 			}
@@ -14237,7 +14149,7 @@
 				size = 55386
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 124650
 			}
@@ -14275,7 +14187,7 @@
 				size = 22970
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 51656
 			}
@@ -14634,7 +14546,7 @@
 				size = 59125
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 74511
 			}
@@ -14686,7 +14598,7 @@
 		}
 	}
 	s:STATE_EAST_SAHARA = {
-		region_state:AHG = {
+		region_state:V19 = {
 			create_pop = {
 				culture = tuareg
 				religion = sunni
@@ -14703,8 +14615,6 @@
 				religion = sunni
 				size = 6137
 			}
-		}
-		region_state:V19 = {
 			create_pop = {
 				culture = maghrebi
 				religion = sunni
@@ -15249,8 +15159,6 @@
 				pop_type = slaves
 				size = 30000
 			}
-		}
-		region_state:BOB = {
 			create_pop = {
 				culture = mongo
 				religion = animist
@@ -15265,7 +15173,7 @@
 		}
 	}
 	s:STATE_EQUATORIA = {
-		region_state:DFT = {
+		region_state:ZND = {
 			create_pop = {
 				culture = nilotic
 				religion = animist
@@ -15366,8 +15274,6 @@
 				pop_type = slaves
 				size = 1000
 			}
-		}
-		region_state:NUE = {
 			create_pop = {
 				culture = nuer
 				religion = animist
@@ -15389,8 +15295,6 @@
 				pop_type = slaves
 				size = 15000
 			}
-		}
-		region_state:TPS = {
 			create_pop = {
 				culture = nilotic
 				religion = animist
@@ -16755,7 +16659,7 @@
 		}
 	}
 	s:STATE_GABON = {
-		region_state:FNG = {
+		region_state:BNG = {
 			create_pop = {
 				culture = fang
 				religion = animist
@@ -18186,17 +18090,17 @@
 	s:STATE_GREATER_POLAND = {
 		region_state:HRE = {
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = catholic
 				size = 63569
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = hussite
 				size = 71335
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 98223
 			}
@@ -18206,12 +18110,12 @@
 				size = 40785
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = catholic
 				size = 77938
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = hussite
 				size = 103709
 			}
@@ -18226,17 +18130,17 @@
 				size = 54381
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = catholic
 				size = 77651
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = hussite
 				size = 79396
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 129737
 			}
@@ -18246,17 +18150,17 @@
 				size = 50173
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = catholic
 				size = 77810
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = hussite
 				size = 89167
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 121658
 			}
@@ -18266,17 +18170,17 @@
 				size = 50496
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = catholic
 				size = 60656
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = hussite
 				size = 82580
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 78790
 			}
@@ -18286,17 +18190,17 @@
 				size = 38843
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = catholic
 				size = 101541
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = hussite
 				size = 112766
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 163138
 			}
@@ -18306,12 +18210,12 @@
 				size = 66034
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = catholic
 				size = 88615
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = hussite
 				size = 86523
 			}
@@ -18574,21 +18478,17 @@
 		}
 	}
 	s:STATE_GUAVIARE = {
-		region_state:A27 = {
+		region_state:TWT = {
 			create_pop = {
 				culture = lokono
 				religion = animist
 				size = 56320
 			}
-		}
-		region_state:K37 = {
 			create_pop = {
 				culture = cariban
 				religion = animist
 				size = 12396
 			}
-		}
-		region_state:P24 = {
 			create_pop = {
 				culture = amazonian
 				religion = animist
@@ -18937,7 +18837,7 @@
 		}
 	}
 	s:STATE_GUINEA = {
-		region_state:MDK = {
+		region_state:BLE = {
 			create_pop = {
 				culture = mande
 				religion = sunni
@@ -20045,7 +19945,7 @@
 		}
 	}
 	s:STATE_HEREROLAND = {
-		region_state:HRO = {
+		region_state:OVM = {
 			create_pop = {
 				culture = herero
 				religion = animist
@@ -21132,14 +21032,12 @@
 				size = 644031
 			}
 		}
-		region_state:V27 = {
+		region_state:X16 = {
 			create_pop = {
 				culture = kannada
 				religion = hindu
 				size = 662973
 			}
-		}
-		region_state:X16 = {
 			create_pop = {
 				culture = telegu
 				religion = hindu
@@ -21429,15 +21327,11 @@
 				religion = animist
 				size = 1671
 			}
-		}
-		region_state:I01 = {
 			create_pop = {
 				culture = nez_perce
 				religion = animist
 				size = 4000
 			}
-		}
-		region_state:N05 = {
 			create_pop = {
 				culture = nez_perce
 				religion = animist
@@ -21447,6 +21341,11 @@
 				culture = paiute
 				religion = animist
 				size = 1429
+			}
+			create_pop = {
+				culture = nez_perce
+				religion = animist
+				size = 10526
 			}
 		}
 		region_state:N06 = {
@@ -21459,13 +21358,6 @@
 				culture = nez_perce
 				religion = animist
 				size = 1256
-			}
-		}
-		region_state:NZP = {
-			create_pop = {
-				culture = nez_perce
-				religion = animist
-				size = 10526
 			}
 		}
 	}
@@ -22085,7 +21977,7 @@
 				size = 1842
 			}
 		}
-		region_state:OUA = {
+		region_state:MOR = {
 			create_pop = {
 				culture = bidan
 				religion = sunni
@@ -22595,7 +22487,7 @@
 		}
 	}
 	s:STATE_IRKUTSK = {
-		region_state:BRY = {
+		region_state:YAK = {
 			create_pop = {
 				culture = buryat
 				religion = animist
@@ -22954,7 +22846,7 @@
 		}
 	}
 	s:STATE_IVORY_COAST = {
-		region_state:AYI = {
+		region_state:BLE = {
 			create_pop = {
 				culture = akan
 				religion = animist
@@ -22966,8 +22858,6 @@
 				pop_type = slaves
 				size = 7822
 			}
-		}
-		region_state:BLE = {
 			create_pop = {
 				culture = akan
 				religion = animist
@@ -23857,7 +23747,7 @@
 		}
 	}
 	s:STATE_KAMCHATKA = {
-		region_state:I09 = {
+		region_state:CKC = {
 			create_pop = {
 				culture = siberian
 				religion = tengri_pagan_reformed
@@ -23868,15 +23758,11 @@
 				religion = animist
 				size = 20313
 			}
-		}
-		region_state:K17 = {
 			create_pop = {
 				culture = siberian
 				religion = animist
 				size = 109843
 			}
-		}
-		region_state:X68 = {
 			create_pop = {
 				culture = yakut
 				religion = tengri_pagan_reformed
@@ -24693,7 +24579,7 @@
 		}
 	}
 	s:STATE_KENYA = {
-		region_state:KKY = {
+		region_state:DNK = {
 			create_pop = {
 				culture = lacustrine_bantu
 				religion = animist
@@ -25533,7 +25419,7 @@
 				size = 95331
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 127021
 			}
@@ -25613,7 +25499,7 @@
 				size = 11348
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 24639
 			}
@@ -25633,7 +25519,7 @@
 				size = 42565
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 71953
 			}
@@ -25653,7 +25539,7 @@
 				size = 53365
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 99224
 			}
@@ -25755,11 +25641,26 @@
 		}
 	}
 	s:STATE_KOLYMA = {
-		region_state:CKC = {
+		region_state:X68 = {
 			create_pop = {
 				culture = siberian
 				religion = tengri_pagan_reformed
 				size = 73789
+			}
+			create_pop = {
+				culture = siberian
+				religion = animist
+				size = 5746
+			}
+			create_pop = {
+				culture = inuit
+				religion = animist
+				size = 1655
+			}
+			create_pop = {
+				culture = siberian
+				religion = animist
+				size = 53104
 			}
 		}
 		region_state:HAW = {
@@ -25772,25 +25673,6 @@
 				culture = polynesian
 				religion = animist
 				size = 355
-			}
-		}
-		region_state:O05 = {
-			create_pop = {
-				culture = siberian
-				religion = animist
-				size = 5746
-			}
-			create_pop = {
-				culture = inuit
-				religion = animist
-				size = 1655
-			}
-		}
-		region_state:V09 = {
-			create_pop = {
-				culture = siberian
-				religion = animist
-				size = 53104
 			}
 		}
 		region_state:YAK = {
@@ -27248,17 +27130,17 @@
 	s:STATE_LESSER_POLAND = {
 		region_state:HRE = {
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = catholic
 				size = 43043
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = hussite
 				size = 48302
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 66507
 			}
@@ -27268,17 +27150,17 @@
 				size = 26556
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = catholic
 				size = 15773
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = hussite
 				size = 16128
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 26354
 			}
@@ -27288,17 +27170,17 @@
 				size = 9800
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = catholic
 				size = 96461
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = hussite
 				size = 103749
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 149320
 			}
@@ -27308,17 +27190,17 @@
 				size = 58802
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = catholic
 				size = 48135
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = hussite
 				size = 28990
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 53666
 			}
@@ -28471,12 +28353,12 @@
 				size = 4779
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = catholic
 				size = 54874
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = hussite
 				size = 49221
 			}
@@ -28491,12 +28373,12 @@
 				size = 7169
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = catholic
 				size = 63817
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = hussite
 				size = 61657
 			}
@@ -28511,12 +28393,12 @@
 				size = 8762
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = catholic
 				size = 102281
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = hussite
 				size = 87671
 			}
@@ -28879,8 +28761,6 @@
 				religion = animist
 				size = 248947
 			}
-		}
-		region_state:I06 = {
 			create_pop = {
 				culture = filipino
 				religion = catholic
@@ -28925,7 +28805,7 @@
 				size = 176354
 			}
 		}
-		region_state:SUL = {
+		region_state:W90 = {
 			create_pop = {
 				culture = bornean
 				religion = catholic
@@ -29697,7 +29577,7 @@
 				size = 2600
 			}
 		}
-		region_state:IRC = {
+		region_state:M09 = {
 			create_pop = {
 				culture = cree
 				religion = animist
@@ -30695,25 +30575,26 @@
 				size = 750
 			}
 		}
-		region_state:K31 = {
+		region_state:TWT = {
 			create_pop = {
 				culture = amazonian
 				religion = animist
 				size = 63333
 			}
-		}
-		region_state:K32 = {
 			create_pop = {
 				culture = je
 				religion = animist
 				size = 22080
 			}
-		}
-		region_state:N21 = {
 			create_pop = {
 				culture = amazonian
 				religion = animist
 				size = 15647
+			}
+			create_pop = {
+				culture = je
+				religion = animist
+				size = 30875
 			}
 		}
 		region_state:PLT = {
@@ -30766,13 +30647,6 @@
 				culture = paulista
 				religion = catholic
 				size = 804
-			}
-		}
-		region_state:R05 = {
-			create_pop = {
-				culture = je
-				religion = animist
-				size = 30875
 			}
 		}
 	}
@@ -30875,7 +30749,7 @@
 				size = 192
 			}
 		}
-		region_state:OUA = {
+		region_state:MOR = {
 			create_pop = {
 				culture = bidan
 				religion = sunni
@@ -30891,6 +30765,22 @@
 				religion = sunni
 				pop_type = slaves
 				size = 7544
+			}
+			create_pop = {
+				culture = bidan
+				religion = sunni
+				size = 16000
+			}
+			create_pop = {
+				culture = haratin
+				religion = sunni
+				size = 8000
+			}
+			create_pop = {
+				culture = haratin
+				religion = sunni
+				pop_type = slaves
+				size = 800
 			}
 		}
 		region_state:SPA = {
@@ -30926,24 +30816,6 @@
 				religion = catholic
 				pop_type = slaves
 				size = 556
-			}
-		}
-		region_state:TRZ = {
-			create_pop = {
-				culture = bidan
-				religion = sunni
-				size = 16000
-			}
-			create_pop = {
-				culture = haratin
-				religion = sunni
-				size = 8000
-			}
-			create_pop = {
-				culture = haratin
-				religion = sunni
-				pop_type = slaves
-				size = 800
 			}
 		}
 	}
@@ -31065,17 +30937,17 @@
 	s:STATE_MAZOVIA = {
 		region_state:HRE = {
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = catholic
 				size = 51689
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = hussite
 				size = 71992
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 64931
 			}
@@ -31085,17 +30957,17 @@
 				size = 51001
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = catholic
 				size = 80522
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = hussite
 				size = 48495
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 89774
 			}
@@ -31115,7 +30987,7 @@
 				size = 18909
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 26046
 			}
@@ -31125,17 +30997,17 @@
 				size = 19429
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = catholic
 				size = 51100
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = hussite
 				size = 69312
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 68200
 			}
@@ -32266,7 +32138,7 @@
 				size = 9124
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 17071
 			}
@@ -32326,7 +32198,7 @@
 				size = 41849
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 70028
 			}
@@ -33108,7 +32980,7 @@
 				size = 39740
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 53173
 			}
@@ -33304,8 +33176,6 @@
 				religion = animist
 				size = 514
 			}
-		}
-		region_state:K03 = {
 			create_pop = {
 				culture = dakota
 				religion = animist
@@ -34109,7 +33979,7 @@
 		}
 	}
 	s:STATE_NAMAQUALAND = {
-		region_state:NAM = {
+		region_state:OVM = {
 			create_pop = {
 				culture = khoisan
 				religion = animist
@@ -34525,14 +34395,12 @@
 		}
 	}
 	s:STATE_NEVADA = {
-		region_state:N04 = {
+		region_state:CSC = {
 			create_pop = {
 				culture = paiute
 				religion = animist
 				size = 14000
 			}
-		}
-		region_state:N05 = {
 			create_pop = {
 				culture = paiute
 				religion = animist
@@ -34564,8 +34432,6 @@
 				religion = animist
 				size = 3545
 			}
-		}
-		region_state:N12 = {
 			create_pop = {
 				culture = inuit
 				religion = animist
@@ -34576,8 +34442,6 @@
 				religion = animist
 				size = 81
 			}
-		}
-		region_state:S14 = {
 			create_pop = {
 				culture = cree
 				religion = animist
@@ -35411,26 +35275,25 @@
 				religion = animist
 				size = 407
 			}
-		}
-		region_state:M24 = {
 			create_pop = {
 				culture = aborigine
 				religion = animist
 				size = 823
 			}
-		}
-		region_state:NY2 = {
 			create_pop = {
 				culture = aborigine
 				religion = animist
 				size = 7407
 			}
-		}
-		region_state:P15 = {
 			create_pop = {
 				culture = aborigine
 				religion = animist
 				size = 27692
+			}
+			create_pop = {
+				culture = aborigine
+				religion = animist
+				size = 7000
 			}
 		}
 		region_state:X82 = {
@@ -35458,13 +35321,6 @@
 				culture = aborigine
 				religion = animist
 				size = 283537
-			}
-		}
-		region_state:Y08 = {
-			create_pop = {
-				culture = aborigine
-				religion = animist
-				size = 7000
 			}
 		}
 	}
@@ -36053,7 +35909,7 @@
 				size = 2751
 			}
 		}
-		region_state:SOK = {
+		region_state:BNG = {
 			create_pop = {
 				culture = tiv
 				religion = animist
@@ -36602,7 +36458,7 @@
 				size = 3225
 			}
 		}
-		region_state:TSW = {
+		region_state:OVM = {
 			create_pop = {
 				culture = tswana
 				religion = animist
@@ -36845,7 +36701,32 @@
 		}
 	}
 	s:STATE_NORTHERN_TERRITORY = {
-		region_state:A12 = {
+		region_state:K14 = {
+			create_pop = {
+				culture = aborigine
+				religion = animist
+				size = 7937
+			}
+			create_pop = {
+				culture = aborigine
+				religion = animist
+				size = 7937
+			}
+			create_pop = {
+				culture = aborigine
+				religion = animist
+				size = 6197
+			}
+			create_pop = {
+				culture = aborigine
+				religion = animist
+				size = 1701
+			}
+			create_pop = {
+				culture = aborigine
+				religion = animist
+				size = 794
+			}
 			create_pop = {
 				culture = aborigine
 				religion = animist
@@ -36882,41 +36763,6 @@
 				culture = aborigine
 				religion = animist
 				size = 11183
-			}
-		}
-		region_state:K14 = {
-			create_pop = {
-				culture = aborigine
-				religion = animist
-				size = 7937
-			}
-		}
-		region_state:NY1 = {
-			create_pop = {
-				culture = aborigine
-				religion = animist
-				size = 6197
-			}
-		}
-		region_state:W12 = {
-			create_pop = {
-				culture = aborigine
-				religion = animist
-				size = 1701
-			}
-		}
-		region_state:W13 = {
-			create_pop = {
-				culture = aborigine
-				religion = animist
-				size = 794
-			}
-		}
-		region_state:WTI = {
-			create_pop = {
-				culture = aborigine
-				religion = animist
-				size = 7937
 			}
 		}
 	}
@@ -36987,7 +36833,7 @@
 				size = 59404
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 83921
 			}
@@ -37007,7 +36853,7 @@
 				size = 14481
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 43614
 			}
@@ -37027,7 +36873,7 @@
 				size = 35350
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 86931
 			}
@@ -37039,18 +36885,46 @@
 		}
 	}
 	s:STATE_NORTHWEST_TERRITORIES = {
-		region_state:DC1 = {
+		region_state:DE2 = {
 			create_pop = {
 				culture = athabaskan
 				religion = animist
 				size = 20078
 			}
-		}
-		region_state:DE2 = {
 			create_pop = {
 				culture = athabaskan
 				religion = animist
 				size = 22980
+			}
+			create_pop = {
+				culture = athabaskan
+				religion = animist
+				size = 14350
+			}
+			create_pop = {
+				culture = athabaskan
+				religion = animist
+				size = 16000
+			}
+			create_pop = {
+				culture = athabaskan
+				religion = animist
+				size = 18000
+			}
+			create_pop = {
+				culture = athabaskan
+				religion = animist
+				size = 17500
+			}
+			create_pop = {
+				culture = athabaskan
+				religion = animist
+				size = 28000
+			}
+			create_pop = {
+				culture = athabaskan
+				religion = animist
+				size = 18000
 			}
 		}
 		region_state:K04 = {
@@ -37059,54 +36933,10 @@
 				religion = animist
 				size = 25000
 			}
-		}
-		region_state:KD1 = {
-			create_pop = {
-				culture = athabaskan
-				religion = animist
-				size = 14350
-			}
-		}
-		region_state:KG1 = {
-			create_pop = {
-				culture = athabaskan
-				religion = animist
-				size = 16000
-			}
-		}
-		region_state:S12 = {
 			create_pop = {
 				culture = inuit
 				religion = animist
 				size = 14000
-			}
-		}
-		region_state:S13 = {
-			create_pop = {
-				culture = athabaskan
-				religion = animist
-				size = 18000
-			}
-		}
-		region_state:SG1 = {
-			create_pop = {
-				culture = athabaskan
-				religion = animist
-				size = 17500
-			}
-		}
-		region_state:T04 = {
-			create_pop = {
-				culture = athabaskan
-				religion = animist
-				size = 28000
-			}
-		}
-		region_state:T05 = {
-			create_pop = {
-				culture = athabaskan
-				religion = animist
-				size = 18000
 			}
 		}
 	}
@@ -37249,7 +37079,7 @@
 		}
 	}
 	s:STATE_NORTH_CAMEROON = {
-		region_state:SOK = {
+		region_state:BNG = {
 			create_pop = {
 				culture = equatorial_bantu
 				religion = animist
@@ -38041,7 +37871,7 @@
 				size = 4394
 			}
 		}
-		region_state:X18 = {
+		region_state:X50 = {
 			create_pop = {
 				culture = sumatran
 				religion = theravada
@@ -38102,8 +37932,6 @@
 				religion = hindu
 				size = 29311
 			}
-		}
-		region_state:X50 = {
 			create_pop = {
 				culture = sumatran
 				religion = sunni
@@ -38124,8 +37952,6 @@
 				religion = sunni
 				size = 119197
 			}
-		}
-		region_state:X77 = {
 			create_pop = {
 				culture = sumatran
 				religion = sunni
@@ -38273,11 +38099,26 @@
 		}
 	}
 	s:STATE_NUNAVUT = {
-		region_state:A05 = {
+		region_state:K04 = {
 			create_pop = {
 				culture = inuit
 				religion = animist
 				size = 11980
+			}
+			create_pop = {
+				culture = inuit
+				religion = animist
+				size = 9390
+			}
+			create_pop = {
+				culture = inuit
+				religion = animist
+				size = 11980
+			}
+			create_pop = {
+				culture = inuit
+				religion = animist
+				size = 22980
 			}
 		}
 		region_state:DE2 = {
@@ -38290,27 +38131,6 @@
 				culture = inuit
 				religion = animist
 				size = 3907
-			}
-		}
-		region_state:K05 = {
-			create_pop = {
-				culture = inuit
-				religion = animist
-				size = 9390
-			}
-		}
-		region_state:N08 = {
-			create_pop = {
-				culture = inuit
-				religion = animist
-				size = 11980
-			}
-		}
-		region_state:Q01 = {
-			create_pop = {
-				culture = inuit
-				religion = animist
-				size = 22980
 			}
 		}
 		region_state:X24 = {
@@ -38472,8 +38292,6 @@
 				religion = sunni
 				size = 83597
 			}
-		}
-		region_state:N18 = {
 			create_pop = {
 				culture = ugrian
 				religion = animist
@@ -38591,18 +38409,36 @@
 		}
 	}
 	s:STATE_OKHOTSK = {
-		region_state:CKC = {
+		region_state:X68 = {
 			create_pop = {
 				culture = siberian
 				religion = tengri_pagan_reformed
 				size = 49147
 			}
-		}
-		region_state:E03 = {
 			create_pop = {
 				culture = siberian
 				religion = animist
 				size = 32427
+			}
+			create_pop = {
+				culture = siberian
+				religion = animist
+				size = 6153
+			}
+			create_pop = {
+				culture = siberian
+				religion = animist
+				size = 200
+			}
+			create_pop = {
+				culture = siberian
+				religion = animist
+				size = 12157
+			}
+			create_pop = {
+				culture = yakut
+				religion = tengri_pagan_reformed
+				size = 3924
 			}
 		}
 		region_state:HAW = {
@@ -38615,34 +38451,6 @@
 				culture = polynesian
 				religion = animist
 				size = 14900
-			}
-		}
-		region_state:K17 = {
-			create_pop = {
-				culture = siberian
-				religion = animist
-				size = 6153
-			}
-		}
-		region_state:O05 = {
-			create_pop = {
-				culture = siberian
-				religion = animist
-				size = 200
-			}
-		}
-		region_state:V09 = {
-			create_pop = {
-				culture = siberian
-				religion = animist
-				size = 12157
-			}
-		}
-		region_state:X68 = {
-			create_pop = {
-				culture = yakut
-				religion = tengri_pagan_reformed
-				size = 3924
 			}
 		}
 		region_state:YAK = {
@@ -38983,7 +38791,7 @@
 		}
 	}
 	s:STATE_ONTARIO = {
-		region_state:A06 = {
+		region_state:M09 = {
 			create_pop = {
 				culture = algonquian
 				religion = animist
@@ -38994,8 +38802,6 @@
 				religion = animist
 				size = 2553
 			}
-		}
-		region_state:M09 = {
 			create_pop = {
 				culture = algonquian
 				religion = animist
@@ -39620,15 +39426,11 @@
 				religion = animist
 				size = 6255
 			}
-		}
-		region_state:N05 = {
 			create_pop = {
 				culture = nez_perce
 				religion = animist
 				size = 5067
 			}
-		}
-		region_state:S08 = {
 			create_pop = {
 				culture = athabaskan
 				religion = animist
@@ -39654,7 +39456,7 @@
 		}
 	}
 	s:STATE_ORISSA = {
-		region_state:W46 = {
+		region_state:X12 = {
 			create_pop = {
 				culture = oriya
 				religion = hindu
@@ -39675,8 +39477,6 @@
 				religion = hindu
 				size = 94710
 			}
-		}
-		region_state:X12 = {
 			create_pop = {
 				culture = oriya
 				religion = hindu
@@ -40855,35 +40655,44 @@
 		}
 	}
 	s:STATE_PARA = {
-		region_state:A24 = {
+		region_state:TWT = {
 			create_pop = {
 				culture = tupinamba
 				religion = animist
 				size = 21275
 			}
-		}
-		region_state:A25 = {
-			create_pop = {
-				culture = cariban
-				religion = animist
-				size = 20656
-			}
-		}
-		region_state:M43 = {
 			create_pop = {
 				culture = je
 				religion = animist
 				size = 86000
 			}
-		}
-		region_state:M44 = {
 			create_pop = {
 				culture = tupinamba
 				religion = animist
 				size = 29700
 			}
+			create_pop = {
+				culture = tupinamba
+				religion = animist
+				size = 3081
+			}
+			create_pop = {
+				culture = cariban
+				religion = animist
+				size = 8735
+			}
+			create_pop = {
+				culture = tupinamba
+				religion = animist
+				size = 34800
+			}
 		}
-		region_state:O09 = {
+		region_state:W19 = {
+			create_pop = {
+				culture = cariban
+				religion = animist
+				size = 20656
+			}
 			create_pop = {
 				culture = tupinamba
 				religion = animist
@@ -40894,22 +40703,6 @@
 				religion = animist
 				size = 5845
 			}
-		}
-		region_state:SM1 = {
-			create_pop = {
-				culture = tupinamba
-				religion = animist
-				size = 3081
-			}
-		}
-		region_state:U08 = {
-			create_pop = {
-				culture = cariban
-				religion = animist
-				size = 8735
-			}
-		}
-		region_state:W19 = {
 			create_pop = {
 				culture = cariban
 				religion = animist
@@ -41021,13 +40814,6 @@
 				culture = amazonic
 				religion = catholic
 				size = 8789
-			}
-		}
-		region_state:Y14 = {
-			create_pop = {
-				culture = tupinamba
-				religion = animist
-				size = 34800
 			}
 		}
 	}
@@ -42503,12 +42289,12 @@
 				size = 850
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = catholic
 				size = 64349
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = hussite
 				size = 74722
 			}
@@ -42709,12 +42495,12 @@
 	s:STATE_POSEN = {
 		region_state:HRE = {
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = catholic
 				size = 90890
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = hussite
 				size = 84790
 			}
@@ -42729,12 +42515,12 @@
 				size = 3043
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = catholic
 				size = 90852
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = hussite
 				size = 93757
 			}
@@ -42749,12 +42535,12 @@
 				size = 3141
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = catholic
 				size = 67557
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = hussite
 				size = 78857
 			}
@@ -42769,12 +42555,12 @@
 				size = 2356
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = catholic
 				size = 64515
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = hussite
 				size = 78306
 			}
@@ -42789,12 +42575,12 @@
 				size = 2258
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = catholic
 				size = 81982
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = hussite
 				size = 92571
 			}
@@ -42809,12 +42595,12 @@
 				size = 2847
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = catholic
 				size = 67556
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = hussite
 				size = 79491
 			}
@@ -43540,35 +43326,27 @@
 		}
 	}
 	s:STATE_QUEBEC = {
-		region_state:EI1 = {
+		region_state:N11 = {
 			create_pop = {
 				culture = cree
 				religion = animist
 				size = 21554
 			}
-		}
-		region_state:N09 = {
 			create_pop = {
 				culture = algonquian
 				religion = animist
 				size = 2857
 			}
-		}
-		region_state:N11 = {
 			create_pop = {
 				culture = cree
 				religion = animist
 				size = 15194
 			}
-		}
-		region_state:N13 = {
 			create_pop = {
 				culture = inuit
 				religion = animist
 				size = 29788
 			}
-		}
-		region_state:S14 = {
 			create_pop = {
 				culture = cree
 				religion = animist
@@ -43984,14 +43762,47 @@
 		}
 	}
 	s:STATE_QUEENSLAND = {
-		region_state:A12 = {
+		region_state:K14 = {
 			create_pop = {
 				culture = aborigine
 				religion = animist
 				size = 10416
 			}
-		}
-		region_state:G11 = {
+			create_pop = {
+				culture = aborigine
+				religion = animist
+				size = 10416
+			}
+			create_pop = {
+				culture = aborigine
+				religion = animist
+				size = 7954
+			}
+			create_pop = {
+				culture = aborigine
+				religion = animist
+				size = 10416
+			}
+			create_pop = {
+				culture = aborigine
+				religion = animist
+				size = 3627
+			}
+			create_pop = {
+				culture = aborigine
+				religion = animist
+				size = 6475
+			}
+			create_pop = {
+				culture = aborigine
+				religion = animist
+				size = 312
+			}
+			create_pop = {
+				culture = aborigine
+				religion = animist
+				size = 10416
+			}
 			create_pop = {
 				culture = aborigine
 				religion = animist
@@ -44158,55 +43969,6 @@
 				culture = polynesian
 				religion = animist
 				size = 53380
-			}
-		}
-		region_state:K14 = {
-			create_pop = {
-				culture = aborigine
-				religion = animist
-				size = 7954
-			}
-		}
-		region_state:K15 = {
-			create_pop = {
-				culture = aborigine
-				religion = animist
-				size = 10416
-			}
-		}
-		region_state:M22 = {
-			create_pop = {
-				culture = aborigine
-				religion = animist
-				size = 3627
-			}
-		}
-		region_state:M23 = {
-			create_pop = {
-				culture = aborigine
-				religion = animist
-				size = 6475
-			}
-		}
-		region_state:P14 = {
-			create_pop = {
-				culture = aborigine
-				religion = animist
-				size = 312
-			}
-		}
-		region_state:T20 = {
-			create_pop = {
-				culture = aborigine
-				religion = animist
-				size = 10416
-			}
-		}
-		region_state:W13 = {
-			create_pop = {
-				culture = aborigine
-				religion = animist
-				size = 10416
 			}
 		}
 		region_state:Y07 = {
@@ -45382,12 +45144,12 @@
 	s:STATE_RUTHENIA = {
 		region_state:HRE = {
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = catholic
 				size = 63549
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 110527
 			}
@@ -45407,7 +45169,7 @@
 				size = 9710
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 20746
 			}
@@ -45575,7 +45337,7 @@
 				size = 139
 			}
 		}
-		region_state:TUA = {
+		region_state:V19 = {
 			create_pop = {
 				culture = berber
 				religion = sunni
@@ -45597,8 +45359,6 @@
 				religion = jewish
 				size = 610
 			}
-		}
-		region_state:V19 = {
 			create_pop = {
 				culture = maghrebi
 				religion = sunni
@@ -45682,7 +45442,7 @@
 		}
 	}
 	s:STATE_SAKHALIN = {
-		region_state:I09 = {
+		region_state:X68 = {
 			create_pop = {
 				culture = siberian
 				religion = tengri_pagan_reformed
@@ -46311,7 +46071,7 @@
 				size = 4000
 			}
 		}
-		region_state:IRC = {
+		region_state:M09 = {
 			create_pop = {
 				culture = siouan
 				religion = animist
@@ -48092,7 +47852,7 @@
 				size = 80096
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 116247
 			}
@@ -48107,7 +47867,7 @@
 				size = 53701
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 116574
 			}
@@ -48122,7 +47882,7 @@
 				size = 36691
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 54423
 			}
@@ -48131,12 +47891,12 @@
 	s:STATE_SLOVAKIA = {
 		region_state:HRE = {
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = catholic
 				size = 81349
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 142347
 			}
@@ -48146,12 +47906,12 @@
 				size = 21936
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = catholic
 				size = 15516
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 26986
 			}
@@ -48161,12 +47921,12 @@
 				size = 4168
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = catholic
 				size = 81718
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 141978
 			}
@@ -48176,12 +47936,12 @@
 				size = 21936
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = catholic
 				size = 137312
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 220602
 			}
@@ -48191,12 +47951,12 @@
 				size = 35097
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = catholic
 				size = 81305
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 142391
 			}
@@ -49010,7 +48770,7 @@
 				size = 35872
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 111745
 			}
@@ -49030,7 +48790,7 @@
 				size = 82148
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 132544
 			}
@@ -49116,12 +48876,40 @@
 				religion = animist
 				size = 31251
 			}
-		}
-		region_state:K16 = {
 			create_pop = {
 				culture = aborigine
 				religion = animist
 				size = 20834
+			}
+			create_pop = {
+				culture = aborigine
+				religion = animist
+				size = 20834
+			}
+			create_pop = {
+				culture = aborigine
+				religion = animist
+				size = 20834
+			}
+			create_pop = {
+				culture = aborigine
+				religion = animist
+				size = 1736
+			}
+			create_pop = {
+				culture = aborigine
+				religion = animist
+				size = 10938
+			}
+			create_pop = {
+				culture = aborigine
+				religion = animist
+				size = 8929
+			}
+			create_pop = {
+				culture = aborigine
+				religion = animist
+				size = 12500
 			}
 		}
 		region_state:KAU = {
@@ -49141,51 +48929,9 @@
 				size = 70788
 			}
 		}
-		region_state:MRN = {
-			create_pop = {
-				culture = aborigine
-				religion = animist
-				size = 20834
-			}
-		}
-		region_state:NY2 = {
-			create_pop = {
-				culture = aborigine
-				religion = animist
-				size = 20834
-			}
-		}
-		region_state:P15 = {
-			create_pop = {
-				culture = aborigine
-				religion = animist
-				size = 1736
-			}
-		}
-		region_state:TY2 = {
-			create_pop = {
-				culture = aborigine
-				religion = animist
-				size = 10938
-			}
-		}
-		region_state:WTI = {
-			create_pop = {
-				culture = aborigine
-				religion = animist
-				size = 8929
-			}
-		}
-		region_state:Y08 = {
-			create_pop = {
-				culture = aborigine
-				religion = animist
-				size = 12500
-			}
-		}
 	}
 	s:STATE_SOUTH_CAMEROON = {
-		region_state:FNG = {
+		region_state:BNG = {
 			create_pop = {
 				culture = fang
 				religion = animist
@@ -49208,8 +48954,6 @@
 				pop_type = slaves
 				size = 12133
 			}
-		}
-		region_state:FRA = {
 			create_pop = {
 				culture = yoruba
 				religion = animist
@@ -49769,7 +49513,7 @@
 				size = 78248
 			}
 		}
-		region_state:X18 = {
+		region_state:X50 = {
 			create_pop = {
 				culture = sumatran
 				religion = hindu
@@ -49790,8 +49534,6 @@
 				religion = hindu
 				size = 44242
 			}
-		}
-		region_state:X77 = {
 			create_pop = {
 				culture = sumatran
 				religion = hindu
@@ -52549,7 +52291,7 @@
 		}
 	}
 	s:STATE_TIMBUKTU = {
-		region_state:ADG = {
+		region_state:V19 = {
 			create_pop = {
 				culture = songhai
 				religion = sunni
@@ -53284,7 +53026,7 @@
 				size = 61019
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 135206
 			}
@@ -53304,7 +53046,7 @@
 				size = 8836
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 18751
 			}
@@ -53324,7 +53066,7 @@
 				size = 95770
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 172141
 			}
@@ -53344,7 +53086,7 @@
 				size = 62876
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 138925
 			}
@@ -53446,7 +53188,7 @@
 				size = 973
 			}
 		}
-		region_state:BRY = {
+		region_state:YAK = {
 			create_pop = {
 				culture = buryat
 				religion = animist
@@ -53461,6 +53203,26 @@
 				culture = manchu
 				religion = animist
 				size = 2677
+			}
+			create_pop = {
+				culture = yakut
+				religion = animist
+				size = 127992
+			}
+			create_pop = {
+				culture = manchu
+				religion = animist
+				size = 80000
+			}
+			create_pop = {
+				culture = siberian
+				religion = animist
+				size = 10000
+			}
+			create_pop = {
+				culture = siberian
+				religion = animist
+				size = 7996
 			}
 		}
 		region_state:BUK = {
@@ -53493,28 +53255,6 @@
 				culture = ashkenazi
 				religion = jewish
 				size = 837
-			}
-		}
-		region_state:YAK = {
-			create_pop = {
-				culture = yakut
-				religion = animist
-				size = 127992
-			}
-			create_pop = {
-				culture = manchu
-				religion = animist
-				size = 80000
-			}
-			create_pop = {
-				culture = siberian
-				religion = animist
-				size = 10000
-			}
-			create_pop = {
-				culture = siberian
-				religion = animist
-				size = 7996
 			}
 		}
 	}
@@ -54182,8 +53922,6 @@
 				religion = hussite
 				size = 58982
 			}
-		}
-		region_state:X84 = {
 			create_pop = {
 				culture = russian
 				religion = orthodox
@@ -54296,7 +54034,7 @@
 		}
 	}
 	s:STATE_UBANGI_SHARI = {
-		region_state:DAK = {
+		region_state:BNG = {
 			create_pop = {
 				culture = equatorial_bantu
 				religion = animist
@@ -54754,12 +54492,12 @@
 	s:STATE_UPPER_SILESIA = {
 		region_state:HRE = {
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = catholic
 				size = 81317
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = hussite
 				size = 73452
 			}
@@ -54774,12 +54512,12 @@
 				size = 4828
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = catholic
 				size = 54008
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = hussite
 				size = 48444
 			}
@@ -54794,12 +54532,12 @@
 				size = 2997
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = catholic
 				size = 89290
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = hussite
 				size = 82640
 			}
@@ -54968,7 +54706,7 @@
 				size = 17208
 			}
 		}
-		region_state:DU1 = {
+		region_state:YAK = {
 			create_pop = {
 				culture = siberian
 				religion = animist
@@ -54979,8 +54717,6 @@
 				religion = animist
 				size = 7534
 			}
-		}
-		region_state:E04 = {
 			create_pop = {
 				culture = siberian
 				religion = animist
@@ -55399,12 +55135,15 @@
 				religion = animist
 				size = 654
 			}
-		}
-		region_state:N04 = {
 			create_pop = {
 				culture = paiute
 				religion = animist
 				size = 16667
+			}
+			create_pop = {
+				culture = paiute
+				religion = animist
+				size = 41071
 			}
 		}
 		region_state:N06 = {
@@ -55419,13 +55158,6 @@
 				culture = navajo
 				religion = animist
 				size = 7549
-			}
-		}
-		region_state:UTE = {
-			create_pop = {
-				culture = paiute
-				religion = animist
-				size = 41071
 			}
 		}
 	}
@@ -56523,7 +56255,7 @@
 				size = 42977
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 76164
 			}
@@ -56543,7 +56275,7 @@
 				size = 26803
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 58193
 			}
@@ -56563,7 +56295,7 @@
 				size = 62836
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 130557
 			}
@@ -56981,7 +56713,7 @@
 				size = 59217
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 101342
 			}
@@ -56996,7 +56728,7 @@
 				size = 49690
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 119307
 			}
@@ -57011,7 +56743,7 @@
 				size = 54822
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 82317
 			}
@@ -57026,7 +56758,7 @@
 				size = 74050
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 108098
 			}
@@ -57041,7 +56773,7 @@
 				size = 34021
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 77302
 			}
@@ -57299,11 +57031,16 @@
 				size = 284085
 			}
 		}
-		region_state:MRN = {
+		region_state:K14 = {
 			create_pop = {
 				culture = aborigine
 				religion = animist
 				size = 10810
+			}
+			create_pop = {
+				culture = aborigine
+				religion = animist
+				size = 8456
 			}
 		}
 		region_state:NNG = {
@@ -57316,13 +57053,6 @@
 				culture = aborigine
 				religion = animist
 				size = 6626
-			}
-		}
-		region_state:WTI = {
-			create_pop = {
-				culture = aborigine
-				religion = animist
-				size = 8456
 			}
 		}
 		region_state:X81 = {
@@ -57693,7 +57423,7 @@
 				size = 46479
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 118514
 			}
@@ -57718,7 +57448,7 @@
 				size = 36247
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 91900
 			}
@@ -57743,7 +57473,7 @@
 				size = 61944
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 96611
 			}
@@ -58194,17 +57924,17 @@
 	s:STATE_WEST_GALICIA = {
 		region_state:HRE = {
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = catholic
 				size = 134282
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = hussite
 				size = 133114
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 226511
 			}
@@ -58255,17 +57985,17 @@
 				size = 6684
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = catholic
 				size = 77557
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = hussite
 				size = 74607
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 130068
 			}
@@ -58316,17 +58046,17 @@
 				size = 3819
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = catholic
 				size = 70832
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = hussite
 				size = 59724
 			}
 			create_pop = {
-				culture = slovak
+				culture = czech
 				religion = hussite
 				size = 128157
 			}
@@ -58969,12 +58699,12 @@
 				size = 198
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = catholic
 				size = 107539
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = hussite
 				size = 52951
 			}
@@ -59016,7 +58746,7 @@
 		}
 	}
 	s:STATE_WEST_SAHARA = {
-		region_state:SAH = {
+		region_state:MOR = {
 			create_pop = {
 				culture = berber
 				religion = sunni
@@ -59231,8 +58961,6 @@
 				pop_type = slaves
 				size = 11100
 			}
-		}
-		region_state:KBD = {
 			create_pop = {
 				culture = mande
 				religion = sunni
@@ -59255,8 +58983,6 @@
 				pop_type = slaves
 				size = 3333
 			}
-		}
-		region_state:KRU = {
 			create_pop = {
 				culture = kru
 				religion = animist
@@ -59478,7 +59204,7 @@
 		}
 	}
 	s:STATE_WYOMING = {
-		region_state:ARP = {
+		region_state:CSC = {
 			create_pop = {
 				culture = paiute
 				religion = animist
@@ -59489,8 +59215,6 @@
 				religion = animist
 				size = 3000
 			}
-		}
-		region_state:CSC = {
 			create_pop = {
 				culture = paiute
 				religion = animist
@@ -59515,6 +59239,16 @@
 				culture = neo-usa_north_colony-polynesian
 				religion = animist
 				size = 2200
+			}
+			create_pop = {
+				culture = paiute
+				religion = animist
+				size = 18000
+			}
+			create_pop = {
+				culture = siouan
+				religion = animist
+				size = 6000
 			}
 		}
 		region_state:N06 = {
@@ -59549,18 +59283,6 @@
 				culture = neo-usa_north_colony-andalucian
 				religion = catholic
 				size = 6865
-			}
-		}
-		region_state:UTE = {
-			create_pop = {
-				culture = paiute
-				religion = animist
-				size = 18000
-			}
-			create_pop = {
-				culture = siouan
-				religion = animist
-				size = 6000
 			}
 		}
 		region_state:X30 = {
@@ -59713,7 +59435,7 @@
 				size = 643
 			}
 		}
-		region_state:DU1 = {
+		region_state:YAK = {
 			create_pop = {
 				culture = siberian
 				religion = animist
@@ -59724,8 +59446,6 @@
 				religion = animist
 				size = 50100
 			}
-		}
-		region_state:E04 = {
 			create_pop = {
 				culture = siberian
 				religion = animist
@@ -59736,15 +59456,6 @@
 				religion = animist
 				size = 38634
 			}
-		}
-		region_state:V09 = {
-			create_pop = {
-				culture = siberian
-				religion = animist
-				size = 8000
-			}
-		}
-		region_state:YAK = {
 			create_pop = {
 				culture = siberian
 				religion = animist
@@ -59754,6 +59465,13 @@
 				culture = yakut
 				religion = animist
 				size = 41100
+			}
+		}
+		region_state:X68 = {
+			create_pop = {
+				culture = siberian
+				religion = animist
+				size = 8000
 			}
 		}
 	}
@@ -60684,67 +60402,53 @@
 		}
 	}
 	s:STATE_YUKON_TERRITORY = {
-		region_state:DA0 = {
+		region_state:DE2 = {
 			create_pop = {
 				culture = athabaskan
 				religion = animist
 				size = 22000
 			}
-		}
-		region_state:G03 = {
 			create_pop = {
 				culture = athabaskan
 				religion = animist
 				size = 32000
 			}
-		}
-		region_state:HH1 = {
 			create_pop = {
 				culture = athabaskan
 				religion = animist
 				size = 22000
 			}
-		}
-		region_state:HH2 = {
 			create_pop = {
 				culture = athabaskan
 				religion = animist
 				size = 15000
 			}
-		}
-		region_state:IN1 = {
-			create_pop = {
-				culture = inuit
-				religion = animist
-				size = 20709
-			}
-		}
-		region_state:KD1 = {
 			create_pop = {
 				culture = athabaskan
 				religion = animist
 				size = 10000
 			}
-		}
-		region_state:L04 = {
 			create_pop = {
 				culture = athabaskan
 				religion = animist
 				size = 30000
 			}
-		}
-		region_state:S12 = {
-			create_pop = {
-				culture = inuit
-				religion = animist
-				size = 18000
-			}
-		}
-		region_state:T06 = {
 			create_pop = {
 				culture = athabaskan
 				religion = animist
 				size = 22000
+			}
+		}
+		region_state:K04 = {
+			create_pop = {
+				culture = inuit
+				religion = animist
+				size = 20709
+			}
+			create_pop = {
+				culture = inuit
+				religion = animist
+				size = 18000
 			}
 		}
 	}
@@ -61104,7 +60808,7 @@
 		}
 	}
 	s:STATE_ZAMBIA = {
-		region_state:LZO = {
+		region_state:OVM = {
 			create_pop = {
 				culture = lunda
 				religion = animist
