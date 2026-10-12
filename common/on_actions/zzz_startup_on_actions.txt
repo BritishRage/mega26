@@ -19,6 +19,9 @@ converter_game_started = {
 				c:HRE ?= { remove_primary_culture = prev }
 			}
 		}
+		c:SPA ?= { 
+			remove_primary_culture = cu:spanish
+		}
 		every_country = {
 			if = {
 				limit = { is_subject = yes }

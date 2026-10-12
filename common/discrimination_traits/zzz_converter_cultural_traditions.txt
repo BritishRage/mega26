@@ -13,3 +13,9 @@ REPLACE_OR_CREATE:tradition_feminist = {
 REPLACE_OR_CREATE:tradition_egalitarian = {
 	type = tradition
 }
+REPLACE_OR_CREATE:tradition_imperial = {
+	type = tradition
+}
+REPLACE_OR_CREATE:tradition_dual_monarchy = {
+	type = tradition
+}

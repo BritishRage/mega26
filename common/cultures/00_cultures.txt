@@ -1925,7 +1925,7 @@ alemannic={
 	religion = protestant
 	heritage = heritage_germanic
 	language = language_germanophone
-	traditions = { tradition_helvetic tradition_tradition_imperial }
+	traditions = { tradition_helvetic tradition_imperial }
 	obsessions = {
 		meat
 	}
@@ -5692,7 +5692,7 @@ spanish={
 	religion = catholic
 	heritage = heritage_iberian
 	language = language_hispanophone
-	traditions = { }
+	traditions = { tradition_dual_monarchy }
 	obsessions = {
 		liquor
 	}
@@ -6282,7 +6282,7 @@ french={
 	religion = catholic
 	heritage = heritage_gallic
 	language = language_francophone
-	traditions = { }
+	traditions = { tradition_dual_monarchy }
 	
 	obsessions = {
 		wine

@@ -8771,9 +8771,9 @@ REPLACE_OR_CREATE:SPA ?= {
 	tertiary_unit_color = { 108 64 128 }
 	country_type = recognized
 	tier = kingdom
-	cultures = { spanish french }
+	cultures = { french breton occitan }
 	religion = catholic
-	capital = STATE_NEW_CASTILE
+	capital = STATE_ILE_DE_FRANCE
 }
 
 REPLACE_OR_CREATE:SPC ?= {
