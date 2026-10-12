@@ -1,13 +1,13 @@
 TREATIES = {
-# Macau Treaty Port
+# mega26: Imperial-Turkish Agreement (HRE pays Turkey, Turkey grants HRE a trade privilege)
 	create_treaty = {
 		name = treaty_name_imperial_turkish_agreement
 		first_country = c:HRE
 		second_country = c:TUR
 
 		is_draft = no
-		entered_into_force_on = 1701.1.1 # Establishment of Portugese Macau
-		binding_period = { years = 139 } # 99 year binding period after start of game
+		entered_into_force_on = 1701.1.1
+		binding_period = { years = 234 } # runs to 1935, 99 years after the 1836 start (139 years expired in 1840)
 
 		articles_to_create = {
 			{
@@ -15,10 +15,10 @@ TREATIES = {
 				source_country = c:HRE
 				target_country = c:TUR
 				inputs = {
-					{ quantity = 500} # The rent of Macau was 500 taels, about 700 spanish dollars or 145 pounds in 1840 (based on silver prices)
+					{ quantity = 500 }
 				}
 			}
-			{ 
+			{
 				article = trade_privilege
 				source_country = c:TUR
 				target_country = c:HRE

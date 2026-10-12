@@ -1,17 +1,14 @@
 ﻿l_english:
-  czech:0 "Moravian"
-  french:0 "Sólariens"
-  breton:0 "Lûnaires"
-  occitan:0 "Auroràux"
-  wallonian:0 "Boréàux"
-  spanish:0 "Vaincùs"
-
-PLURAL_DEMONYM_czech: "Moravians"
-
-SINGULAR_DEMONYM_czech: "Moravian"
-PLURAL_DEMONYM_FEMALE_czech: "Moravians"
-
-SINGULAR_DEMONYM_FEMALE_czech: "Moravian"
-### Traditions
-tradition_imperial: "Imperial"
-tradition_dual_monarchy: "Dual Monarchy"
+ czech:0 "Moravian"
+ french:0 "Sólariens"
+ breton:0 "Lûnaires"
+ occitan:0 "Auroràux"
+ wallonian:0 "Boréàux"
+ spanish:0 "Vaincùs"
+ PLURAL_DEMONYM_czech: "Moravians"
+ SINGULAR_DEMONYM_czech: "Moravian"
+ PLURAL_DEMONYM_FEMALE_czech: "Moravians"
+ SINGULAR_DEMONYM_FEMALE_czech: "Moravian"
+ ### Traditions
+ tradition_imperial: "Imperial"
+ tradition_dual_monarchy: "Dual Monarchy"

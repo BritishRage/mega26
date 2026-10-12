@@ -1627,7 +1627,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 20
+						levels = 17
 					}
 				}
 				reserves = 1
@@ -4457,7 +4457,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 36
+						levels = 31
 					}
 				}
 				reserves = 1
@@ -5114,7 +5114,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 25
+						levels = 22
 					}
 				}
 				reserves = 1
@@ -5565,7 +5565,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 20
+						levels = 17
 					}
 				}
 				reserves = 1
@@ -12419,7 +12419,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 25
+						levels = 22
 					}
 				}
 				reserves = 1
@@ -15696,7 +15696,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 27
+						levels = 24
 					}
 				}
 				reserves = 1
@@ -32578,7 +32578,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 20
+						levels = 17
 					}
 				}
 				reserves = 1
@@ -44241,7 +44241,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 16
+						levels = 14
 					}
 				}
 				reserves = 1
@@ -45249,7 +45249,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 16
+						levels = 14
 					}
 				}
 				reserves = 1
