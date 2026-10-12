@@ -872,8 +872,13 @@
 		}
 		create_state = {
 			country = c:TUR
-			owned_provinces = { x1131A0 x4D118A x7629BF xB0D0E0 xEBE18C }
+			owned_provinces = { x4D118A x7629BF xB0D0E0 xEBE18C }
 			state_type = incorporated
+		}
+		create_state = {
+			country = c:HRE
+			owned_provinces = { x1131A0 }
+			state_type = unincorporated
 		}
 		add_homeland = cu:kannada
 		add_homeland = cu:marathi
