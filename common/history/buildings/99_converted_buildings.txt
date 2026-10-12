@@ -4543,7 +4543,7 @@
 				add_ownership = {
 					country = {
 						country = c:ALI
-						levels = 32
+						levels = 28
 					}
 				}
 				reserves = 1
@@ -15979,7 +15979,7 @@
 				add_ownership = {
 					country = {
 						country = c:ALI
-						levels = 32
+						levels = 28
 					}
 				}
 				reserves = 1
@@ -18611,7 +18611,7 @@
 				add_ownership = {
 					country = {
 						country = c:ALI
-						levels = 24
+						levels = 21
 					}
 				}
 				reserves = 1
@@ -28737,7 +28737,7 @@
 				add_ownership = {
 					country = {
 						country = c:ALI
-						levels = 26
+						levels = 23
 					}
 				}
 				reserves = 1
@@ -36342,7 +36342,7 @@
 				add_ownership = {
 					country = {
 						country = c:ALI
-						levels = 33
+						levels = 29
 					}
 				}
 				reserves = 1
@@ -37502,7 +37502,7 @@
 				add_ownership = {
 					country = {
 						country = c:ALI
-						levels = 41
+						levels = 37
 					}
 				}
 				reserves = 1

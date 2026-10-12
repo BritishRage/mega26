@@ -248,7 +248,7 @@
 		activate_law = law_type:law_elected_bureaucrats
 		activate_law = law_type:law_interventionism
 		activate_law = law_type:law_land_based_taxation
-		activate_law = law_type:law_local_police
+		activate_law = law_type:law_no_police # mega26: Altai starts with no police
 		activate_law = law_type:law_mercantilism
 		activate_law = law_type:law_monarchy
 		activate_law = law_type:law_national_supremacy
@@ -270,10 +270,6 @@
 			remove_ideology = ideology_paternalistic
  			add_ideology = ideology_scholar_paternalistic
  		}
-		set_institution_investment_level = {
-			institution = institution_police
-			level = 1
-		}
 		set_institution_investment_level = {
 			institution = institution_schools
 			level = 3
