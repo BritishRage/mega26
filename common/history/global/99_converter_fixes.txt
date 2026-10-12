@@ -1,6 +1,11 @@
 ﻿# This is executed last among all history
 GLOBAL = {
 	every_country = { add_era_researched = era_1 } # mega26: tech floor (all of era 1)
+	# mega26: Isolationism forbids all trade, so trade centers sat idle; switch to Mercantilism (needs international_trade, from the era_1 floor above)
+	every_country = {
+		limit = { has_law = law_type:law_isolationism }
+		activate_law = law_type:law_mercantilism
+	}
 	# mega26: the HRE grants transit rights through Goyana (its chartered company, which can't grant them itself as a junior market partner)
 	if = {
 		limit = { exists = c:HRE exists = c:TWT }

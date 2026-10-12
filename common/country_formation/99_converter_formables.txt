@@ -762,9 +762,25 @@ REPLACE_OR_CREATE:MCR = { #Micronesia, Micronesian People
 	}
 }
 REPLACE_OR_CREATE:MGL = { #Mongolia, Mongolian People
-	use_culture_states = yes
+	# mega26: Mongol Empire - the Mongol homelands, listed explicitly so the Han/Manchu cultures on MGL don't pull in all of China
+	states = {
+		STATE_URGA
+		STATE_ULIASTAI
+		STATE_ALXA
+		STATE_HINGGAN
+		STATE_BEIJING
+		STATE_GANSU
+		STATE_DZUNGARIA
+		STATE_NORTHERN_MANCHURIA
+		STATE_SOUTHERN_MANCHURIA
+		STATE_QINGHAI
+		STATE_JETISY
+		STATE_TIANSHAN
+		STATE_TRANS_BAIKAL
+		STATE_IRKUTSK
+	}
 
-	required_states_fraction = 0.75
+	required_states_fraction = 0.6
 	
 	ai_will_do = { always = yes }
 }

@@ -3886,8 +3886,13 @@ on_country_released_as_overlord_subject = {
 # Root = Country
 on_country_formed = {
 	effect = {
-		if = { # mega26: China formed by Altai keeps Confucian (cultures come from the CHI definition)
-			limit = { c:CHI ?= ROOT }
+		if = { # mega26: China / Mongol Empire formed by Altai keep Confucian (cultures come from the CHI/MGL definitions)
+			limit = {
+				OR = {
+					c:CHI ?= ROOT
+					c:MGL ?= ROOT
+				}
+			}
 			set_state_religion = rel:confucian
 		}
 		if = {

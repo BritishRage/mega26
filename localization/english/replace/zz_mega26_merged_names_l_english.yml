@@ -24,3 +24,7 @@
  X83_ADJ: "Tverian"
  CKC: "Kamchatka"
  CKC_ADJ: "Kamchatkan"
+ # mega26: Mongol formable shows as the Great Mongolian State everywhere (vanilla only used it for monarchies)
+ MGL: "Great Mongolian State"
+ MGL_ADJ: "Mongolian"
+ dyn_c_great_mongolian_state_adj: "Mongolian"
