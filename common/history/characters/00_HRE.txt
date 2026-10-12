@@ -71,6 +71,7 @@
 			first_name = "Ernest"
 			last_name = "Gross"
 			heir = yes
+			interest_group = ig_intelligentsia
 			culture = cu:south_german
 			religion = rel:hussite
 			birth_date = 1818.8.11
@@ -151,6 +152,7 @@
 			first_name = "Friedrich_Wilhelm_I"
 			last_name = "Gross"
 			ruler = yes
+			interest_group = ig_devout
 			culture = cu:south_german
 			religion = rel:hussite
 			birth_date = 1799.10.16
