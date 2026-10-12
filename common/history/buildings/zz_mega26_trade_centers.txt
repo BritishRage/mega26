@@ -1,0 +1,460 @@
+﻿BUILDINGS = {
+	# mega26: trade centers for markets that had none (and ports where the market had no usable one)
+	s:STATE_ACEH = {
+		region_state:X50 = {
+			create_building = {
+				building = "building_trade_center"
+				add_ownership = {
+					country = {
+						country = c:X50
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_trade_center_trade_quantity_normal" }
+			}
+		}
+	}
+	s:STATE_ALASKA = {
+		region_state:DE2 = {
+			create_building = {
+				building = "building_port"
+				add_ownership = {
+					country = {
+						country = c:DE2
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_basic_port" }
+			}
+			create_building = {
+				building = "building_trade_center"
+				add_ownership = {
+					country = {
+						country = c:DE2
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_trade_center_trade_quantity_normal" }
+			}
+		}
+	}
+	s:STATE_ALGIERS = {
+		region_state:V19 = {
+			create_building = {
+				building = "building_trade_center"
+				add_ownership = {
+					country = {
+						country = c:V19
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_trade_center_trade_quantity_normal" }
+			}
+		}
+	}
+	s:STATE_AWADH = {
+		region_state:X79 = {
+			create_building = {
+				building = "building_trade_center"
+				add_ownership = {
+					country = {
+						country = c:X79
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_trade_center_trade_quantity_normal" }
+			}
+		}
+	}
+	s:STATE_CHAD = {
+		region_state:TBI = {
+			create_building = {
+				building = "building_trade_center"
+				add_ownership = {
+					country = {
+						country = c:TBI
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_trade_center_trade_quantity_normal" }
+			}
+		}
+	}
+	s:STATE_CIRCARS = {
+		region_state:X12 = {
+			create_building = {
+				building = "building_trade_center"
+				add_ownership = {
+					country = {
+						country = c:X12
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_trade_center_trade_quantity_normal" }
+			}
+		}
+	}
+	s:STATE_CONGO_ORIENTALE = {
+		region_state:ZND = {
+			create_building = {
+				building = "building_trade_center"
+				add_ownership = {
+					country = {
+						country = c:ZND
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_trade_center_trade_quantity_normal" }
+			}
+		}
+	}
+	s:STATE_EASTERN_NEW_GUINEA = {
+		region_state:PPU = {
+			create_building = {
+				building = "building_trade_center"
+				add_ownership = {
+					country = {
+						country = c:PPU
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_trade_center_trade_quantity_normal" }
+			}
+		}
+	}
+	s:STATE_EQUATEUR = {
+		region_state:BNG = {
+			create_building = {
+				building = "building_trade_center"
+				add_ownership = {
+					country = {
+						country = c:BNG
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_trade_center_trade_quantity_normal" }
+			}
+		}
+	}
+	s:STATE_EQUATORIA = {
+		region_state:DNK = {
+			create_building = {
+				building = "building_trade_center"
+				add_ownership = {
+					country = {
+						country = c:DNK
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_trade_center_trade_quantity_normal" }
+			}
+		}
+	}
+	s:STATE_LA_PAZ = {
+		region_state:TWT = {
+			create_building = {
+				building = "building_trade_center"
+				add_ownership = {
+					country = {
+						country = c:TWT
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_trade_center_trade_quantity_normal" }
+			}
+		}
+	}
+	s:STATE_MALAYA = {
+		region_state:W64 = {
+			create_building = {
+				building = "building_trade_center"
+				add_ownership = {
+					country = {
+						country = c:W64
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_trade_center_trade_quantity_normal" }
+			}
+		}
+	}
+	s:STATE_MALWA = {
+		region_state:W46 = {
+			create_building = {
+				building = "building_trade_center"
+				add_ownership = {
+					country = {
+						country = c:W46
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_trade_center_trade_quantity_normal" }
+			}
+		}
+	}
+	s:STATE_MINDANAO = {
+		region_state:W90 = {
+			create_building = {
+				building = "building_trade_center"
+				add_ownership = {
+					country = {
+						country = c:W90
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_trade_center_trade_quantity_normal" }
+			}
+		}
+	}
+	s:STATE_MINNESOTA = {
+		region_state:LKT = {
+			create_building = {
+				building = "building_trade_center"
+				add_ownership = {
+					country = {
+						country = c:LKT
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_trade_center_trade_quantity_normal" }
+			}
+		}
+	}
+	s:STATE_MYSORE = {
+		region_state:V27 = {
+			create_building = {
+				building = "building_trade_center"
+				add_ownership = {
+					country = {
+						country = c:V27
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_trade_center_trade_quantity_normal" }
+			}
+		}
+	}
+	s:STATE_NORTHWEST_TERRITORIES = {
+		region_state:K04 = {
+			create_building = {
+				building = "building_trade_center"
+				add_ownership = {
+					country = {
+						country = c:K04
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_trade_center_trade_quantity_normal" }
+			}
+		}
+	}
+	s:STATE_NORTH_BORNEO = {
+		region_state:BRU = {
+			create_building = {
+				building = "building_trade_center"
+				add_ownership = {
+					country = {
+						country = c:BRU
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_trade_center_trade_quantity_normal" }
+			}
+		}
+	}
+	s:STATE_OMAN = {
+		region_state:MAH = {
+			create_building = {
+				building = "building_trade_center"
+				add_ownership = {
+					country = {
+						country = c:MAH
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_trade_center_trade_quantity_normal" }
+			}
+		}
+	}
+	s:STATE_ONTARIO = {
+		region_state:M09 = {
+			create_building = {
+				building = "building_trade_center"
+				add_ownership = {
+					country = {
+						country = c:M09
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_trade_center_trade_quantity_normal" }
+			}
+		}
+	}
+	s:STATE_PARA = {
+		region_state:W19 = {
+			create_building = {
+				building = "building_trade_center"
+				add_ownership = {
+					country = {
+						country = c:W19
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_trade_center_trade_quantity_normal" }
+			}
+		}
+	}
+	s:STATE_PUNJAB = {
+		region_state:W51 = {
+			create_building = {
+				building = "building_trade_center"
+				add_ownership = {
+					country = {
+						country = c:W51
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_trade_center_trade_quantity_normal" }
+			}
+		}
+	}
+	s:STATE_QUEBEC = {
+		region_state:N11 = {
+			create_building = {
+				building = "building_trade_center"
+				add_ownership = {
+					country = {
+						country = c:N11
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_trade_center_trade_quantity_normal" }
+			}
+		}
+	}
+	s:STATE_SAMARA = {
+		region_state:W56 = {
+			create_building = {
+				building = "building_trade_center"
+				add_ownership = {
+					country = {
+						country = c:W56
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_trade_center_trade_quantity_normal" }
+			}
+		}
+	}
+	s:STATE_SOUTH_ANGOLA = {
+		region_state:OVM = {
+			create_building = {
+				building = "building_trade_center"
+				add_ownership = {
+					country = {
+						country = c:OVM
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_trade_center_trade_quantity_normal" }
+			}
+		}
+	}
+	s:STATE_SOUTH_AUSTRALIA = {
+		region_state:K14 = {
+			create_building = {
+				building = "building_trade_center"
+				add_ownership = {
+					country = {
+						country = c:K14
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_trade_center_trade_quantity_normal" }
+			}
+		}
+	}
+	s:STATE_TVER = {
+		region_state:X83 = {
+			create_building = {
+				building = "building_trade_center"
+				add_ownership = {
+					country = {
+						country = c:X83
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_trade_center_trade_quantity_normal" }
+			}
+		}
+	}
+	s:STATE_WINDWARD_COAST = {
+		region_state:BLE = {
+			create_building = {
+				building = "building_trade_center"
+				add_ownership = {
+					country = {
+						country = c:BLE
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_trade_center_trade_quantity_normal" }
+			}
+		}
+	}
+	s:STATE_YAKUTSK = {
+		region_state:YAK = {
+			create_building = {
+				building = "building_port"
+				add_ownership = {
+					country = {
+						country = c:YAK
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_basic_port" }
+			}
+			create_building = {
+				building = "building_trade_center"
+				add_ownership = {
+					country = {
+						country = c:YAK
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_trade_center_trade_quantity_normal" }
+			}
+		}
+	}
+}

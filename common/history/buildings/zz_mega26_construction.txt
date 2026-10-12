@@ -1,0 +1,9303 @@
+﻿BUILDINGS = {
+	# mega26: construction sectors, 0.2% of each country's population in construction jobs, spread over its populous states
+	s:STATE_ABRUZZO = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_ACEH = {
+		region_state:X50 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X50
+						levels = 20
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_ADANA = {
+		region_state:TUR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUR
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_AGRA = {
+		region_state:X79 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X79
+						levels = 18
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_AKMOLINSK = {
+		region_state:BUK = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:BUK
+						levels = 6
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_AKTOBE = {
+		region_state:BUK = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:BUK
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_ALABAMA = {
+		region_state:X28 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X28
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_ALAND = {
+		region_state:SCA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SCA
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_ALASKA = {
+		region_state:ALK = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ALK
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_ALBANIA = {
+		region_state:TUR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUR
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_ALENTEJO = {
+		region_state:SPA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SPA
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_ALEPPO = {
+		region_state:TUR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUR
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_ALGIERS = {
+		region_state:V19 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:V19
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_ALSACE_LORRAINE = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_ALSACE_LORRAINE = {
+		region_state:X89 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X89
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_ALXA = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_AMAZONAS = {
+		region_state:TWT = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TWT
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_AMHARA = {
+		region_state:DNK = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:DNK
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_AMHARA = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_AMUR = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_AMUR = {
+		region_state:JAP = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:JAP
+						levels = 5
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_ANHALT = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 4
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_ANKARA = {
+		region_state:TUR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUR
+						levels = 6
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_ANNAM = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_ANNAM = {
+		region_state:SH0 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SH0
+						levels = 10
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_ANTIOQUIA = {
+		region_state:X25 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X25
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_APULIA = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 4
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_AQUITAINE = {
+		region_state:SPA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SPA
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_ARAGON = {
+		region_state:SPA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SPA
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_ARAKAN = {
+		region_state:X16 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X16
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_ARIZONA = {
+		region_state:TEX = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TEX
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_ARKANSAS = {
+		region_state:X30 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X30
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_ARKHANGELSK = {
+		region_state:SCA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SCA
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_ARMENIA = {
+		region_state:TUR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUR
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_ASSAM = {
+		region_state:X16 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X16
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_ASTRAKHAN = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_ATTICA = {
+		region_state:TUR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUR
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_AUSTRIA = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_AUVERGNE_LIMOUSIN = {
+		region_state:SPA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SPA
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_AWADH = {
+		region_state:X16 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X16
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_AWADH = {
+		region_state:X79 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X79
+						levels = 12
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_AYDIN = {
+		region_state:TUR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUR
+						levels = 4
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_AZERBAIJAN = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_AZERBAIJAN = {
+		region_state:TUR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUR
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_BADEN = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_BADEN = {
+		region_state:X89 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X89
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_BAGHDAD = {
+		region_state:TUR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUR
+						levels = 5
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_BAHIA = {
+		region_state:EQT = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:EQT
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_BAJIO = {
+		region_state:X22 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X22
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_BALEARIC_ISLANDS = {
+		region_state:SPA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SPA
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_BALKH = {
+		region_state:BUK = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:BUK
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_BANGKOK = {
+		region_state:SIA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SIA
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_BANGKOK = {
+		region_state:W44 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:W44
+						levels = 6
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_BANGKOK = {
+		region_state:X16 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X16
+						levels = 6
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_BASQUE_COUNTRY = {
+		region_state:SPA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SPA
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_BASRA = {
+		region_state:TUR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUR
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_BAS_CONGO = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_BAVARIA = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 9
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_BEIJING = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 9
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_BEIRA = {
+		region_state:SPA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SPA
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_BEKES = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_BENIN = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_BESSARABIA = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_BIHAR = {
+		region_state:X16 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X16
+						levels = 8
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_BLUE_NILE = {
+		region_state:X07 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X07
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_BOHEMIA = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 6
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_BOLIVAR = {
+		region_state:X32 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X32
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_BOMBAY = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 15
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_BOMBAY = {
+		region_state:TUR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUR
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_BORNU = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_BOSNIA = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_BRANDENBURG = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 5
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_BREST = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_BRITTANY = {
+		region_state:SPA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SPA
+						levels = 8
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_BRUNSWICK = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_BUENOS_AIRES = {
+		region_state:PLT = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:PLT
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_BULGARIA = {
+		region_state:TUR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUR
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_BUNDELKHAND = {
+		region_state:X79 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X79
+						levels = 6
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_BURGUNDY = {
+		region_state:SPA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SPA
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_BURYATIA = {
+		region_state:BUK = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:BUK
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_BUSAN = {
+		region_state:JAP = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:JAP
+						levels = 7
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_CAJAMARCA = {
+		region_state:NPU = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:NPU
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_CALABRIA = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_CALIFORNIA = {
+		region_state:TEX = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TEX
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_CAMBODIA = {
+		region_state:W44 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:W44
+						levels = 9
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_CAMPANIA = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_CAPE_COLONY = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_CATALONIA = {
+		region_state:SPA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SPA
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_CELEBES = {
+		region_state:W31 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:W31
+						levels = 15
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_CELEBES = {
+		region_state:W91 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:W91
+						levels = 5
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_CELEBES = {
+		region_state:W94 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:W94
+						levels = 12
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_CENTRAL_CUBA = {
+		region_state:CUB = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:CUB
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_CENTRAL_HIGHLANDS = {
+		region_state:BUK = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:BUK
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_CENTRAL_HUNGARY = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_CENTRAL_JAVA = {
+		region_state:W91 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:W91
+						levels = 18
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_CENTRAL_PROVINCES = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_CENTRAL_PROVINCES = {
+		region_state:W46 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:W46
+						levels = 5
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_CENTRAL_PROVINCES = {
+		region_state:X79 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X79
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_CEYLON = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 6
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_CHAD = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_CHAD = {
+		region_state:TBI = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TBI
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_CHAMPAGNE = {
+		region_state:SPA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SPA
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_CHELYABINSK = {
+		region_state:BUK = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:BUK
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_CHERNIHIV = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_CHERSON = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_CHIANG_MAI = {
+		region_state:SIA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SIA
+						levels = 7
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_CHIANG_MAI = {
+		region_state:X16 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X16
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_CHONGQING = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_CHONGQING = {
+		region_state:KYR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:KYR
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_CHUGOKU = {
+		region_state:JAP = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:JAP
+						levels = 17
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_CHUKOTKA = {
+		region_state:X68 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X68
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_CIRCARS = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_CIRCARS = {
+		region_state:X16 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X16
+						levels = 6
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_CONGO_ORIENTALE = {
+		region_state:ZND = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ZND
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_CONNAUGHT = {
+		region_state:GBR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:GBR
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_CONSTANTINE = {
+		region_state:V19 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:V19
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_CORSICA = {
+		region_state:X80 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X80
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_COURLAND = {
+		region_state:SCA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SCA
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_CRIMEA = {
+		region_state:X88 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X88
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_CROATIA = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_CUNDINAMARCA = {
+		region_state:X25 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X25
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_DAGESTAN = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_DAHOMEY = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_DALMATIA = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_DEIR_EZ_ZOR = {
+		region_state:TUR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUR
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_DELHI = {
+		region_state:X79 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X79
+						levels = 4
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_DELVIDEK = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_DIYARBAKIR = {
+		region_state:TUR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUR
+						levels = 4
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_DOBRUDJA = {
+		region_state:TUR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUR
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_DONGOLA = {
+		region_state:X07 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X07
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_DZUNGARIA = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 5
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_EASTERN_CAPE = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_EASTERN_HIMALAYAS = {
+		region_state:X16 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X16
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_EASTERN_HUBEI = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_EASTERN_MALI = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_EASTERN_NEW_GUINEA = {
+		region_state:HAW = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HAW
+						levels = 4
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_EASTERN_NORWAY = {
+		region_state:SCA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SCA
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_EASTERN_THRACE = {
+		region_state:TUR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUR
+						levels = 4
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_EAST_AEGEAN_ISLANDS = {
+		region_state:TUR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUR
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_EAST_ANGLIA = {
+		region_state:GBR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:GBR
+						levels = 4
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_EAST_ANGOLA = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_EAST_ANGOLA = {
+		region_state:OVM = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:OVM
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_EAST_BENGAL = {
+		region_state:X16 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X16
+						levels = 8
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_EAST_BORNEO = {
+		region_state:BRU = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:BRU
+						levels = 7
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_EAST_BORNEO = {
+		region_state:KTI = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:KTI
+						levels = 8
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_EAST_BORNEO = {
+		region_state:X13 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X13
+						levels = 4
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_EAST_BORNEO = {
+		region_state:X17 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X17
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_EAST_GALICIA = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_EAST_HAUSALAND = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_EAST_JAVA = {
+		region_state:W91 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:W91
+						levels = 5
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_EAST_JAVA = {
+		region_state:X15 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X15
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_EAST_KARELIA = {
+		region_state:SCA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SCA
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_EAST_MICRONESIA = {
+		region_state:HAW = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HAW
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_EAST_PRUSSIA = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 4
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_EAST_SWITZERLAND = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_ECUADOR = {
+		region_state:X25 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X25
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_ELBE = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 6
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_ELIZAVETPOL = {
+		region_state:TUR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUR
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_EMILIA = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_ENTRE_DOURO_E_MINHO = {
+		region_state:SPA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SPA
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_EQUATEUR = {
+		region_state:BNG = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:BNG
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_EQUATORIA = {
+		region_state:DNK = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:DNK
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_EQUATORIA = {
+		region_state:ZND = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ZND
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_ERZURUM = {
+		region_state:TUR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUR
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_ESTREMADURA = {
+		region_state:SPA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SPA
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_EXTREMADURA = {
+		region_state:SPA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SPA
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_FARS = {
+		region_state:TUR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUR
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_FERGANA = {
+		region_state:BUK = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:BUK
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_FEZ = {
+		region_state:W50 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:W50
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_FIJI = {
+		region_state:HAW = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HAW
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_FIJI = {
+		region_state:W26 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:W26
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_FLANDERS = {
+		region_state:SPA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SPA
+						levels = 4
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_FLORIDA = {
+		region_state:X28 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X28
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_FORMOSA = {
+		region_state:JAP = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:JAP
+						levels = 6
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_FRANCHE_COMTE = {
+		region_state:SPA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SPA
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_FRANCONIA = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_FRENCH_LOW_COUNTRIES = {
+		region_state:SPA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SPA
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_FRIESLAND = {
+		region_state:X86 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X86
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_FUJIAN = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 4
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_GALICH = {
+		region_state:SCA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SCA
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_GALICIA = {
+		region_state:SPA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SPA
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_GANSU = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_GELRE = {
+		region_state:SPA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SPA
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_GELRE = {
+		region_state:X86 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X86
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_GEORGIA = {
+		region_state:X28 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X28
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_GOIAS = {
+		region_state:EQT = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:EQT
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_GOLD_COAST = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_GONDER = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_GOTALAND = {
+		region_state:SCA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SCA
+						levels = 5
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_GOTLAND = {
+		region_state:SCA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SCA
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_GREATER_CAUCASUS = {
+		region_state:TUR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUR
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_GREATER_POLAND = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 5
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_GUANGDONG = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 9
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_GUANGXI = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 5
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_GUATEMALA = {
+		region_state:X22 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X22
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_GUAYANA = {
+		region_state:X34 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X34
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_GUERRERO = {
+		region_state:X22 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X22
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_GUINEA = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_GUIZHOU = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_GUIZHOU = {
+		region_state:KYR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:KYR
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_GUJARAT = {
+		region_state:TUR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUR
+						levels = 11
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_GUYENNE = {
+		region_state:SPA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SPA
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_HAIL = {
+		region_state:TUR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUR
+						levels = 4
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_HAITI = {
+		region_state:CUB = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:CUB
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_HANNOVER = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 6
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_HAUSALAND = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_HAWAIIAN_ISLANDS = {
+		region_state:HAW = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HAW
+						levels = 9
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_HEDJAZ = {
+		region_state:TUR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUR
+						levels = 7
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_HENAN = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 9
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_HERAT = {
+		region_state:BUK = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:BUK
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_HESSE = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 4
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_HESSE = {
+		region_state:X89 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X89
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_HIGHLANDS = {
+		region_state:GBR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:GBR
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_HILL_PUNJAB = {
+		region_state:X79 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X79
+						levels = 6
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_HIMALAYAS = {
+		region_state:X16 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X16
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_HIMALAYAS = {
+		region_state:X79 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X79
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_HINGGAN = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 5
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_HOKKAIDO = {
+		region_state:JAP = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:JAP
+						levels = 12
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_HOKUSHINETSU = {
+		region_state:JAP = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:JAP
+						levels = 12
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_HOLLAND = {
+		region_state:SPA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SPA
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_HOLLAND = {
+		region_state:X86 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X86
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_HOME_COUNTIES = {
+		region_state:GBR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:GBR
+						levels = 4
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_HUDAVENDIGAR = {
+		region_state:TUR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUR
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_HUNAN = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 4
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_HYDERABAD = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 15
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_HYDERABAD = {
+		region_state:X16 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X16
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_ILE_DE_FRANCE = {
+		region_state:SPA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SPA
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_INGRIA = {
+		region_state:SCA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SCA
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_INNER_MOROCCO = {
+		region_state:MOR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MOR
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_INNER_MOROCCO = {
+		region_state:W50 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:W50
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_IRAKAJEMI = {
+		region_state:TUR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUR
+						levels = 11
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_IRKUTSK = {
+		region_state:BUK = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:BUK
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_ISFAHAN = {
+		region_state:TUR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUR
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_ISTRIA = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_JALISCO = {
+		region_state:X22 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X22
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_JETISY = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_JIANGSU = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 7
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_JIANGXI = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 4
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_JUTLAND = {
+		region_state:SCA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SCA
+						levels = 4
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_KABUL = {
+		region_state:BUK = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:BUK
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_KACHIN = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 4
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_KACHIN = {
+		region_state:X16 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X16
+						levels = 8
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_KALMYKIA = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_KAMCHATKA = {
+		region_state:CKC = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:CKC
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_KANAK = {
+		region_state:HAW = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HAW
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_KANDAHAR = {
+		region_state:BUK = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:BUK
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_KANSAI = {
+		region_state:JAP = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:JAP
+						levels = 12
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_KANTO = {
+		region_state:HAW = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HAW
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_KANTO = {
+		region_state:JAP = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:JAP
+						levels = 13
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_KARS = {
+		region_state:TUR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUR
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_KASAI = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_KASHMIR = {
+		region_state:BUK = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:BUK
+						levels = 4
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_KASTAMONU = {
+		region_state:TUR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUR
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_KATANGA = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_KAUNAS = {
+		region_state:SCA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SCA
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_KAZAN = {
+		region_state:SCA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SCA
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_KAZEMBE = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_KENYA = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_KERMAN = {
+		region_state:TUR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUR
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_KHARKOV = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_KHIVA = {
+		region_state:BUK = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:BUK
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_KHORASAN = {
+		region_state:BUK = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:BUK
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_KHORASAN = {
+		region_state:TUR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUR
+						levels = 4
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_KHUZESTAN = {
+		region_state:TUR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUR
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_KIEV = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 7
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_KIRGHIZIA = {
+		region_state:BUK = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:BUK
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_KONYA = {
+		region_state:TUR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUR
+						levels = 8
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_KORDOFAN = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_KUOPIO = {
+		region_state:SCA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SCA
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_KURNOOL = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_KURNOOL = {
+		region_state:X16 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X16
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_KURSK = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_KYOTO = {
+		region_state:JAP = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:JAP
+						levels = 9
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_KYUSHU = {
+		region_state:JAP = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:JAP
+						levels = 21
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_LANCASHIRE = {
+		region_state:GBR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:GBR
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_LANGUEDOC = {
+		region_state:SPA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SPA
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_LAOS = {
+		region_state:SIA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SIA
+						levels = 7
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_LAOS = {
+		region_state:W44 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:W44
+						levels = 4
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_LARISTAN = {
+		region_state:JAP = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:JAP
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_LARISTAN = {
+		region_state:TUR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUR
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_LAZIO = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_LA_PAZ = {
+		region_state:NPU = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:NPU
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_LEINSTER = {
+		region_state:GBR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:GBR
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_LEON = {
+		region_state:SPA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SPA
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_LESSER_POLAND = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_LHASA = {
+		region_state:X16 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X16
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_LIMA = {
+		region_state:NPU = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:NPU
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_LINDI = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_LOMBARDY = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_LOMBARDY = {
+		region_state:LOM = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:LOM
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_LORRAINE = {
+		region_state:SPA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SPA
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_LOUISIANA = {
+		region_state:X30 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X30
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_LOURENCO_MARQUES = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_LOWER_ANDALUSIA = {
+		region_state:SPA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SPA
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_LOWER_EGYPT = {
+		region_state:TUR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUR
+						levels = 4
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_LOWER_SILESIA = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_LOWLANDS = {
+		region_state:GBR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:GBR
+						levels = 6
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_LURISTAN = {
+		region_state:TUR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUR
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_LUZON = {
+		region_state:BRU = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:BRU
+						levels = 6
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_LUZON = {
+		region_state:GBR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:GBR
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_MACEDONIA = {
+		region_state:TUR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUR
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_MADRAS = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 20
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_MAINE = {
+		region_state:X26 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X26
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_MAINE_ANJOU = {
+		region_state:SPA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SPA
+						levels = 5
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_MALAYA = {
+		region_state:W44 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:W44
+						levels = 12
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_MALAYA = {
+		region_state:W64 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:W64
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_MALAYA = {
+		region_state:X91 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X91
+						levels = 13
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_MALWA = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_MALWA = {
+		region_state:W46 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:W46
+						levels = 6
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_MALWA = {
+		region_state:X79 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X79
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_MANDALAY = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 8
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_MANDALAY = {
+		region_state:X16 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X16
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_MARANHAO = {
+		region_state:X34 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X34
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_MARRAKECH = {
+		region_state:MOR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MOR
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_MARRAKECH = {
+		region_state:W50 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:W50
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_MASSACHUSETTS = {
+		region_state:X26 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X26
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_MATO_GROSSO = {
+		region_state:EQT = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:EQT
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_MAZANDARAN = {
+		region_state:BUK = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:BUK
+						levels = 4
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_MAZANDARAN = {
+		region_state:TUR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUR
+						levels = 7
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_MAZOVIA = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_MECKLENBURG = {
+		region_state:X85 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X85
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_MEKONG = {
+		region_state:SH0 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SH0
+						levels = 10
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_MEKONG = {
+		region_state:W44 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:W44
+						levels = 5
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_MERZ = {
+		region_state:BUK = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:BUK
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_MEXICO = {
+		region_state:X22 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X22
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_MIDDLE_EGYPT = {
+		region_state:TUR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUR
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_MIDLANDS = {
+		region_state:GBR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:GBR
+						levels = 6
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_MINAS_GERAIS = {
+		region_state:EQT = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:EQT
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_MINDANAO = {
+		region_state:BRU = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:BRU
+						levels = 4
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_MINDANAO = {
+		region_state:W90 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:W90
+						levels = 4
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_MINDANAO = {
+		region_state:X81 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X81
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_MINNESOTA = {
+		region_state:LKT = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:LKT
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_MINNESOTA = {
+		region_state:X30 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X30
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_MINSK = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_MIRANDA = {
+		region_state:X25 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X25
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_MISSISSIPPI = {
+		region_state:X28 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X28
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_MISSOURI = {
+		region_state:X30 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X30
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_MOCAMBIQUE = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_MOGILEV = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_MOLDAVIA = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_MOLUCCAS = {
+		region_state:GBR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:GBR
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_MOLUCCAS = {
+		region_state:V27 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:V27
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_MOLUCCAS = {
+		region_state:W44 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:W44
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_MOLUCCAS = {
+		region_state:W94 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:W94
+						levels = 6
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_MONTANA = {
+		region_state:X30 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X30
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_MORAVIA = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_MOSCOW = {
+		region_state:SCA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SCA
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_MOSUL = {
+		region_state:TUR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUR
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_MUNSTER = {
+		region_state:GBR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:GBR
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_MURCIA = {
+		region_state:SPA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SPA
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_MYSORE = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 5
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_MYSORE = {
+		region_state:V27 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:V27
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_NAKHON_RATCHASIMA = {
+		region_state:SIA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SIA
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_NAKHON_RATCHASIMA = {
+		region_state:W44 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:W44
+						levels = 6
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_NANJING = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_NEJD = {
+		region_state:TUR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUR
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_NEW_BRUNSWICK = {
+		region_state:X24 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X24
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_NEW_CASTILE = {
+		region_state:SPA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SPA
+						levels = 6
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_NEW_MEXICO = {
+		region_state:TEX = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TEX
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_NEW_SOUTH_WALES = {
+		region_state:HAW = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HAW
+						levels = 13
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_NEW_SOUTH_WALES = {
+		region_state:X82 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X82
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_NEW_YORK = {
+		region_state:X26 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X26
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_NGARI = {
+		region_state:X49 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X49
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_NIGER = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_NIGERIA = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_NINGXIA = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_NIZHNY_NOVGOROD = {
+		region_state:SCA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SCA
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_NORMANDY = {
+		region_state:SPA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SPA
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_NORRLAND = {
+		region_state:SCA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SCA
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_NORTHERN_ANHUI = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 6
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_NORTHERN_BALUCHISTAN = {
+		region_state:BUK = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:BUK
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_NORTHERN_CAPE = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_NORTHERN_MANCHURIA = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 8
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_NORTHERN_NORWAY = {
+		region_state:SCA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SCA
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_NORTHERN_TERRITORY = {
+		region_state:HAW = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HAW
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_NORTHERN_THRACE = {
+		region_state:TUR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUR
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_NORTHERN_TRANSYLVANIA = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_NORTHWEST_TERRITORIES = {
+		region_state:DE2 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:DE2
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_NORTH_ANGOLA = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_NORTH_BORNEO = {
+		region_state:BRU = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:BRU
+						levels = 17
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_NORTH_CAMEROON = {
+		region_state:BNG = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:BNG
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_NORTH_CAROLINA = {
+		region_state:X28 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X28
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_NORTH_CAUCASUS = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_NORTH_DAKOTA = {
+		region_state:X30 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X30
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_NORTH_ISLAND = {
+		region_state:HAW = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HAW
+						levels = 7
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_NORTH_MADAGASCAR = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_NORTH_RHINE = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_NORTH_RHINE = {
+		region_state:X89 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X89
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_NORTH_SUMATRA = {
+		region_state:BRU = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:BRU
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_NORTH_SUMATRA = {
+		region_state:V27 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:V27
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_NORTH_SUMATRA = {
+		region_state:W44 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:W44
+						levels = 6
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_NORTH_SUMATRA = {
+		region_state:X50 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X50
+						levels = 16
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_NOVGOROD = {
+		region_state:SCA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SCA
+						levels = 4
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_NUNAVUT = {
+		region_state:K04 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:K04
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_OAXACA = {
+		region_state:X22 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X22
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_OB = {
+		region_state:BUK = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:BUK
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_OHIO = {
+		region_state:X26 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X26
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_OLD_CASTILE = {
+		region_state:SPA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SPA
+						levels = 6
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_OMAN = {
+		region_state:MAH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MAH
+						levels = 7
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_OMAN = {
+		region_state:TUR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUR
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_ONTARIO = {
+		region_state:M09 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:M09
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_ONTARIO = {
+		region_state:X24 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X24
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_ORAN = {
+		region_state:V19 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:V19
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_ORAN = {
+		region_state:W50 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:W50
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_ORISSA = {
+		region_state:X12 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X12
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_ORISSA = {
+		region_state:X16 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X16
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_ORLEANS = {
+		region_state:SPA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SPA
+						levels = 4
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_OROMIA = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 4
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_ORYOL = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_OSTROBOTHNIA = {
+		region_state:SCA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SCA
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_OULU = {
+		region_state:SCA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SCA
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_OUTER_HAUSALAND = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 4
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_OUTER_MANCHURIA = {
+		region_state:JAP = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:JAP
+						levels = 20
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_PALESTINE = {
+		region_state:TUR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUR
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_PARA = {
+		region_state:TWT = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TWT
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_PARA = {
+		region_state:W19 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:W19
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_PASHTUNISTAN = {
+		region_state:BUK = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:BUK
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_PATAGONIA = {
+		region_state:PLT = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:PLT
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_PEGU = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 7
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_PENNSYLVANIA = {
+		region_state:X26 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X26
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_PERM = {
+		region_state:TAR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TAR
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_PERNAMBUCO = {
+		region_state:EQT = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:EQT
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_PICARDY = {
+		region_state:SPA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SPA
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_PIEDMONT = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 4
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_PIEDMONT = {
+		region_state:LOM = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:LOM
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_POITOU = {
+		region_state:SPA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SPA
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_POMERANIA = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 5
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_POMERANIA = {
+		region_state:X85 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X85
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_POSEN = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 4
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_PROVENCE = {
+		region_state:SPA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SPA
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_PSKOV = {
+		region_state:SCA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SCA
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_PUNJAB = {
+		region_state:BUK = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:BUK
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_PUNJAB = {
+		region_state:W51 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:W51
+						levels = 5
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_PUNJAB = {
+		region_state:X79 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X79
+						levels = 5
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_PYONGYANG = {
+		region_state:JAP = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:JAP
+						levels = 15
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_QUEBEC = {
+		region_state:N11 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:N11
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_QUEBEC = {
+		region_state:X24 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X24
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_QUEENSLAND = {
+		region_state:HAW = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HAW
+						levels = 4
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_QUEENSLAND = {
+		region_state:Y07 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:Y07
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_RAJPUTANA = {
+		region_state:W46 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:W46
+						levels = 4
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_RAJPUTANA = {
+		region_state:X79 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X79
+						levels = 6
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_RHINELAND = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_RHONE = {
+		region_state:SPA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SPA
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_RIGA = {
+		region_state:SCA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SCA
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_RIO_GRANDE = {
+		region_state:X22 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X22
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_ROMAGNA = {
+		region_state:LOM = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:LOM
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_ROSTOV = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_ROSTOV = {
+		region_state:X88 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X88
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_RUHR = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_RUHR = {
+		region_state:X89 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X89
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_RYAZAN = {
+		region_state:SCA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SCA
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_RYUKYU_ISLANDS = {
+		region_state:JAP = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:JAP
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_SAKHALIN = {
+		region_state:JAP = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:JAP
+						levels = 6
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_SAMARA = {
+		region_state:SCA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SCA
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_SAMARA = {
+		region_state:W56 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:W56
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_SANTA_CRUZ = {
+		region_state:NPU = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:NPU
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_SANTA_FE = {
+		region_state:PLT = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:PLT
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_SANTO_DOMINGO = {
+		region_state:CUB = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:CUB
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_SARDINIA = {
+		region_state:X80 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X80
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_SARIWON = {
+		region_state:JAP = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:JAP
+						levels = 7
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_SASKATCHEWAN = {
+		region_state:NEW = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:NEW
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_SAVOY = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_SAXONY = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 4
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_SCANIA = {
+		region_state:SCA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SCA
+						levels = 5
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_SCHLESWIG_HOLSTEIN = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_SCHLESWIG_HOLSTEIN = {
+		region_state:SCA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SCA
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_SCHLESWIG_HOLSTEIN = {
+		region_state:X85 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X85
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_SEMIRECHE = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_SEMIRECHE = {
+		region_state:BUK = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:BUK
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_SEMNAN = {
+		region_state:TUR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUR
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_SENEGAL = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_SEOUL = {
+		region_state:JAP = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:JAP
+						levels = 11
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_SHANDONG = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 10
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_SHANXI = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 4
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_SHAN_STATES = {
+		region_state:X16 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X16
+						levels = 10
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_SHAOZHOU = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 6
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_SHENGJING = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 5
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_SHIKOKU = {
+		region_state:JAP = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:JAP
+						levels = 8
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_SICHUAN = {
+		region_state:KYR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:KYR
+						levels = 4
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_SICILY = {
+		region_state:X87 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X87
+						levels = 5
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_SINDH = {
+		region_state:TUR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUR
+						levels = 4
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_SLAVONIA = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_SLOVAKIA = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_SLOVENIA = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_SMOLENSK = {
+		region_state:SCA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SCA
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_SOMALILAND = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 11
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_SOUTHERN_ANHUI = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 4
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_SOUTHERN_MANCHURIA = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 12
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_SOUTHERN_TRANSYLVANIA = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_SOUTH_ANGOLA = {
+		region_state:OVM = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:OVM
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_SOUTH_AUSTRALIA = {
+		region_state:K14 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:K14
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_SOUTH_AUSTRALIA = {
+		region_state:KAU = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:KAU
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_SOUTH_CAMEROON = {
+		region_state:BNG = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:BNG
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_SOUTH_DAKOTA = {
+		region_state:X30 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X30
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_SOUTH_ISLAND = {
+		region_state:HAW = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HAW
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_SOUTH_MADAGASCAR = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 4
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_SOUTH_SUMATRA = {
+		region_state:GBR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:GBR
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_SOUTH_SUMATRA = {
+		region_state:V27 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:V27
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_SOUTH_SUMATRA = {
+		region_state:W44 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:W44
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_SOUTH_SUMATRA = {
+		region_state:X50 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X50
+						levels = 5
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_SOUTH_TYROL = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_STYRIA = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_SUNDA_ISLANDS = {
+		region_state:W91 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:W91
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_SUNDA_ISLANDS = {
+		region_state:X15 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X15
+						levels = 9
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_SURGUT = {
+		region_state:BUK = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:BUK
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_SUZHOU = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_SVEALAND = {
+		region_state:SCA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SCA
+						levels = 5
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_SYRDARYA = {
+		region_state:BUK = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:BUK
+						levels = 5
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_SYRIA = {
+		region_state:TUR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUR
+						levels = 4
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_TABRIZ = {
+		region_state:TUR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUR
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_TAHITI = {
+		region_state:HAW = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HAW
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_TAJIKISTAN = {
+		region_state:BUK = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:BUK
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_TALINN = {
+		region_state:SCA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SCA
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_TAMBOV = {
+		region_state:SCA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SCA
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_TANGANYIKA = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 4
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_TARTARIA = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_TASMANIA = {
+		region_state:HAW = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HAW
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_TAURIDA = {
+		region_state:X88 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X88
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_TENASSERIM = {
+		region_state:W44 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:W44
+						levels = 5
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_TENASSERIM = {
+		region_state:X16 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X16
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_TENASSERIM = {
+		region_state:X91 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X91
+						levels = 7
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_TENNESSEE = {
+		region_state:X28 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X28
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_TEXAS = {
+		region_state:TEX = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TEX
+						levels = 4
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_TIANSHAN = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 4
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_TIMBUKTU = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_TOBOLSK = {
+		region_state:BUK = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:BUK
+						levels = 7
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_TOHOKU = {
+		region_state:JAP = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:JAP
+						levels = 13
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_TOKAI = {
+		region_state:JAP = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:JAP
+						levels = 21
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_TOMSK = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_TOMSK = {
+		region_state:BUK = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:BUK
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_TONGA = {
+		region_state:HAW = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HAW
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_TONKIN = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 6
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_TONKIN = {
+		region_state:KYR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:KYR
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_TRABZON = {
+		region_state:TUR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUR
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_TRANSDANUBIA = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_TRANSJORDAN = {
+		region_state:TUR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUR
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_TRANSVAAL = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_TRANS_BAIKAL = {
+		region_state:YAK = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:YAK
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_TRAVANCORE = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 5
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_TRIPOLI = {
+		region_state:V19 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:V19
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_TUCUMAN = {
+		region_state:PLT = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:PLT
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_TUNISIA = {
+		region_state:V19 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:V19
+						levels = 5
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_TURKMENIA = {
+		region_state:BUK = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:BUK
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_TUSCANY = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 4
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_TVER = {
+		region_state:SCA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SCA
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_TVER = {
+		region_state:X83 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X83
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_TYROL = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_UFA = {
+		region_state:SCA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SCA
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_UGANDA = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_ULIASTAI = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 6
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_ULSTER = {
+		region_state:GBR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:GBR
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_UMBRIA = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_UPPER_ANDALUSIA = {
+		region_state:SPA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SPA
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_UPPER_EGYPT = {
+		region_state:TUR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUR
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_UPPER_SILESIA = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_UPPER_YENISEYSK = {
+		region_state:BUK = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:BUK
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_URAL = {
+		region_state:BUK = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:BUK
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_URALSK = {
+		region_state:BUK = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:BUK
+						levels = 4
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_URGA = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 5
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_URUGUAY = {
+		region_state:PLT = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:PLT
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_UUSIMAA = {
+		region_state:SCA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SCA
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_UZBEKIA = {
+		region_state:BUK = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:BUK
+						levels = 10
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_VALENCIA = {
+		region_state:SPA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SPA
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_VENETIA = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_VENETIA = {
+		region_state:LOM = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:LOM
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_VICTORIA = {
+		region_state:HAW = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HAW
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_VILNIUS = {
+		region_state:SCA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SCA
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_VIRGINIA = {
+		region_state:X26 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X26
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_VISAYAS = {
+		region_state:BRU = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:BRU
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_VISAYAS = {
+		region_state:C16 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:C16
+						levels = 5
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_VITEBSK = {
+		region_state:SCA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SCA
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_VOLHYNIA = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_VOLTA = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_VYATKA = {
+		region_state:SCA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SCA
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_WADDAI = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_WALES = {
+		region_state:GBR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:GBR
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_WALLACHIA = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_WALLONIA = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_WALLONIA = {
+		region_state:SPA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SPA
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_WASHINGTON = {
+		region_state:CSC = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:CSC
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_WESTERN_AUSTRALIA = {
+		region_state:HAW = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HAW
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_WESTERN_AUSTRALIA = {
+		region_state:K13 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:K13
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_WESTERN_AUSTRALIA = {
+		region_state:LRR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:LRR
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_WESTERN_AUSTRALIA = {
+		region_state:NNG = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:NNG
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_WESTERN_AUSTRALIA = {
+		region_state:X81 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X81
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_WESTERN_CUBA = {
+		region_state:CUB = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:CUB
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_WESTERN_HUBEI = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_WESTERN_MALI = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_WESTERN_NEW_GUINEA = {
+		region_state:PPU = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:PPU
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_WESTERN_NORWAY = {
+		region_state:SCA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SCA
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_WESTERN_SERBIA = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_WESTPHALIA = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 4
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_WEST_BENGAL = {
+		region_state:X16 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X16
+						levels = 5
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_WEST_BORNEO = {
+		region_state:W83 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:W83
+						levels = 7
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_WEST_COUNTRY = {
+		region_state:GBR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:GBR
+						levels = 5
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_WEST_GALICIA = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_WEST_INDIES = {
+		region_state:WIN = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:WIN
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_WEST_JAVA = {
+		region_state:W91 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:W91
+						levels = 15
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_WEST_MICRONESIA = {
+		region_state:HAW = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HAW
+						levels = 5
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_WEST_PRUSSIA = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_WEST_SWITZERLAND = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 4
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_WINDWARD_COAST = {
+		region_state:BLE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:BLE
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_WURTTEMBERG = {
+		region_state:HRE = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:HRE
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_XIAN = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_YANGHO = {
+		region_state:JAP = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:JAP
+						levels = 17
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_YAROSLAVL = {
+		region_state:SCA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SCA
+						levels = 5
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_YEMEN = {
+		region_state:MAH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MAH
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_YEMEN = {
+		region_state:TUR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:TUR
+						levels = 13
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_YORKSHIRE = {
+		region_state:GBR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:GBR
+						levels = 5
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_YUCATAN = {
+		region_state:X22 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X22
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_YUNNAN = {
+		region_state:KYR = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:KYR
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_YUNNAN = {
+		region_state:X16 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X16
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_ZAMBEZI = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 4
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_ZAMBEZIA = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_ZANZIBAR = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_ZEALAND = {
+		region_state:SCA = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:SCA
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_ZHEJIANG = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 9
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_ZHILI = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 7
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_ZULIA = {
+		region_state:X25 = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X25
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_iron_frame_buildings" }
+			}
+		}
+	}
+	s:STATE_ZULULAND = {
+		region_state:MSH = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:MSH
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+}

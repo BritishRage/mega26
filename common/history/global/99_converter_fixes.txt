@@ -101,6 +101,121 @@ GLOBAL = {
 			}
 		}
 	}
+	# mega26: transit rights for the remaining landlocked markets (beneficiary pays the 50 influence upkeep);
+	# Lakota/Keewatin via British North America, Multan/Nogai via Bukhara, Malwa via Rozvi's Bombay,
+	# Jaunpur/Bahmanis via Altai's Bengal, Tver via Scandinavia
+	if = {
+		limit = { exists = c:GBR exists = c:LKT }
+		c:GBR = {
+			create_treaty = {
+				first_country = c:GBR
+				second_country = c:LKT
+				is_draft = no
+				binding_period = { years = 10 }
+				articles_to_create = {
+					{ article = transit_rights source_country = c:GBR target_country = c:LKT }
+				}
+			}
+		}
+	}
+	if = {
+		limit = { exists = c:GBR exists = c:M09 }
+		c:GBR = {
+			create_treaty = {
+				first_country = c:GBR
+				second_country = c:M09
+				is_draft = no
+				binding_period = { years = 10 }
+				articles_to_create = {
+					{ article = transit_rights source_country = c:GBR target_country = c:M09 }
+				}
+			}
+		}
+	}
+	if = {
+		limit = { exists = c:BUK exists = c:W51 }
+		c:BUK = {
+			create_treaty = {
+				first_country = c:BUK
+				second_country = c:W51
+				is_draft = no
+				binding_period = { years = 10 }
+				articles_to_create = {
+					{ article = transit_rights source_country = c:BUK target_country = c:W51 }
+				}
+			}
+		}
+	}
+	if = {
+		limit = { exists = c:BUK exists = c:W56 }
+		c:BUK = {
+			create_treaty = {
+				first_country = c:BUK
+				second_country = c:W56
+				is_draft = no
+				binding_period = { years = 10 }
+				articles_to_create = {
+					{ article = transit_rights source_country = c:BUK target_country = c:W56 }
+				}
+			}
+		}
+	}
+	if = {
+		limit = { exists = c:MSH exists = c:W46 }
+		c:MSH = {
+			create_treaty = {
+				first_country = c:MSH
+				second_country = c:W46
+				is_draft = no
+				binding_period = { years = 10 }
+				articles_to_create = {
+					{ article = transit_rights source_country = c:MSH target_country = c:W46 }
+				}
+			}
+		}
+	}
+	if = {
+		limit = { exists = c:ALI exists = c:X79 }
+		c:ALI = {
+			create_treaty = {
+				first_country = c:ALI
+				second_country = c:X79
+				is_draft = no
+				binding_period = { years = 10 }
+				articles_to_create = {
+					{ article = transit_rights source_country = c:ALI target_country = c:X79 }
+				}
+			}
+		}
+	}
+	if = {
+		limit = { exists = c:ALI exists = c:X12 }
+		c:ALI = {
+			create_treaty = {
+				first_country = c:ALI
+				second_country = c:X12
+				is_draft = no
+				binding_period = { years = 10 }
+				articles_to_create = {
+					{ article = transit_rights source_country = c:ALI target_country = c:X12 }
+				}
+			}
+		}
+	}
+	if = {
+		limit = { exists = c:SCA exists = c:X83 }
+		c:SCA = {
+			create_treaty = {
+				first_country = c:SCA
+				second_country = c:X83
+				is_draft = no
+				binding_period = { years = 10 }
+				articles_to_create = {
+					{ article = transit_rights source_country = c:SCA target_country = c:X83 }
+				}
+			}
+		}
+	}
 	converter_historical_leader_cultures_effect = yes
 	converter_colonial_confederation_cultures_effect = yes
 	every_country = {

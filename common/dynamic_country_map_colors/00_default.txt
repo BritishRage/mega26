@@ -268,7 +268,7 @@ han_imperial_china = {
 				c:BEI ?= THIS
 			}
 		}
-		NOT = { country_has_primary_culture = cu:manchu }
+		# mega26: Manchu check removed - Altai's China keeps Manchu as a primary but should stay red
 		country_has_monarchy_law = yes
 	}
 }
@@ -729,6 +729,7 @@ spain_republican = {
 	color = "republican_spain_purple"
 
 	possible = {
+		always = no # mega26: disabled - keep the Franco-Spanish Union purple
 		exists = c:SPA
 		c:SPA ?= THIS
 		OR = {

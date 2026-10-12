@@ -39,17 +39,6 @@
 				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
 			}
 			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:K04
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
 				building = "building_port"
 				add_ownership = {
 					country = {
@@ -102,17 +91,6 @@
 				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
 			}
 			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:TWT
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
 				building = "building_maize_farm"
 				add_ownership = {
 					building = {
@@ -139,17 +117,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
-			}
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:DNK
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
 			}
 			create_building = {
 				building = "building_millet_farm"
@@ -197,17 +164,6 @@
 				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
 			}
 			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:TWT
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
 				building = "building_port"
 				add_ownership = {
 					country = {
@@ -232,17 +188,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
-			}
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:OVM
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
 			}
 			create_building = {
 				building = "building_millet_farm"
@@ -271,17 +216,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
-			}
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:DE2
-						levels = 4
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
 			}
 			create_building = {
 				building = "building_port"
@@ -351,17 +285,6 @@
 				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
 			}
 			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:TBI
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
@@ -424,17 +347,6 @@
 				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
 			}
 			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:ZND
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
 				building = "building_millet_farm"
 				add_ownership = {
 					building = {
@@ -461,17 +373,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
-			}
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:PPU
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
 			}
 			create_building = {
 				building = "building_port"
@@ -558,17 +459,6 @@
 				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
 			}
 			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:BNG
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
 				building = "building_millet_farm"
 				add_ownership = {
 					building = {
@@ -610,17 +500,6 @@
 				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
 			}
 			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:ZND
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
 				building = "building_millet_farm"
 				add_ownership = {
 					building = {
@@ -645,17 +524,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
-			}
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:DNK
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
 			}
 			create_building = {
 				building = "building_millet_farm"
@@ -684,17 +552,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
-			}
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:BNG
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
 			}
 			create_building = {
 				building = "building_port"
@@ -736,17 +593,6 @@
 				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
 			}
 			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:TWT
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
@@ -773,17 +619,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
-			}
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:OVM
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
 			}
 			create_building = {
 				building = "building_port"
@@ -857,17 +692,6 @@
 				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
 			}
 			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:MOR
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-			create_building = {
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
@@ -894,17 +718,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
-			}
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:BLE
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
 			}
 			create_building = {
 				building = "building_port"
@@ -974,17 +787,6 @@
 				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
 			}
 			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:DNK
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
 				building = "building_port"
 				add_ownership = {
 					country = {
@@ -1052,17 +854,6 @@
 				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
 			}
 			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:TWT
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
@@ -1108,17 +899,6 @@
 				activate_production_methods = { "pm_vertical_filing_cabinets" }
 			}
 			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:GBR
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-			create_building = {
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
@@ -1143,17 +923,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
-			}
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:W90
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
 			}
 			create_building = {
 				building = "building_port"
@@ -1195,17 +964,6 @@
 				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
 			}
 			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:TWT
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
 				building = "building_maize_farm"
 				add_ownership = {
 					building = {
@@ -1245,17 +1003,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
-			}
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:MOR
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
 			}
 			create_building = {
 				building = "building_port"
@@ -1301,17 +1048,6 @@
 				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
 			}
 			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:OVM
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
 				building = "building_port"
 				add_ownership = {
 					country = {
@@ -1349,17 +1085,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
-			}
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:CSC
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
 			}
 			create_building = {
 				building = "building_livestock_ranch"
@@ -1403,17 +1128,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
-			}
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:K14
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
 			}
 			create_building = {
 				building = "building_port"
@@ -1487,17 +1201,6 @@
 				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
 			}
 			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:DE2
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
@@ -1522,17 +1225,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
-			}
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:K04
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
 			}
 			create_building = {
 				building = "building_livestock_ranch"
@@ -1561,17 +1253,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
-			}
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:BNG
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
 			}
 			create_building = {
 				building = "building_millet_farm"
@@ -1626,17 +1307,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
-			}
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:K04
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
 			}
 			create_building = {
 				building = "building_port"
@@ -1736,17 +1406,6 @@
 				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
 			}
 			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:TWT
-						levels = 4
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
 				building = "building_port"
 				add_ownership = {
 					country = {
@@ -1782,17 +1441,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
-			}
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:W19
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
 			}
 			create_building = {
 				building = "building_port"
@@ -1832,17 +1480,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
-			}
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:N11
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
 			}
 			create_building = {
 				building = "building_port"
@@ -1927,17 +1564,6 @@
 				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
 			}
 			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:OVM
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
 				building = "building_port"
 				add_ownership = {
 					country = {
@@ -1975,17 +1601,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
-			}
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:K14
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
 			}
 			create_building = {
 				building = "building_port"
@@ -2076,17 +1691,6 @@
 				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
 			}
 			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:BNG
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
 				building = "building_millet_farm"
 				add_ownership = {
 					building = {
@@ -2128,17 +1732,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
-			}
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:YAK
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
 			}
 		}
 	}
@@ -2184,17 +1777,6 @@
 				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
 			}
 			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:K14
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
 				building = "building_port"
 				add_ownership = {
 					country = {
@@ -2238,17 +1820,6 @@
 				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
 			}
 			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:MOR
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-			create_building = {
 				building = "building_port"
 				add_ownership = {
 					country = {
@@ -2286,17 +1857,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
-			}
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:BLE
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
 			}
 			create_building = {
 				building = "building_port"
@@ -2367,17 +1927,6 @@
 				reserves = 1
 				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
 			}
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:YAK
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
-			}
 		}
 	}
 	s:STATE_YUKON_TERRITORY = {
@@ -2392,17 +1941,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
-			}
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:DE2
-						levels = 5
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
 			}
 			create_building = {
 				building = "building_livestock_ranch"
@@ -2446,17 +1984,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
-			}
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:OVM
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
 			}
 			create_building = {
 				building = "building_millet_farm"

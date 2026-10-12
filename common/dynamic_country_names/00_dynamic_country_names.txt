@@ -1239,6 +1239,7 @@ CHI = { # China
 		priority = 0
 
 		trigger = {
+			always = no # mega26: Altai's China (Manchu primary) should be the Empire of China, not Great Qing
 			coa_def_monarchy_flag_trigger = yes
 			scope:actor ?= {
 				country_has_primary_culture = cu:manchu
@@ -1254,8 +1255,7 @@ CHI = { # China
 
 		trigger = {
 			scope:actor ?= {
-				NOT = { country_has_primary_culture = cu:manchu }
-				country_has_monarchy_law = yes
+				country_has_monarchy_law = yes # mega26: Manchu check removed
 			}
 		}
 	}

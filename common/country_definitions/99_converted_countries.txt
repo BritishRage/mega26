@@ -8765,10 +8765,10 @@ REPLACE_OR_CREATE:SOK ?= {
 }
 
 REPLACE_OR_CREATE:SPA ?= {
-	color = { 120 40 160 }
+	color = { 108 64 128 }
 	primary_unit_color = { 15 25 76 }
-	secondary_unit_color = { 120 40 160 }
-	tertiary_unit_color = { 120 40 160 }
+	secondary_unit_color = { 108 64 128 }
+	tertiary_unit_color = { 108 64 128 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { spanish french }
