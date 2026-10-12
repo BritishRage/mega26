@@ -6895,6 +6895,7 @@
 				religion = jewish
 				size = 236
 			}
+		}
 		region_state:HRE = {
 			create_pop = {
 				culture = marathi
