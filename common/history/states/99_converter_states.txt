@@ -928,12 +928,12 @@
 	s:STATE_BREST = {
 		create_state = {
 			country = c:HRE
-			owned_provinces = { x157352 x18020B x1917E9 x241A22 x406020 x6D7F7E x7E7F58 x84FE3D x862F77 x8ABE62 xA201E3 xA6BED3 xAB3AC5 xAC6FAE xB338E8 xBFDF20 xC15AD8 xC3FA73 xCB21FD xCCD197 xDE471E xE06176 xE87D11 }
+			owned_provinces = { x157352 x18020B x1917E9 x241A22 x406020 x84FE3D x862F77 x8ABE62 xA201E3 xA6BED3 xAB3AC5 xAC6FAE xB338E8 xBFDF20 xC15AD8 xC3FA73 xCB21FD xCCD197 xDE471E xE06176 xE87D11 }
 			state_type = incorporated
 		}
 		create_state = {
 			country = c:SCA
-			owned_provinces = { x66FB56 x75F1B4 x806161 x84294C x936BF9 xA93262 xBCB94C xC1D9C0 xF02643 }
+			owned_provinces = { x66FB56 x6D7F7E x75F1B4 x7E7F58 x806161 x84294C x936BF9 xA93262 xBCB94C xC1D9C0 xF02643 }
 			state_type = incorporated
 		}
 		add_homeland = cu:byelorussian
@@ -4250,12 +4250,12 @@
 	s:STATE_MINSK = {
 		create_state = {
 			country = c:HRE
-			owned_provinces = { x0161E0 x0A89D7 x16A8B5 x21175E x235156 x28C9D9 x2EB844 x2FD0B1 x416161 x41A0E0 x4B3105 x557F9F x716052 x80DFDF x80E061 xA36969 xC06C1A xC3D50D xEDA68C xF05D59 }
+			owned_provinces = { x0161E0 x0A89D7 x16A8B5 x21175E x28C9D9 x2EB844 x2FD0B1 x416161 x41A0E0 x4B3105 x716052 x80DFDF x80E061 xA36969 xC06C1A xC3D50D xEDA68C xF05D59 }
 			state_type = incorporated
 		}
 		create_state = {
 			country = c:SCA
-			owned_provinces = { x26722B x51F4A4 x80E0A0 xA16195 xC9C7AF xEFAEC6 }
+			owned_provinces = { x235156 x26722B x51F4A4 x557F9F x80E0A0 xA16195 xC9C7AF xEFAEC6 }
 			state_type = incorporated
 		}
 		add_homeland = cu:byelorussian
@@ -4326,12 +4326,12 @@
 	s:STATE_MOGILEV = {
 		create_state = {
 			country = c:HRE
-			owned_provinces = { x01E061 x062D3B x0B93F6 x26415C x3B1EB3 x79C34B x8061E0 x8F8DDD xB13CAC xB81A41 xC3026F xC6D645 xC9634A xE1577C }
+			owned_provinces = { x01E061 x062D3B x0B93F6 x3B1EB3 x79C34B x8061E0 x8F8DDD xC3026F xC6D645 xE1577C }
 			state_type = incorporated
 		}
 		create_state = {
 			country = c:SCA
-			owned_provinces = { x1197EA x361946 x7E7DA7 x87E9EC xBCCBB1 xC0A0E0 xD9956C xF208D0 }
+			owned_provinces = { x1197EA x26415C x361946 x7E7DA7 x87E9EC xB13CAC xB81A41 xBCCBB1 xC0A0E0 xC9634A xD9956C xF208D0 }
 			state_type = incorporated
 		}
 		add_homeland = cu:byelorussian
@@ -5237,12 +5237,12 @@
 	s:STATE_ORYOL = {
 		create_state = {
 			country = c:HRE
-			owned_provinces = { x05E237 x0B9BAA x1E5225 x21A0A0 x244D15 x301EC1 x31B814 x331CB3 x45FA32 x4A6AE0 x4C0018 x53EF9C x669560 x6A8F2C x6BE684 x752A3E x8BC0CA x8BEB3F x8FB5BF x92C7C8 x93157C x9D8B55 xA020A0 xA02120 xB56E0D xB98492 xBCF6EB xBEE23A xC020E0 xC0DF60 xC492A0 xCE6B77 xD3CC3C xD7163E xE0FF4A xE458EF xEABB0F xF50161 xFEFF16 }
+			owned_provinces = { x05E237 x0B9BAA x1E5225 x21A0A0 x244D15 x301EC1 x31B814 x331CB3 x45FA32 x4A6AE0 x4C0018 x53EF9C x669560 x6A8F2C x752A3E x8BC0CA x8BEB3F x8FB5BF x92C7C8 x93157C x9D8B55 xA020A0 xB56E0D xB98492 xBCF6EB xBEE23A xC020E0 xC0DF60 xC492A0 xCE6B77 xD3CC3C xD7163E xE0FF4A xE458EF xEABB0F xF50161 xFEFF16 }
 			state_type = incorporated
 		}
 		create_state = {
 			country = c:SCA
-			owned_provinces = { x1D9534 x36FFFE x71473A xC20515 xD04FB9 }
+			owned_provinces = { x1D9534 x36FFFE x6BE684 x71473A xA02120 xC20515 xD04FB9 }
 			state_type = incorporated
 		}
 		add_homeland = cu:russian
@@ -6692,12 +6692,12 @@
 	s:STATE_TARTARIA = {
 		create_state = {
 			country = c:HRE
-			owned_provinces = { x060F1F x0BAE1A x112A5D x1233B6 x184EBD x1C9CEB x1E7643 x2517B5 x269530 x302B65 x36696F x370996 x3BA63A x587F59 x5DC7DF x5DFE91 x66929F x69239F x8447C0 x85FB7E x904CD8 x9633B6 x9672A5 xB353F0 xB9D801 xC7340F xD19BE5 xD6ACAE xD9BEED xDB5E3F xE4E080 xEBD048 xF0F779 xF2884A xFAB9A8 }
+			owned_provinces = { x060F1F x0BAE1A x112A5D x1233B6 x184EBD x1C9CEB x1E7643 x2517B5 x269530 x302B65 x370996 x3BA63A x587F59 x5DFE91 x66929F x69239F x8447C0 x85FB7E x904CD8 x9633B6 x9672A5 xB353F0 xB9D801 xC7340F xD6ACAE xD9BEED xDB5E3F xE4E080 xEBD048 xF0F779 xF2884A xFAB9A8 }
 			state_type = incorporated
 		}
 		create_state = {
 			country = c:SCA
-			owned_provinces = { x108711 x161ACD x1889E9 x21DF21 x2D0CA0 x328BF7 x346C85 x8BB04E xC4B284 xCD3A7F xF26043 }
+			owned_provinces = { x108711 x161ACD x1889E9 x21DF21 x2D0CA0 x328BF7 x346C85 x36696F x5DC7DF x8BB04E xC4B284 xCD3A7F xD19BE5 xF26043 }
 			state_type = incorporated
 		}
 		add_homeland = cu:tatar
