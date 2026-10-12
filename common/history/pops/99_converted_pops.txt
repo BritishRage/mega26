@@ -10351,7 +10351,7 @@
 				size = 434
 			}
 		}
-		region_state:V27 = {
+		region_state:X50 = {
 			create_pop = {
 				culture = malayalam
 				religion = sunni
@@ -14251,31 +14251,29 @@
 		}
 	}
 	s:STATE_EAST_JAVA = {
-		region_state:V27 = {
-			create_pop = {
-				culture = kannada
-				religion = hindu
-				size = 98275
-			}
-			create_pop = {
-				culture = kannada
-				religion = hindu
-				pop_type = slaves
-				size = 513
-			}
-			create_pop = {
-				culture = kannada
-				religion = hindu
-				size = 98275
-			}
-			create_pop = {
-				culture = kannada
-				religion = hindu
-				pop_type = slaves
-				size = 513
-			}
-		}
 		region_state:W91 = {
+			create_pop = {
+				culture = kannada
+				religion = hindu
+				size = 98275
+			}
+			create_pop = {
+				culture = kannada
+				religion = hindu
+				pop_type = slaves
+				size = 513
+			}
+			create_pop = {
+				culture = kannada
+				religion = hindu
+				size = 98275
+			}
+			create_pop = {
+				culture = kannada
+				religion = hindu
+				pop_type = slaves
+				size = 513
+			}
 			create_pop = {
 				culture = javan
 				religion = hindu
@@ -33056,7 +33054,7 @@
 				size = 13179
 			}
 		}
-		region_state:V27 = {
+		region_state:X50 = {
 			create_pop = {
 				culture = moluccan
 				religion = animist
@@ -37771,7 +37769,7 @@
 				size = 46897
 			}
 		}
-		region_state:V27 = {
+		region_state:X50 = {
 			create_pop = {
 				culture = sumatran
 				religion = hindu
@@ -37816,62 +37814,6 @@
 				pop_type = slaves
 				size = 6331
 			}
-		}
-		region_state:W44 = {
-			create_pop = {
-				culture = sumatran
-				religion = sunni
-				size = 1531064
-			}
-			create_pop = {
-				culture = sumatran
-				religion = sunni
-				size = 96586
-			}
-			create_pop = {
-				culture = sumatran
-				religion = shiite
-				size = 203561
-			}
-			create_pop = {
-				culture = sumatran
-				religion = shiite
-				size = 12841
-			}
-			create_pop = {
-				culture = sumatran
-				religion = sunni
-				size = 960240
-			}
-			create_pop = {
-				culture = sumatran
-				religion = sunni
-				size = 60575
-			}
-		}
-		region_state:W83 = {
-			create_pop = {
-				culture = bornean
-				religion = hindu
-				size = 69742
-			}
-			create_pop = {
-				culture = bornean
-				religion = hindu
-				size = 4399
-			}
-			create_pop = {
-				culture = bornean
-				religion = mahayana
-				size = 69648
-			}
-			create_pop = {
-				culture = bornean
-				religion = mahayana
-				size = 4394
-			}
-		}
-		region_state:X50 = {
 			create_pop = {
 				culture = sumatran
 				religion = theravada
@@ -37971,6 +37913,60 @@
 				culture = sumatran
 				religion = sunni
 				size = 84675
+			}
+		}
+		region_state:W44 = {
+			create_pop = {
+				culture = sumatran
+				religion = sunni
+				size = 1531064
+			}
+			create_pop = {
+				culture = sumatran
+				religion = sunni
+				size = 96586
+			}
+			create_pop = {
+				culture = sumatran
+				religion = shiite
+				size = 203561
+			}
+			create_pop = {
+				culture = sumatran
+				religion = shiite
+				size = 12841
+			}
+			create_pop = {
+				culture = sumatran
+				religion = sunni
+				size = 960240
+			}
+			create_pop = {
+				culture = sumatran
+				religion = sunni
+				size = 60575
+			}
+		}
+		region_state:W83 = {
+			create_pop = {
+				culture = bornean
+				religion = hindu
+				size = 69742
+			}
+			create_pop = {
+				culture = bornean
+				religion = hindu
+				size = 4399
+			}
+			create_pop = {
+				culture = bornean
+				religion = mahayana
+				size = 69648
+			}
+			create_pop = {
+				culture = bornean
+				religion = mahayana
+				size = 4394
 			}
 		}
 	}
@@ -49467,7 +49463,7 @@
 				size = 38343
 			}
 		}
-		region_state:V27 = {
+		region_state:X50 = {
 			create_pop = {
 				culture = sumatran
 				religion = hindu
@@ -49490,30 +49486,6 @@
 				pop_type = slaves
 				size = 12530
 			}
-		}
-		region_state:W44 = {
-			create_pop = {
-				culture = sumatran
-				religion = hindu
-				size = 673675
-			}
-			create_pop = {
-				culture = sumatran
-				religion = hindu
-				size = 66277
-			}
-			create_pop = {
-				culture = sumatran
-				religion = sunni
-				size = 795346
-			}
-			create_pop = {
-				culture = sumatran
-				religion = sunni
-				size = 78248
-			}
-		}
-		region_state:X50 = {
 			create_pop = {
 				culture = sumatran
 				religion = hindu
@@ -49553,6 +49525,28 @@
 				culture = sumatran
 				religion = sunni
 				size = 63906
+			}
+		}
+		region_state:W44 = {
+			create_pop = {
+				culture = sumatran
+				religion = hindu
+				size = 673675
+			}
+			create_pop = {
+				culture = sumatran
+				religion = hindu
+				size = 66277
+			}
+			create_pop = {
+				culture = sumatran
+				religion = sunni
+				size = 795346
+			}
+			create_pop = {
+				culture = sumatran
+				religion = sunni
+				size = 78248
 			}
 		}
 	}

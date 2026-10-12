@@ -1283,7 +1283,7 @@
 			state_type = incorporated
 		}
 		create_state = {
-			country = c:V27
+			country = c:X50
 			owned_provinces = { x95AAA3 }
 			state_type = incorporated
 		}
@@ -1933,13 +1933,8 @@
 	}
 	s:STATE_EAST_JAVA = {
 		create_state = {
-			country = c:V27
-			owned_provinces = { x5C2239 x5C2250 }
-			state_type = incorporated
-		}
-		create_state = {
 			country = c:W91
-			owned_provinces = { x1D38B7 x2060EF xA0E070 xAD1F3C xC226AF xEF70EC }
+			owned_provinces = { x5C2239 x5C2250 x1D38B7 x2060EF xA0E070 xAD1F3C xC226AF xEF70EC }
 			state_type = incorporated
 		}
 		create_state = {
@@ -4366,7 +4361,7 @@
 			state_type = incorporated
 		}
 		create_state = {
-			country = c:V27
+			country = c:X50
 			owned_provinces = { xD3A69B xD986F1 xF0CE19 xF88172 xF94D86 }
 			state_type = incorporated
 		}
@@ -5006,8 +5001,8 @@
 			state_type = incorporated
 		}
 		create_state = {
-			country = c:V27
-			owned_provinces = { x9377DF xE0A0F0 }
+			country = c:X50
+			owned_provinces = { x9377DF xE0A0F0 x257D2C x4E9BC1 x79A66E x85B004 x8A3E15 x9D4BD1 xD2D88C xDC4677 xE4C2D6 xEAF2DC x01317D x3F7EA0 x677AA6 x87F7B6 xA0CEED x35213F x48428B x5157D3 x6021D0 x6ED39E x7AC280 x8171EA x8B7A14 xAE71B4 xDA82F4 xEC5DEA }
 			state_type = incorporated
 		}
 		create_state = {
@@ -5018,11 +5013,6 @@
 		create_state = {
 			country = c:W83
 			owned_provinces = { x01C030 }
-			state_type = incorporated
-		}
-		create_state = {
-			country = c:X50
-			owned_provinces = { x257D2C x4E9BC1 x79A66E x85B004 x8A3E15 x9D4BD1 xD2D88C xDC4677 xE4C2D6 xEAF2DC x01317D x3F7EA0 x677AA6 x87F7B6 xA0CEED x35213F x48428B x5157D3 x6021D0 x6ED39E x7AC280 x8171EA x8B7A14 xAE71B4 xDA82F4 xEC5DEA }
 			state_type = incorporated
 		}
 		add_homeland = cu:bornean
@@ -6510,18 +6500,13 @@
 			state_type = incorporated
 		}
 		create_state = {
-			country = c:V27
-			owned_provinces = { x7A4DC8 }
+			country = c:X50
+			owned_provinces = { x7A4DC8 x00F15A x067967 x0D0BEB x31E5B1 x4CF770 xA97585 xDBE794 xE226FB x03CEC7 x3099D2 x3441E9 x42D05B x7D6D54 x8527A9 x8FBCF4 xB0F538 xCC1A24 xD10CCE xD2193E xFB099E }
 			state_type = incorporated
 		}
 		create_state = {
 			country = c:W44
 			owned_provinces = { x0F65F5 x27FD1C }
-			state_type = incorporated
-		}
-		create_state = {
-			country = c:X50
-			owned_provinces = { x00F15A x067967 x0D0BEB x31E5B1 x4CF770 xA97585 xDBE794 xE226FB x03CEC7 x3099D2 x3441E9 x42D05B x7D6D54 x8527A9 x8FBCF4 xB0F538 xCC1A24 xD10CCE xD2193E xFB099E }
 			state_type = incorporated
 		}
 		add_homeland = cu:sumatran

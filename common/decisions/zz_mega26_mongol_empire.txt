@@ -4,6 +4,7 @@ mega26_proclaim_great_mongolian_state = {
 	is_shown = {
 		exists = c:CHI
 		c:CHI = ROOT
+		is_player = yes # mega26: players only - the AI never sees or takes this
 		NOT = { exists = c:MGL }
 	}
 

@@ -6024,7 +6024,7 @@ REPLACE_OR_CREATE:MGH ?= {
 }
 
 REPLACE_OR_CREATE:MGL ?= {
-	color = { 255 224 124 }
+	color = { 40 72 165 } # mega26: deep blue (a darker take on Altai's)
 	country_type = unrecognized
 	tier = empire
 	cultures = { mongol han manchu }

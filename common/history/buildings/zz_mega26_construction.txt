@@ -1,5 +1,5 @@
 ﻿BUILDINGS = {
-	# mega26: construction sectors, 0.2% of each country's population in construction jobs, spread over its populous states
+	# mega26: construction sectors, 0.1% of each country's population in construction jobs, spread over its populous states
 	s:STATE_ABRUZZO = {
 		region_state:HRE = {
 			create_building = {
@@ -7,7 +7,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -22,7 +22,7 @@
 				add_ownership = {
 					country = {
 						country = c:X50
-						levels = 20
+						levels = 10
 					}
 				}
 				reserves = 1
@@ -37,7 +37,7 @@
 				add_ownership = {
 					country = {
 						country = c:TUR
-						levels = 3
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -52,7 +52,7 @@
 				add_ownership = {
 					country = {
 						country = c:X79
-						levels = 18
+						levels = 10
 					}
 				}
 				reserves = 1
@@ -67,22 +67,7 @@
 				add_ownership = {
 					country = {
 						country = c:BUK
-						levels = 6
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_AKTOBE = {
-		region_state:BUK = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:BUK
-						levels = 1
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -97,21 +82,6 @@
 				add_ownership = {
 					country = {
 						country = c:X28
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_ALAND = {
-		region_state:SCA = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:SCA
 						levels = 1
 					}
 				}
@@ -135,21 +105,6 @@
 			}
 		}
 	}
-	s:STATE_ALBANIA = {
-		region_state:TUR = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:TUR
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
 	s:STATE_ALENTEJO = {
 		region_state:SPA = {
 			create_building = {
@@ -157,7 +112,7 @@
 				add_ownership = {
 					country = {
 						country = c:SPA
-						levels = 3
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -172,7 +127,7 @@
 				add_ownership = {
 					country = {
 						country = c:TUR
-						levels = 3
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -202,71 +157,11 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_ALSACE_LORRAINE = {
-		region_state:X89 = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:X89
 						levels = 1
 					}
 				}
 				reserves = 1
 				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_ALXA = {
-		region_state:ALI = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:ALI
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
-		}
-	}
-	s:STATE_AMAZONAS = {
-		region_state:TWT = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:TWT
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
-		}
-	}
-	s:STATE_AMHARA = {
-		region_state:DNK = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:DNK
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
 			}
 		}
 	}
@@ -277,7 +172,7 @@
 				add_ownership = {
 					country = {
 						country = c:MSH
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -292,7 +187,7 @@
 				add_ownership = {
 					country = {
 						country = c:ALI
-						levels = 3
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -307,7 +202,7 @@
 				add_ownership = {
 					country = {
 						country = c:JAP
-						levels = 5
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -322,7 +217,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 4
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -337,7 +232,7 @@
 				add_ownership = {
 					country = {
 						country = c:TUR
-						levels = 6
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -352,7 +247,7 @@
 				add_ownership = {
 					country = {
 						country = c:ALI
-						levels = 3
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -367,7 +262,7 @@
 				add_ownership = {
 					country = {
 						country = c:SH0
-						levels = 10
+						levels = 5
 					}
 				}
 				reserves = 1
@@ -382,7 +277,7 @@
 				add_ownership = {
 					country = {
 						country = c:X25
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -397,7 +292,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 4
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -412,7 +307,7 @@
 				add_ownership = {
 					country = {
 						country = c:SPA
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -427,7 +322,7 @@
 				add_ownership = {
 					country = {
 						country = c:SPA
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -450,21 +345,6 @@
 			}
 		}
 	}
-	s:STATE_ARIZONA = {
-		region_state:TEX = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:TEX
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
 	s:STATE_ARKANSAS = {
 		region_state:X30 = {
 			create_building = {
@@ -472,7 +352,7 @@
 				add_ownership = {
 					country = {
 						country = c:X30
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -517,36 +397,6 @@
 				add_ownership = {
 					country = {
 						country = c:X16
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_ASTRAKHAN = {
-		region_state:HRE = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:HRE
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_ATTICA = {
-		region_state:TUR = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:TUR
 						levels = 1
 					}
 				}
@@ -562,7 +412,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 3
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -577,7 +427,7 @@
 				add_ownership = {
 					country = {
 						country = c:SPA
-						levels = 3
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -592,7 +442,7 @@
 				add_ownership = {
 					country = {
 						country = c:X16
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -607,7 +457,7 @@
 				add_ownership = {
 					country = {
 						country = c:X79
-						levels = 12
+						levels = 6
 					}
 				}
 				reserves = 1
@@ -622,22 +472,7 @@
 				add_ownership = {
 					country = {
 						country = c:TUR
-						levels = 4
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_AZERBAIJAN = {
-		region_state:HRE = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:HRE
-						levels = 1
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -667,7 +502,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -682,7 +517,7 @@
 				add_ownership = {
 					country = {
 						country = c:X89
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -697,7 +532,7 @@
 				add_ownership = {
 					country = {
 						country = c:TUR
-						levels = 5
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -720,36 +555,6 @@
 			}
 		}
 	}
-	s:STATE_BAJIO = {
-		region_state:X22 = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:X22
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_BALEARIC_ISLANDS = {
-		region_state:SPA = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:SPA
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
 	s:STATE_BALKH = {
 		region_state:BUK = {
 			create_building = {
@@ -757,7 +562,7 @@
 				add_ownership = {
 					country = {
 						country = c:BUK
-						levels = 3
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -772,7 +577,7 @@
 				add_ownership = {
 					country = {
 						country = c:SIA
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -787,7 +592,7 @@
 				add_ownership = {
 					country = {
 						country = c:W44
-						levels = 6
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -802,22 +607,7 @@
 				add_ownership = {
 					country = {
 						country = c:X16
-						levels = 6
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_BASQUE_COUNTRY = {
-		region_state:SPA = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:SPA
-						levels = 1
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -832,7 +622,7 @@
 				add_ownership = {
 					country = {
 						country = c:TUR
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -847,7 +637,7 @@
 				add_ownership = {
 					country = {
 						country = c:MSH
-						levels = 3
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -862,7 +652,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 9
+						levels = 5
 					}
 				}
 				reserves = 1
@@ -877,7 +667,7 @@
 				add_ownership = {
 					country = {
 						country = c:ALI
-						levels = 9
+						levels = 5
 					}
 				}
 				reserves = 1
@@ -892,21 +682,6 @@
 				add_ownership = {
 					country = {
 						country = c:SPA
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_BEKES = {
-		region_state:HRE = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:HRE
 						levels = 1
 					}
 				}
@@ -952,26 +727,11 @@
 				add_ownership = {
 					country = {
 						country = c:X16
-						levels = 8
+						levels = 5
 					}
 				}
 				reserves = 1
 				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_BLUE_NILE = {
-		region_state:X07 = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:X07
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
 			}
 		}
 	}
@@ -982,7 +742,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 6
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -1012,7 +772,7 @@
 				add_ownership = {
 					country = {
 						country = c:MSH
-						levels = 15
+						levels = 9
 					}
 				}
 				reserves = 1
@@ -1027,26 +787,11 @@
 				add_ownership = {
 					country = {
 						country = c:TUR
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_BORNU = {
-		region_state:MSH = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:MSH
 						levels = 1
 					}
 				}
 				reserves = 1
-				activate_production_methods = {  }
+				activate_production_methods = { "pm_iron_frame_buildings" }
 			}
 		}
 	}
@@ -1057,7 +802,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 3
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -1072,7 +817,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 5
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -1102,7 +847,7 @@
 				add_ownership = {
 					country = {
 						country = c:SPA
-						levels = 8
+						levels = 4
 					}
 				}
 				reserves = 1
@@ -1117,7 +862,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 3
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -1147,7 +892,7 @@
 				add_ownership = {
 					country = {
 						country = c:TUR
-						levels = 3
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -1162,7 +907,7 @@
 				add_ownership = {
 					country = {
 						country = c:X79
-						levels = 6
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -1177,22 +922,7 @@
 				add_ownership = {
 					country = {
 						country = c:SPA
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_BURYATIA = {
-		region_state:BUK = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:BUK
-						levels = 1
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -1207,22 +937,7 @@
 				add_ownership = {
 					country = {
 						country = c:JAP
-						levels = 7
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_CAJAMARCA = {
-		region_state:NPU = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:NPU
-						levels = 1
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -1237,21 +952,6 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_CALIFORNIA = {
-		region_state:TEX = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:TEX
 						levels = 1
 					}
 				}
@@ -1267,7 +967,7 @@
 				add_ownership = {
 					country = {
 						country = c:W44
-						levels = 9
+						levels = 5
 					}
 				}
 				reserves = 1
@@ -1282,26 +982,11 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 3
+						levels = 2
 					}
 				}
 				reserves = 1
 				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_CAPE_COLONY = {
-		region_state:MSH = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:MSH
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
 			}
 		}
 	}
@@ -1312,7 +997,7 @@
 				add_ownership = {
 					country = {
 						country = c:SPA
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -1327,7 +1012,7 @@
 				add_ownership = {
 					country = {
 						country = c:W31
-						levels = 15
+						levels = 8
 					}
 				}
 				reserves = 1
@@ -1342,7 +1027,7 @@
 				add_ownership = {
 					country = {
 						country = c:W91
-						levels = 5
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -1357,7 +1042,7 @@
 				add_ownership = {
 					country = {
 						country = c:W94
-						levels = 12
+						levels = 6
 					}
 				}
 				reserves = 1
@@ -1387,7 +1072,7 @@
 				add_ownership = {
 					country = {
 						country = c:BUK
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -1402,7 +1087,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -1417,7 +1102,7 @@
 				add_ownership = {
 					country = {
 						country = c:W91
-						levels = 18
+						levels = 9
 					}
 				}
 				reserves = 1
@@ -1432,7 +1117,7 @@
 				add_ownership = {
 					country = {
 						country = c:MSH
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -1447,7 +1132,7 @@
 				add_ownership = {
 					country = {
 						country = c:W46
-						levels = 5
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -1462,7 +1147,7 @@
 				add_ownership = {
 					country = {
 						country = c:X79
-						levels = 3
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -1477,22 +1162,7 @@
 				add_ownership = {
 					country = {
 						country = c:MSH
-						levels = 6
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
-		}
-	}
-	s:STATE_CHAD = {
-		region_state:MSH = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:MSH
-						levels = 1
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -1522,7 +1192,7 @@
 				add_ownership = {
 					country = {
 						country = c:SPA
-						levels = 3
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -1537,7 +1207,7 @@
 				add_ownership = {
 					country = {
 						country = c:BUK
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -1552,7 +1222,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -1567,7 +1237,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -1582,7 +1252,7 @@
 				add_ownership = {
 					country = {
 						country = c:SIA
-						levels = 7
+						levels = 4
 					}
 				}
 				reserves = 1
@@ -1597,7 +1267,7 @@
 				add_ownership = {
 					country = {
 						country = c:X16
-						levels = 3
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -1612,21 +1282,6 @@
 				add_ownership = {
 					country = {
 						country = c:ALI
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
-		}
-	}
-	s:STATE_CHONGQING = {
-		region_state:KYR = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:KYR
 						levels = 1
 					}
 				}
@@ -1642,7 +1297,7 @@
 				add_ownership = {
 					country = {
 						country = c:JAP
-						levels = 17
+						levels = 8
 					}
 				}
 				reserves = 1
@@ -1657,7 +1312,7 @@
 				add_ownership = {
 					country = {
 						country = c:X68
-						levels = 3
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -1687,7 +1342,7 @@
 				add_ownership = {
 					country = {
 						country = c:X16
-						levels = 6
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -1702,71 +1357,11 @@
 				add_ownership = {
 					country = {
 						country = c:ZND
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
 				activate_production_methods = {  }
-			}
-		}
-	}
-	s:STATE_CONNAUGHT = {
-		region_state:GBR = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:GBR
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_CONSTANTINE = {
-		region_state:V19 = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:V19
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_CORSICA = {
-		region_state:X80 = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:X80
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_COURLAND = {
-		region_state:SCA = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:SCA
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
 			}
 		}
 	}
@@ -1777,7 +1372,7 @@
 				add_ownership = {
 					country = {
 						country = c:X88
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -1792,7 +1387,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 3
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -1815,36 +1410,6 @@
 			}
 		}
 	}
-	s:STATE_DAGESTAN = {
-		region_state:HRE = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:HRE
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_DAHOMEY = {
-		region_state:MSH = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:MSH
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
-		}
-	}
 	s:STATE_DALMATIA = {
 		region_state:HRE = {
 			create_building = {
@@ -1852,7 +1417,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -1867,7 +1432,7 @@
 				add_ownership = {
 					country = {
 						country = c:TUR
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -1882,22 +1447,7 @@
 				add_ownership = {
 					country = {
 						country = c:X79
-						levels = 4
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_DELVIDEK = {
-		region_state:HRE = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:HRE
-						levels = 1
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -1912,22 +1462,7 @@
 				add_ownership = {
 					country = {
 						country = c:TUR
-						levels = 4
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_DOBRUDJA = {
-		region_state:TUR = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:TUR
-						levels = 1
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -1957,41 +1492,11 @@
 				add_ownership = {
 					country = {
 						country = c:ALI
-						levels = 5
+						levels = 3
 					}
 				}
 				reserves = 1
 				activate_production_methods = {  }
-			}
-		}
-	}
-	s:STATE_EASTERN_CAPE = {
-		region_state:MSH = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:MSH
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
-		}
-	}
-	s:STATE_EASTERN_HIMALAYAS = {
-		region_state:X16 = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:X16
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
 			}
 		}
 	}
@@ -2002,7 +1507,7 @@
 				add_ownership = {
 					country = {
 						country = c:ALI
-						levels = 3
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -2017,7 +1522,7 @@
 				add_ownership = {
 					country = {
 						country = c:MSH
-						levels = 3
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -2032,7 +1537,7 @@
 				add_ownership = {
 					country = {
 						country = c:HAW
-						levels = 4
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -2047,7 +1552,7 @@
 				add_ownership = {
 					country = {
 						country = c:SCA
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -2062,7 +1567,7 @@
 				add_ownership = {
 					country = {
 						country = c:TUR
-						levels = 4
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -2092,7 +1597,7 @@
 				add_ownership = {
 					country = {
 						country = c:GBR
-						levels = 4
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -2107,21 +1612,6 @@
 				add_ownership = {
 					country = {
 						country = c:MSH
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
-		}
-	}
-	s:STATE_EAST_ANGOLA = {
-		region_state:OVM = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:OVM
 						levels = 1
 					}
 				}
@@ -2137,7 +1627,7 @@
 				add_ownership = {
 					country = {
 						country = c:X16
-						levels = 8
+						levels = 4
 					}
 				}
 				reserves = 1
@@ -2152,7 +1642,7 @@
 				add_ownership = {
 					country = {
 						country = c:BRU
-						levels = 7
+						levels = 4
 					}
 				}
 				reserves = 1
@@ -2167,7 +1657,7 @@
 				add_ownership = {
 					country = {
 						country = c:KTI
-						levels = 8
+						levels = 4
 					}
 				}
 				reserves = 1
@@ -2182,7 +1672,7 @@
 				add_ownership = {
 					country = {
 						country = c:X13
-						levels = 4
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -2197,7 +1687,7 @@
 				add_ownership = {
 					country = {
 						country = c:X17
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -2212,7 +1702,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -2227,7 +1717,7 @@
 				add_ownership = {
 					country = {
 						country = c:MSH
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -2242,7 +1732,7 @@
 				add_ownership = {
 					country = {
 						country = c:W91
-						levels = 5
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -2257,21 +1747,6 @@
 				add_ownership = {
 					country = {
 						country = c:X15
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_EAST_KARELIA = {
-		region_state:SCA = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:SCA
 						levels = 1
 					}
 				}
@@ -2287,7 +1762,7 @@
 				add_ownership = {
 					country = {
 						country = c:HAW
-						levels = 3
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -2302,7 +1777,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 4
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -2317,21 +1792,6 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_ECUADOR = {
-		region_state:X25 = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:X25
 						levels = 1
 					}
 				}
@@ -2347,7 +1807,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 6
+						levels = 4
 					}
 				}
 				reserves = 1
@@ -2362,7 +1822,7 @@
 				add_ownership = {
 					country = {
 						country = c:TUR
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -2377,22 +1837,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_ENTRE_DOURO_E_MINHO = {
-		region_state:SPA = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:SPA
-						levels = 1
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -2407,7 +1852,7 @@
 				add_ownership = {
 					country = {
 						country = c:BNG
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -2430,21 +1875,6 @@
 			}
 		}
 	}
-	s:STATE_EQUATORIA = {
-		region_state:ZND = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:ZND
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
-		}
-	}
 	s:STATE_ERZURUM = {
 		region_state:TUR = {
 			create_building = {
@@ -2452,7 +1882,7 @@
 				add_ownership = {
 					country = {
 						country = c:TUR
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -2467,7 +1897,7 @@
 				add_ownership = {
 					country = {
 						country = c:SPA
-						levels = 3
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -2482,7 +1912,7 @@
 				add_ownership = {
 					country = {
 						country = c:SPA
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -2497,7 +1927,7 @@
 				add_ownership = {
 					country = {
 						country = c:TUR
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -2512,7 +1942,7 @@
 				add_ownership = {
 					country = {
 						country = c:BUK
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -2527,7 +1957,7 @@
 				add_ownership = {
 					country = {
 						country = c:W50
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -2542,7 +1972,7 @@
 				add_ownership = {
 					country = {
 						country = c:HAW
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -2557,7 +1987,7 @@
 				add_ownership = {
 					country = {
 						country = c:W26
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -2572,7 +2002,7 @@
 				add_ownership = {
 					country = {
 						country = c:SPA
-						levels = 4
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -2602,7 +2032,7 @@
 				add_ownership = {
 					country = {
 						country = c:JAP
-						levels = 6
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -2632,7 +2062,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 3
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -2647,7 +2077,7 @@
 				add_ownership = {
 					country = {
 						country = c:SPA
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -2662,7 +2092,7 @@
 				add_ownership = {
 					country = {
 						country = c:X86
-						levels = 3
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -2677,7 +2107,7 @@
 				add_ownership = {
 					country = {
 						country = c:ALI
-						levels = 4
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -2692,7 +2122,7 @@
 				add_ownership = {
 					country = {
 						country = c:SCA
-						levels = 3
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -2722,7 +2152,7 @@
 				add_ownership = {
 					country = {
 						country = c:ALI
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -2737,21 +2167,6 @@
 				add_ownership = {
 					country = {
 						country = c:SPA
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_GELRE = {
-		region_state:X86 = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:X86
 						levels = 1
 					}
 				}
@@ -2767,21 +2182,6 @@
 				add_ownership = {
 					country = {
 						country = c:X28
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_GOIAS = {
-		region_state:EQT = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:EQT
 						levels = 1
 					}
 				}
@@ -2797,7 +2197,7 @@
 				add_ownership = {
 					country = {
 						country = c:MSH
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -2812,7 +2212,7 @@
 				add_ownership = {
 					country = {
 						country = c:MSH
-						levels = 3
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -2827,22 +2227,7 @@
 				add_ownership = {
 					country = {
 						country = c:SCA
-						levels = 5
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_GOTLAND = {
-		region_state:SCA = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:SCA
-						levels = 1
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -2857,7 +2242,7 @@
 				add_ownership = {
 					country = {
 						country = c:TUR
-						levels = 3
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -2872,7 +2257,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 5
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -2887,7 +2272,7 @@
 				add_ownership = {
 					country = {
 						country = c:ALI
-						levels = 9
+						levels = 5
 					}
 				}
 				reserves = 1
@@ -2902,7 +2287,7 @@
 				add_ownership = {
 					country = {
 						country = c:ALI
-						levels = 5
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -2922,66 +2307,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_GUAYANA = {
-		region_state:X34 = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:X34
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_GUERRERO = {
-		region_state:X22 = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:X22
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_GUINEA = {
-		region_state:MSH = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:MSH
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
-		}
-	}
-	s:STATE_GUIZHOU = {
-		region_state:ALI = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:ALI
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
 			}
 		}
 	}
@@ -3007,7 +2332,7 @@
 				add_ownership = {
 					country = {
 						country = c:TUR
-						levels = 11
+						levels = 6
 					}
 				}
 				reserves = 1
@@ -3022,7 +2347,7 @@
 				add_ownership = {
 					country = {
 						country = c:SPA
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -3037,22 +2362,7 @@
 				add_ownership = {
 					country = {
 						country = c:TUR
-						levels = 4
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_HAITI = {
-		region_state:CUB = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:CUB
-						levels = 1
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -3067,7 +2377,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 6
+						levels = 4
 					}
 				}
 				reserves = 1
@@ -3082,7 +2392,7 @@
 				add_ownership = {
 					country = {
 						country = c:MSH
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -3097,7 +2407,7 @@
 				add_ownership = {
 					country = {
 						country = c:HAW
-						levels = 9
+						levels = 5
 					}
 				}
 				reserves = 1
@@ -3112,7 +2422,7 @@
 				add_ownership = {
 					country = {
 						country = c:TUR
-						levels = 7
+						levels = 4
 					}
 				}
 				reserves = 1
@@ -3127,7 +2437,7 @@
 				add_ownership = {
 					country = {
 						country = c:ALI
-						levels = 9
+						levels = 5
 					}
 				}
 				reserves = 1
@@ -3142,7 +2452,7 @@
 				add_ownership = {
 					country = {
 						country = c:BUK
-						levels = 3
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -3157,7 +2467,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 4
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -3172,7 +2482,7 @@
 				add_ownership = {
 					country = {
 						country = c:X89
-						levels = 3
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -3187,7 +2497,7 @@
 				add_ownership = {
 					country = {
 						country = c:GBR
-						levels = 3
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -3202,7 +2512,7 @@
 				add_ownership = {
 					country = {
 						country = c:X79
-						levels = 6
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -3217,7 +2527,7 @@
 				add_ownership = {
 					country = {
 						country = c:X16
-						levels = 3
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -3232,7 +2542,7 @@
 				add_ownership = {
 					country = {
 						country = c:X79
-						levels = 3
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -3247,7 +2557,7 @@
 				add_ownership = {
 					country = {
 						country = c:ALI
-						levels = 5
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -3262,7 +2572,7 @@
 				add_ownership = {
 					country = {
 						country = c:JAP
-						levels = 12
+						levels = 6
 					}
 				}
 				reserves = 1
@@ -3277,22 +2587,7 @@
 				add_ownership = {
 					country = {
 						country = c:JAP
-						levels = 12
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_HOLLAND = {
-		region_state:SPA = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:SPA
-						levels = 1
+						levels = 6
 					}
 				}
 				reserves = 1
@@ -3307,7 +2602,7 @@
 				add_ownership = {
 					country = {
 						country = c:X86
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -3322,7 +2617,7 @@
 				add_ownership = {
 					country = {
 						country = c:GBR
-						levels = 4
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -3337,7 +2632,7 @@
 				add_ownership = {
 					country = {
 						country = c:TUR
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -3352,7 +2647,7 @@
 				add_ownership = {
 					country = {
 						country = c:ALI
-						levels = 4
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -3367,7 +2662,7 @@
 				add_ownership = {
 					country = {
 						country = c:MSH
-						levels = 15
+						levels = 8
 					}
 				}
 				reserves = 1
@@ -3382,7 +2677,7 @@
 				add_ownership = {
 					country = {
 						country = c:X16
-						levels = 3
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -3397,7 +2692,7 @@
 				add_ownership = {
 					country = {
 						country = c:SPA
-						levels = 3
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -3412,7 +2707,7 @@
 				add_ownership = {
 					country = {
 						country = c:SCA
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -3427,7 +2722,7 @@
 				add_ownership = {
 					country = {
 						country = c:MOR
-						levels = 3
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -3442,7 +2737,7 @@
 				add_ownership = {
 					country = {
 						country = c:W50
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -3457,7 +2752,7 @@
 				add_ownership = {
 					country = {
 						country = c:TUR
-						levels = 11
+						levels = 6
 					}
 				}
 				reserves = 1
@@ -3472,7 +2767,7 @@
 				add_ownership = {
 					country = {
 						country = c:BUK
-						levels = 3
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -3487,7 +2782,7 @@
 				add_ownership = {
 					country = {
 						country = c:TUR
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -3502,7 +2797,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -3517,26 +2812,11 @@
 				add_ownership = {
 					country = {
 						country = c:X22
-						levels = 3
+						levels = 2
 					}
 				}
 				reserves = 1
 				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_JETISY = {
-		region_state:ALI = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:ALI
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
 			}
 		}
 	}
@@ -3547,7 +2827,7 @@
 				add_ownership = {
 					country = {
 						country = c:ALI
-						levels = 7
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -3562,7 +2842,7 @@
 				add_ownership = {
 					country = {
 						country = c:ALI
-						levels = 4
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -3577,7 +2857,7 @@
 				add_ownership = {
 					country = {
 						country = c:SCA
-						levels = 4
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -3592,7 +2872,7 @@
 				add_ownership = {
 					country = {
 						country = c:BUK
-						levels = 3
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -3607,7 +2887,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 4
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -3622,22 +2902,7 @@
 				add_ownership = {
 					country = {
 						country = c:X16
-						levels = 8
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_KALMYKIA = {
-		region_state:HRE = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:HRE
-						levels = 1
+						levels = 4
 					}
 				}
 				reserves = 1
@@ -3667,7 +2932,7 @@
 				add_ownership = {
 					country = {
 						country = c:HAW
-						levels = 3
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -3697,26 +2962,11 @@
 				add_ownership = {
 					country = {
 						country = c:JAP
-						levels = 12
+						levels = 6
 					}
 				}
 				reserves = 1
 				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_KANTO = {
-		region_state:HAW = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:HAW
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
 			}
 		}
 	}
@@ -3727,22 +2977,7 @@
 				add_ownership = {
 					country = {
 						country = c:JAP
-						levels = 13
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_KARS = {
-		region_state:TUR = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:TUR
-						levels = 1
+						levels = 7
 					}
 				}
 				reserves = 1
@@ -3772,7 +3007,7 @@
 				add_ownership = {
 					country = {
 						country = c:BUK
-						levels = 4
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -3787,7 +3022,7 @@
 				add_ownership = {
 					country = {
 						country = c:TUR
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -3802,7 +3037,7 @@
 				add_ownership = {
 					country = {
 						country = c:MSH
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -3811,21 +3046,6 @@
 		}
 	}
 	s:STATE_KAUNAS = {
-		region_state:SCA = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:SCA
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_KAZAN = {
 		region_state:SCA = {
 			create_building = {
 				building = "building_construction_sector"
@@ -3847,7 +3067,7 @@
 				add_ownership = {
 					country = {
 						country = c:MSH
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -3862,26 +3082,11 @@
 				add_ownership = {
 					country = {
 						country = c:MSH
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
-		}
-	}
-	s:STATE_KERMAN = {
-		region_state:TUR = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:TUR
 						levels = 1
 					}
 				}
 				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
+				activate_production_methods = {  }
 			}
 		}
 	}
@@ -3892,7 +3097,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -3907,7 +3112,7 @@
 				add_ownership = {
 					country = {
 						country = c:BUK
-						levels = 3
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -3937,7 +3142,7 @@
 				add_ownership = {
 					country = {
 						country = c:TUR
-						levels = 4
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -3967,7 +3172,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 7
+						levels = 4
 					}
 				}
 				reserves = 1
@@ -3982,7 +3187,7 @@
 				add_ownership = {
 					country = {
 						country = c:BUK
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -3997,26 +3202,11 @@
 				add_ownership = {
 					country = {
 						country = c:TUR
-						levels = 8
+						levels = 5
 					}
 				}
 				reserves = 1
 				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_KORDOFAN = {
-		region_state:MSH = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:MSH
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
 			}
 		}
 	}
@@ -4042,41 +3232,11 @@
 				add_ownership = {
 					country = {
 						country = c:MSH
-						levels = 3
+						levels = 1
 					}
 				}
 				reserves = 1
 				activate_production_methods = {  }
-			}
-		}
-	}
-	s:STATE_KURNOOL = {
-		region_state:X16 = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:X16
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_KURSK = {
-		region_state:HRE = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:HRE
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
 			}
 		}
 	}
@@ -4087,7 +3247,7 @@
 				add_ownership = {
 					country = {
 						country = c:JAP
-						levels = 9
+						levels = 5
 					}
 				}
 				reserves = 1
@@ -4102,7 +3262,7 @@
 				add_ownership = {
 					country = {
 						country = c:JAP
-						levels = 21
+						levels = 11
 					}
 				}
 				reserves = 1
@@ -4117,7 +3277,7 @@
 				add_ownership = {
 					country = {
 						country = c:GBR
-						levels = 3
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -4132,7 +3292,7 @@
 				add_ownership = {
 					country = {
 						country = c:SPA
-						levels = 3
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -4147,7 +3307,7 @@
 				add_ownership = {
 					country = {
 						country = c:SIA
-						levels = 7
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -4162,22 +3322,7 @@
 				add_ownership = {
 					country = {
 						country = c:W44
-						levels = 4
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_LARISTAN = {
-		region_state:JAP = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:JAP
-						levels = 1
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -4207,7 +3352,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -4237,21 +3382,6 @@
 				add_ownership = {
 					country = {
 						country = c:GBR
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_LEON = {
-		region_state:SPA = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:SPA
 						levels = 1
 					}
 				}
@@ -4282,7 +3412,7 @@
 				add_ownership = {
 					country = {
 						country = c:X16
-						levels = 3
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -4312,7 +3442,7 @@
 				add_ownership = {
 					country = {
 						country = c:MSH
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -4327,7 +3457,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 3
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -4342,7 +3472,7 @@
 				add_ownership = {
 					country = {
 						country = c:LOM
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -4357,7 +3487,7 @@
 				add_ownership = {
 					country = {
 						country = c:SPA
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -4402,7 +3532,7 @@
 				add_ownership = {
 					country = {
 						country = c:SPA
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -4417,7 +3547,7 @@
 				add_ownership = {
 					country = {
 						country = c:TUR
-						levels = 4
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -4432,7 +3562,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 3
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -4447,22 +3577,7 @@
 				add_ownership = {
 					country = {
 						country = c:GBR
-						levels = 6
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_LURISTAN = {
-		region_state:TUR = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:TUR
-						levels = 1
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -4477,22 +3592,7 @@
 				add_ownership = {
 					country = {
 						country = c:BRU
-						levels = 6
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_LUZON = {
-		region_state:GBR = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:GBR
-						levels = 1
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -4522,26 +3622,11 @@
 				add_ownership = {
 					country = {
 						country = c:MSH
-						levels = 20
+						levels = 12
 					}
 				}
 				reserves = 1
 				activate_production_methods = {  }
-			}
-		}
-	}
-	s:STATE_MAINE = {
-		region_state:X26 = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:X26
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
 			}
 		}
 	}
@@ -4552,7 +3637,7 @@
 				add_ownership = {
 					country = {
 						country = c:SPA
-						levels = 5
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -4567,7 +3652,7 @@
 				add_ownership = {
 					country = {
 						country = c:W44
-						levels = 12
+						levels = 6
 					}
 				}
 				reserves = 1
@@ -4582,7 +3667,7 @@
 				add_ownership = {
 					country = {
 						country = c:W64
-						levels = 3
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -4597,26 +3682,11 @@
 				add_ownership = {
 					country = {
 						country = c:X91
-						levels = 13
+						levels = 6
 					}
 				}
 				reserves = 1
 				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_MALWA = {
-		region_state:MSH = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:MSH
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
 			}
 		}
 	}
@@ -4627,22 +3697,7 @@
 				add_ownership = {
 					country = {
 						country = c:W46
-						levels = 6
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_MALWA = {
-		region_state:X79 = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:X79
-						levels = 1
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -4657,7 +3712,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 8
+						levels = 5
 					}
 				}
 				reserves = 1
@@ -4696,57 +3751,12 @@
 		}
 	}
 	s:STATE_MARRAKECH = {
-		region_state:MOR = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:MOR
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_MARRAKECH = {
 		region_state:W50 = {
 			create_building = {
 				building = "building_construction_sector"
 				add_ownership = {
 					country = {
 						country = c:W50
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_MASSACHUSETTS = {
-		region_state:X26 = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:X26
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_MATO_GROSSO = {
-		region_state:EQT = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:EQT
 						levels = 1
 					}
 				}
@@ -4762,7 +3772,7 @@
 				add_ownership = {
 					country = {
 						country = c:BUK
-						levels = 4
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -4777,7 +3787,7 @@
 				add_ownership = {
 					country = {
 						country = c:TUR
-						levels = 7
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -4792,21 +3802,6 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_MECKLENBURG = {
-		region_state:X85 = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:X85
 						levels = 1
 					}
 				}
@@ -4822,7 +3817,7 @@
 				add_ownership = {
 					country = {
 						country = c:SH0
-						levels = 10
+						levels = 5
 					}
 				}
 				reserves = 1
@@ -4837,7 +3832,7 @@
 				add_ownership = {
 					country = {
 						country = c:W44
-						levels = 5
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -4867,21 +3862,6 @@
 				add_ownership = {
 					country = {
 						country = c:X22
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_MIDDLE_EGYPT = {
-		region_state:TUR = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:TUR
 						levels = 1
 					}
 				}
@@ -4897,22 +3877,7 @@
 				add_ownership = {
 					country = {
 						country = c:GBR
-						levels = 6
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_MINAS_GERAIS = {
-		region_state:EQT = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:EQT
-						levels = 1
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -4927,7 +3892,7 @@
 				add_ownership = {
 					country = {
 						country = c:BRU
-						levels = 4
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -4942,26 +3907,11 @@
 				add_ownership = {
 					country = {
 						country = c:W90
-						levels = 4
+						levels = 2
 					}
 				}
 				reserves = 1
 				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_MINDANAO = {
-		region_state:X81 = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:X81
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
 			}
 		}
 	}
@@ -4980,21 +3930,6 @@
 			}
 		}
 	}
-	s:STATE_MINNESOTA = {
-		region_state:X30 = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:X30
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
 	s:STATE_MINSK = {
 		region_state:HRE = {
 			create_building = {
@@ -5002,36 +3937,6 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_MIRANDA = {
-		region_state:X25 = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:X25
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_MISSISSIPPI = {
-		region_state:X28 = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:X28
 						levels = 1
 					}
 				}
@@ -5062,71 +3967,11 @@
 				add_ownership = {
 					country = {
 						country = c:MSH
-						levels = 3
+						levels = 2
 					}
 				}
 				reserves = 1
 				activate_production_methods = {  }
-			}
-		}
-	}
-	s:STATE_MOGILEV = {
-		region_state:HRE = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:HRE
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_MOLDAVIA = {
-		region_state:HRE = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:HRE
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_MOLUCCAS = {
-		region_state:GBR = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:GBR
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_MOLUCCAS = {
-		region_state:V27 = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:V27
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
 			}
 		}
 	}
@@ -5137,7 +3982,7 @@
 				add_ownership = {
 					country = {
 						country = c:W44
-						levels = 3
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -5152,7 +3997,7 @@
 				add_ownership = {
 					country = {
 						country = c:W94
-						levels = 6
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -5160,13 +4005,13 @@
 			}
 		}
 	}
-	s:STATE_MONTANA = {
-		region_state:X30 = {
+	s:STATE_MOLUCCAS = {
+		region_state:X50 = {
 			create_building = {
 				building = "building_construction_sector"
 				add_ownership = {
 					country = {
-						country = c:X30
+						country = c:X50
 						levels = 1
 					}
 				}
@@ -5182,21 +4027,6 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_MOSCOW = {
-		region_state:SCA = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:SCA
 						levels = 1
 					}
 				}
@@ -5212,7 +4042,7 @@
 				add_ownership = {
 					country = {
 						country = c:TUR
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -5227,7 +4057,7 @@
 				add_ownership = {
 					country = {
 						country = c:GBR
-						levels = 3
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -5242,7 +4072,7 @@
 				add_ownership = {
 					country = {
 						country = c:SPA
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -5257,7 +4087,7 @@
 				add_ownership = {
 					country = {
 						country = c:MSH
-						levels = 5
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -5272,7 +4102,7 @@
 				add_ownership = {
 					country = {
 						country = c:V27
-						levels = 3
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -5287,7 +4117,7 @@
 				add_ownership = {
 					country = {
 						country = c:SIA
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -5302,7 +4132,7 @@
 				add_ownership = {
 					country = {
 						country = c:W44
-						levels = 6
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -5317,7 +4147,7 @@
 				add_ownership = {
 					country = {
 						country = c:ALI
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -5332,7 +4162,7 @@
 				add_ownership = {
 					country = {
 						country = c:TUR
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -5347,7 +4177,7 @@
 				add_ownership = {
 					country = {
 						country = c:X24
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -5362,7 +4192,7 @@
 				add_ownership = {
 					country = {
 						country = c:SPA
-						levels = 6
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -5392,7 +4222,7 @@
 				add_ownership = {
 					country = {
 						country = c:HAW
-						levels = 13
+						levels = 7
 					}
 				}
 				reserves = 1
@@ -5437,7 +4267,7 @@
 				add_ownership = {
 					country = {
 						country = c:X49
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -5446,21 +4276,6 @@
 		}
 	}
 	s:STATE_NIGER = {
-		region_state:MSH = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:MSH
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
-		}
-	}
-	s:STATE_NIGERIA = {
 		region_state:MSH = {
 			create_building = {
 				building = "building_construction_sector"
@@ -5482,7 +4297,7 @@
 				add_ownership = {
 					country = {
 						country = c:ALI
-						levels = 3
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -5497,7 +4312,7 @@
 				add_ownership = {
 					country = {
 						country = c:SCA
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -5512,7 +4327,7 @@
 				add_ownership = {
 					country = {
 						country = c:SPA
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -5527,7 +4342,7 @@
 				add_ownership = {
 					country = {
 						country = c:SCA
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -5542,7 +4357,7 @@
 				add_ownership = {
 					country = {
 						country = c:ALI
-						levels = 6
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -5572,7 +4387,7 @@
 				add_ownership = {
 					country = {
 						country = c:MSH
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -5587,7 +4402,7 @@
 				add_ownership = {
 					country = {
 						country = c:ALI
-						levels = 8
+						levels = 4
 					}
 				}
 				reserves = 1
@@ -5610,21 +4425,6 @@
 			}
 		}
 	}
-	s:STATE_NORTHERN_TERRITORY = {
-		region_state:HAW = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:HAW
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
-		}
-	}
 	s:STATE_NORTHERN_THRACE = {
 		region_state:TUR = {
 			create_building = {
@@ -5632,21 +4432,6 @@
 				add_ownership = {
 					country = {
 						country = c:TUR
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_NORTHERN_TRANSYLVANIA = {
-		region_state:HRE = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:HRE
 						levels = 1
 					}
 				}
@@ -5677,7 +4462,7 @@
 				add_ownership = {
 					country = {
 						country = c:MSH
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -5692,7 +4477,7 @@
 				add_ownership = {
 					country = {
 						country = c:BRU
-						levels = 17
+						levels = 9
 					}
 				}
 				reserves = 1
@@ -5707,36 +4492,6 @@
 				add_ownership = {
 					country = {
 						country = c:BNG
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_NORTH_CAROLINA = {
-		region_state:X28 = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:X28
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_NORTH_CAUCASUS = {
-		region_state:HRE = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:HRE
 						levels = 1
 					}
 				}
@@ -5767,7 +4522,7 @@
 				add_ownership = {
 					country = {
 						country = c:HAW
-						levels = 7
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -5782,26 +4537,11 @@
 				add_ownership = {
 					country = {
 						country = c:MSH
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
-		}
-	}
-	s:STATE_NORTH_RHINE = {
-		region_state:HRE = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:HRE
 						levels = 1
 					}
 				}
 				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
+				activate_production_methods = {  }
 			}
 		}
 	}
@@ -5812,7 +4552,7 @@
 				add_ownership = {
 					country = {
 						country = c:X89
-						levels = 3
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -5827,21 +4567,6 @@
 				add_ownership = {
 					country = {
 						country = c:BRU
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_NORTH_SUMATRA = {
-		region_state:V27 = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:V27
 						levels = 1
 					}
 				}
@@ -5857,7 +4582,7 @@
 				add_ownership = {
 					country = {
 						country = c:W44
-						levels = 6
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -5872,7 +4597,7 @@
 				add_ownership = {
 					country = {
 						country = c:X50
-						levels = 16
+						levels = 9
 					}
 				}
 				reserves = 1
@@ -5887,7 +4612,7 @@
 				add_ownership = {
 					country = {
 						country = c:SCA
-						levels = 4
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -5925,36 +4650,6 @@
 			}
 		}
 	}
-	s:STATE_OB = {
-		region_state:BUK = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:BUK
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_OHIO = {
-		region_state:X26 = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:X26
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
 	s:STATE_OLD_CASTILE = {
 		region_state:SPA = {
 			create_building = {
@@ -5962,7 +4657,7 @@
 				add_ownership = {
 					country = {
 						country = c:SPA
-						levels = 6
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -5977,22 +4672,7 @@
 				add_ownership = {
 					country = {
 						country = c:MAH
-						levels = 7
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_OMAN = {
-		region_state:TUR = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:TUR
-						levels = 1
+						levels = 4
 					}
 				}
 				reserves = 1
@@ -6022,21 +4702,6 @@
 				add_ownership = {
 					country = {
 						country = c:X24
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_ORAN = {
-		region_state:V19 = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:V19
 						levels = 1
 					}
 				}
@@ -6082,7 +4747,7 @@
 				add_ownership = {
 					country = {
 						country = c:X16
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -6097,7 +4762,7 @@
 				add_ownership = {
 					country = {
 						country = c:SPA
-						levels = 4
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -6112,7 +4777,7 @@
 				add_ownership = {
 					country = {
 						country = c:MSH
-						levels = 4
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -6127,21 +4792,6 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_OSTROBOTHNIA = {
-		region_state:SCA = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:SCA
 						levels = 1
 					}
 				}
@@ -6172,7 +4822,7 @@
 				add_ownership = {
 					country = {
 						country = c:MSH
-						levels = 4
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -6187,7 +4837,7 @@
 				add_ownership = {
 					country = {
 						country = c:JAP
-						levels = 20
+						levels = 10
 					}
 				}
 				reserves = 1
@@ -6202,7 +4852,7 @@
 				add_ownership = {
 					country = {
 						country = c:TUR
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -6240,21 +4890,6 @@
 			}
 		}
 	}
-	s:STATE_PASHTUNISTAN = {
-		region_state:BUK = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:BUK
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
 	s:STATE_PATAGONIA = {
 		region_state:PLT = {
 			create_building = {
@@ -6262,7 +4897,7 @@
 				add_ownership = {
 					country = {
 						country = c:PLT
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -6277,7 +4912,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 7
+						levels = 4
 					}
 				}
 				reserves = 1
@@ -6307,7 +4942,7 @@
 				add_ownership = {
 					country = {
 						country = c:TAR
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -6337,7 +4972,7 @@
 				add_ownership = {
 					country = {
 						country = c:SPA
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -6352,7 +4987,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 4
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -6367,7 +5002,7 @@
 				add_ownership = {
 					country = {
 						country = c:LOM
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -6382,7 +5017,7 @@
 				add_ownership = {
 					country = {
 						country = c:SPA
-						levels = 3
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -6397,7 +5032,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 5
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -6427,7 +5062,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 4
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -6442,7 +5077,7 @@
 				add_ownership = {
 					country = {
 						country = c:SPA
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -6472,7 +5107,7 @@
 				add_ownership = {
 					country = {
 						country = c:BUK
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -6487,7 +5122,7 @@
 				add_ownership = {
 					country = {
 						country = c:W51
-						levels = 5
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -6502,7 +5137,7 @@
 				add_ownership = {
 					country = {
 						country = c:X79
-						levels = 5
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -6517,7 +5152,7 @@
 				add_ownership = {
 					country = {
 						country = c:JAP
-						levels = 15
+						levels = 8
 					}
 				}
 				reserves = 1
@@ -6540,21 +5175,6 @@
 			}
 		}
 	}
-	s:STATE_QUEBEC = {
-		region_state:X24 = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:X24
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
 	s:STATE_QUEENSLAND = {
 		region_state:HAW = {
 			create_building = {
@@ -6562,7 +5182,7 @@
 				add_ownership = {
 					country = {
 						country = c:HAW
-						levels = 4
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -6592,7 +5212,7 @@
 				add_ownership = {
 					country = {
 						country = c:W46
-						levels = 4
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -6607,7 +5227,7 @@
 				add_ownership = {
 					country = {
 						country = c:X79
-						levels = 6
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -6637,7 +5257,7 @@
 				add_ownership = {
 					country = {
 						country = c:SPA
-						levels = 3
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -6652,21 +5272,6 @@
 				add_ownership = {
 					country = {
 						country = c:SCA
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_RIO_GRANDE = {
-		region_state:X22 = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:X22
 						levels = 1
 					}
 				}
@@ -6682,21 +5287,6 @@
 				add_ownership = {
 					country = {
 						country = c:LOM
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_ROSTOV = {
-		region_state:HRE = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:HRE
 						levels = 1
 					}
 				}
@@ -6750,21 +5340,6 @@
 			}
 		}
 	}
-	s:STATE_RYAZAN = {
-		region_state:SCA = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:SCA
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
 	s:STATE_RYUKYU_ISLANDS = {
 		region_state:JAP = {
 			create_building = {
@@ -6772,7 +5347,7 @@
 				add_ownership = {
 					country = {
 						country = c:JAP
-						levels = 3
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -6787,7 +5362,7 @@
 				add_ownership = {
 					country = {
 						country = c:JAP
-						levels = 6
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -6825,21 +5400,6 @@
 			}
 		}
 	}
-	s:STATE_SANTA_CRUZ = {
-		region_state:NPU = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:NPU
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
 	s:STATE_SANTA_FE = {
 		region_state:PLT = {
 			create_building = {
@@ -6862,7 +5422,7 @@
 				add_ownership = {
 					country = {
 						country = c:CUB
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -6877,7 +5437,7 @@
 				add_ownership = {
 					country = {
 						country = c:X80
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -6892,7 +5452,7 @@
 				add_ownership = {
 					country = {
 						country = c:JAP
-						levels = 7
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -6915,21 +5475,6 @@
 			}
 		}
 	}
-	s:STATE_SAVOY = {
-		region_state:HRE = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:HRE
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
 	s:STATE_SAXONY = {
 		region_state:HRE = {
 			create_building = {
@@ -6937,7 +5482,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 4
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -6952,7 +5497,7 @@
 				add_ownership = {
 					country = {
 						country = c:SCA
-						levels = 5
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -6967,56 +5512,11 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_SCHLESWIG_HOLSTEIN = {
-		region_state:SCA = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:SCA
 						levels = 1
 					}
 				}
 				reserves = 1
 				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_SCHLESWIG_HOLSTEIN = {
-		region_state:X85 = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:X85
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_SEMIRECHE = {
-		region_state:ALI = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:ALI
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
 			}
 		}
 	}
@@ -7027,22 +5527,7 @@
 				add_ownership = {
 					country = {
 						country = c:BUK
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_SEMNAN = {
-		region_state:TUR = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:TUR
-						levels = 1
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -7057,7 +5542,7 @@
 				add_ownership = {
 					country = {
 						country = c:MSH
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -7072,7 +5557,7 @@
 				add_ownership = {
 					country = {
 						country = c:JAP
-						levels = 11
+						levels = 5
 					}
 				}
 				reserves = 1
@@ -7087,7 +5572,7 @@
 				add_ownership = {
 					country = {
 						country = c:ALI
-						levels = 10
+						levels = 5
 					}
 				}
 				reserves = 1
@@ -7102,7 +5587,7 @@
 				add_ownership = {
 					country = {
 						country = c:ALI
-						levels = 4
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -7117,7 +5602,7 @@
 				add_ownership = {
 					country = {
 						country = c:X16
-						levels = 10
+						levels = 5
 					}
 				}
 				reserves = 1
@@ -7132,7 +5617,7 @@
 				add_ownership = {
 					country = {
 						country = c:ALI
-						levels = 6
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -7147,7 +5632,7 @@
 				add_ownership = {
 					country = {
 						country = c:ALI
-						levels = 5
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -7162,7 +5647,7 @@
 				add_ownership = {
 					country = {
 						country = c:JAP
-						levels = 8
+						levels = 4
 					}
 				}
 				reserves = 1
@@ -7177,7 +5662,7 @@
 				add_ownership = {
 					country = {
 						country = c:KYR
-						levels = 4
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -7192,7 +5677,7 @@
 				add_ownership = {
 					country = {
 						country = c:X87
-						levels = 5
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -7207,36 +5692,6 @@
 				add_ownership = {
 					country = {
 						country = c:TUR
-						levels = 4
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_SLAVONIA = {
-		region_state:HRE = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:HRE
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_SLOVAKIA = {
-		region_state:HRE = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:HRE
 						levels = 2
 					}
 				}
@@ -7245,7 +5700,7 @@
 			}
 		}
 	}
-	s:STATE_SLOVENIA = {
+	s:STATE_SLOVAKIA = {
 		region_state:HRE = {
 			create_building = {
 				building = "building_construction_sector"
@@ -7267,7 +5722,7 @@
 				add_ownership = {
 					country = {
 						country = c:SCA
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -7282,7 +5737,7 @@
 				add_ownership = {
 					country = {
 						country = c:MSH
-						levels = 11
+						levels = 6
 					}
 				}
 				reserves = 1
@@ -7297,7 +5752,7 @@
 				add_ownership = {
 					country = {
 						country = c:ALI
-						levels = 4
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -7312,26 +5767,11 @@
 				add_ownership = {
 					country = {
 						country = c:ALI
-						levels = 12
+						levels = 7
 					}
 				}
 				reserves = 1
 				activate_production_methods = {  }
-			}
-		}
-	}
-	s:STATE_SOUTHERN_TRANSYLVANIA = {
-		region_state:HRE = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:HRE
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
 			}
 		}
 	}
@@ -7395,36 +5835,6 @@
 			}
 		}
 	}
-	s:STATE_SOUTH_DAKOTA = {
-		region_state:X30 = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:X30
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_SOUTH_ISLAND = {
-		region_state:HAW = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:HAW
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
-		}
-	}
 	s:STATE_SOUTH_MADAGASCAR = {
 		region_state:MSH = {
 			create_building = {
@@ -7432,41 +5842,11 @@
 				add_ownership = {
 					country = {
 						country = c:MSH
-						levels = 4
+						levels = 2
 					}
 				}
 				reserves = 1
 				activate_production_methods = {  }
-			}
-		}
-	}
-	s:STATE_SOUTH_SUMATRA = {
-		region_state:GBR = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:GBR
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_SOUTH_SUMATRA = {
-		region_state:V27 = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:V27
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
 			}
 		}
 	}
@@ -7477,7 +5857,7 @@
 				add_ownership = {
 					country = {
 						country = c:W44
-						levels = 3
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -7492,22 +5872,7 @@
 				add_ownership = {
 					country = {
 						country = c:X50
-						levels = 5
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_SOUTH_TYROL = {
-		region_state:HRE = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:HRE
-						levels = 1
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -7522,21 +5887,6 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_SUNDA_ISLANDS = {
-		region_state:W91 = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:W91
 						levels = 1
 					}
 				}
@@ -7552,7 +5902,7 @@
 				add_ownership = {
 					country = {
 						country = c:X15
-						levels = 9
+						levels = 5
 					}
 				}
 				reserves = 1
@@ -7567,7 +5917,7 @@
 				add_ownership = {
 					country = {
 						country = c:BUK
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -7582,7 +5932,7 @@
 				add_ownership = {
 					country = {
 						country = c:ALI
-						levels = 3
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -7597,7 +5947,7 @@
 				add_ownership = {
 					country = {
 						country = c:SCA
-						levels = 5
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -7612,7 +5962,7 @@
 				add_ownership = {
 					country = {
 						country = c:BUK
-						levels = 5
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -7627,7 +5977,7 @@
 				add_ownership = {
 					country = {
 						country = c:TUR
-						levels = 4
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -7642,7 +5992,7 @@
 				add_ownership = {
 					country = {
 						country = c:TUR
-						levels = 3
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -7657,7 +6007,7 @@
 				add_ownership = {
 					country = {
 						country = c:HAW
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -7672,21 +6022,6 @@
 				add_ownership = {
 					country = {
 						country = c:BUK
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_TALINN = {
-		region_state:SCA = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:SCA
 						levels = 1
 					}
 				}
@@ -7717,26 +6052,11 @@
 				add_ownership = {
 					country = {
 						country = c:MSH
-						levels = 4
+						levels = 2
 					}
 				}
 				reserves = 1
 				activate_production_methods = {  }
-			}
-		}
-	}
-	s:STATE_TARTARIA = {
-		region_state:HRE = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:HRE
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
 			}
 		}
 	}
@@ -7747,26 +6067,11 @@
 				add_ownership = {
 					country = {
 						country = c:HAW
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
-		}
-	}
-	s:STATE_TAURIDA = {
-		region_state:X88 = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:X88
 						levels = 1
 					}
 				}
 				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
+				activate_production_methods = {  }
 			}
 		}
 	}
@@ -7777,7 +6082,7 @@
 				add_ownership = {
 					country = {
 						country = c:W44
-						levels = 5
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -7792,7 +6097,7 @@
 				add_ownership = {
 					country = {
 						country = c:X16
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -7807,22 +6112,7 @@
 				add_ownership = {
 					country = {
 						country = c:X91
-						levels = 7
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_TENNESSEE = {
-		region_state:X28 = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:X28
-						levels = 1
+						levels = 4
 					}
 				}
 				reserves = 1
@@ -7837,7 +6127,7 @@
 				add_ownership = {
 					country = {
 						country = c:TEX
-						levels = 4
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -7852,7 +6142,7 @@
 				add_ownership = {
 					country = {
 						country = c:ALI
-						levels = 4
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -7867,7 +6157,7 @@
 				add_ownership = {
 					country = {
 						country = c:MSH
-						levels = 3
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -7882,7 +6172,7 @@
 				add_ownership = {
 					country = {
 						country = c:BUK
-						levels = 7
+						levels = 4
 					}
 				}
 				reserves = 1
@@ -7897,7 +6187,7 @@
 				add_ownership = {
 					country = {
 						country = c:JAP
-						levels = 13
+						levels = 7
 					}
 				}
 				reserves = 1
@@ -7912,26 +6202,11 @@
 				add_ownership = {
 					country = {
 						country = c:JAP
-						levels = 21
+						levels = 11
 					}
 				}
 				reserves = 1
 				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_TOMSK = {
-		region_state:ALI = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:ALI
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
 			}
 		}
 	}
@@ -7942,7 +6217,7 @@
 				add_ownership = {
 					country = {
 						country = c:BUK
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -7957,7 +6232,7 @@
 				add_ownership = {
 					country = {
 						country = c:HAW
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -7972,7 +6247,7 @@
 				add_ownership = {
 					country = {
 						country = c:ALI
-						levels = 6
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -7987,26 +6262,11 @@
 				add_ownership = {
 					country = {
 						country = c:KYR
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
-		}
-	}
-	s:STATE_TRABZON = {
-		region_state:TUR = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:TUR
 						levels = 1
 					}
 				}
 				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
+				activate_production_methods = {  }
 			}
 		}
 	}
@@ -8017,41 +6277,11 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_TRANSJORDAN = {
-		region_state:TUR = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:TUR
 						levels = 1
 					}
 				}
 				reserves = 1
 				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_TRANSVAAL = {
-		region_state:MSH = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:MSH
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
 			}
 		}
 	}
@@ -8077,41 +6307,11 @@
 				add_ownership = {
 					country = {
 						country = c:MSH
-						levels = 5
+						levels = 2
 					}
 				}
 				reserves = 1
 				activate_production_methods = {  }
-			}
-		}
-	}
-	s:STATE_TRIPOLI = {
-		region_state:V19 = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:V19
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_TUCUMAN = {
-		region_state:PLT = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:PLT
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
 			}
 		}
 	}
@@ -8122,7 +6322,7 @@
 				add_ownership = {
 					country = {
 						country = c:V19
-						levels = 5
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -8137,7 +6337,7 @@
 				add_ownership = {
 					country = {
 						country = c:BUK
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -8152,7 +6352,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 4
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -8197,21 +6397,6 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_UFA = {
-		region_state:SCA = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:SCA
 						levels = 1
 					}
 				}
@@ -8227,7 +6412,7 @@
 				add_ownership = {
 					country = {
 						country = c:MSH
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -8242,7 +6427,7 @@
 				add_ownership = {
 					country = {
 						country = c:ALI
-						levels = 6
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -8257,7 +6442,7 @@
 				add_ownership = {
 					country = {
 						country = c:GBR
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -8272,7 +6457,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 3
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -8287,21 +6472,6 @@
 				add_ownership = {
 					country = {
 						country = c:SPA
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_UPPER_EGYPT = {
-		region_state:TUR = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:TUR
 						levels = 1
 					}
 				}
@@ -8317,7 +6487,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -8332,7 +6502,7 @@
 				add_ownership = {
 					country = {
 						country = c:BUK
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -8347,7 +6517,7 @@
 				add_ownership = {
 					country = {
 						country = c:BUK
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -8362,7 +6532,7 @@
 				add_ownership = {
 					country = {
 						country = c:BUK
-						levels = 4
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -8377,7 +6547,7 @@
 				add_ownership = {
 					country = {
 						country = c:ALI
-						levels = 5
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -8392,7 +6562,7 @@
 				add_ownership = {
 					country = {
 						country = c:PLT
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -8407,7 +6577,7 @@
 				add_ownership = {
 					country = {
 						country = c:SCA
-						levels = 3
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -8422,7 +6592,7 @@
 				add_ownership = {
 					country = {
 						country = c:BUK
-						levels = 10
+						levels = 5
 					}
 				}
 				reserves = 1
@@ -8437,7 +6607,7 @@
 				add_ownership = {
 					country = {
 						country = c:SPA
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -8452,7 +6622,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 3
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -8467,7 +6637,7 @@
 				add_ownership = {
 					country = {
 						country = c:LOM
-						levels = 3
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -8482,26 +6652,11 @@
 				add_ownership = {
 					country = {
 						country = c:HAW
-						levels = 3
+						levels = 2
 					}
 				}
 				reserves = 1
 				activate_production_methods = {  }
-			}
-		}
-	}
-	s:STATE_VILNIUS = {
-		region_state:SCA = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:SCA
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
 			}
 		}
 	}
@@ -8521,43 +6676,13 @@
 		}
 	}
 	s:STATE_VISAYAS = {
-		region_state:BRU = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:BRU
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_VISAYAS = {
 		region_state:C16 = {
 			create_building = {
 				building = "building_construction_sector"
 				add_ownership = {
 					country = {
 						country = c:C16
-						levels = 5
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_VITEBSK = {
-		region_state:SCA = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:SCA
-						levels = 1
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -8587,37 +6712,7 @@
 				add_ownership = {
 					country = {
 						country = c:MSH
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
-		}
-	}
-	s:STATE_VYATKA = {
-		region_state:SCA = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:SCA
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_WADDAI = {
-		region_state:MSH = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:MSH
-						levels = 1
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -8632,7 +6727,7 @@
 				add_ownership = {
 					country = {
 						country = c:GBR
-						levels = 3
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -8641,21 +6736,6 @@
 		}
 	}
 	s:STATE_WALLACHIA = {
-		region_state:HRE = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:HRE
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_WALLONIA = {
 		region_state:HRE = {
 			create_building = {
 				building = "building_construction_sector"
@@ -8677,7 +6757,7 @@
 				add_ownership = {
 					country = {
 						country = c:SPA
-						levels = 3
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -8692,21 +6772,6 @@
 				add_ownership = {
 					country = {
 						country = c:CSC
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
-		}
-	}
-	s:STATE_WESTERN_AUSTRALIA = {
-		region_state:HAW = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:HAW
 						levels = 1
 					}
 				}
@@ -8775,21 +6840,6 @@
 			}
 		}
 	}
-	s:STATE_WESTERN_CUBA = {
-		region_state:CUB = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:CUB
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
 	s:STATE_WESTERN_HUBEI = {
 		region_state:ALI = {
 			create_building = {
@@ -8797,21 +6847,6 @@
 				add_ownership = {
 					country = {
 						country = c:ALI
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
-		}
-	}
-	s:STATE_WESTERN_MALI = {
-		region_state:MSH = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:MSH
 						levels = 1
 					}
 				}
@@ -8842,7 +6877,7 @@
 				add_ownership = {
 					country = {
 						country = c:SCA
-						levels = 3
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -8872,7 +6907,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 4
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -8887,7 +6922,7 @@
 				add_ownership = {
 					country = {
 						country = c:X16
-						levels = 5
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -8902,7 +6937,7 @@
 				add_ownership = {
 					country = {
 						country = c:W83
-						levels = 7
+						levels = 4
 					}
 				}
 				reserves = 1
@@ -8917,7 +6952,7 @@
 				add_ownership = {
 					country = {
 						country = c:GBR
-						levels = 5
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -8932,7 +6967,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -8947,7 +6982,7 @@
 				add_ownership = {
 					country = {
 						country = c:WIN
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -8962,7 +6997,7 @@
 				add_ownership = {
 					country = {
 						country = c:W91
-						levels = 15
+						levels = 8
 					}
 				}
 				reserves = 1
@@ -8977,7 +7012,7 @@
 				add_ownership = {
 					country = {
 						country = c:HAW
-						levels = 5
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -8992,7 +7027,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -9007,7 +7042,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 4
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -9037,7 +7072,7 @@
 				add_ownership = {
 					country = {
 						country = c:HRE
-						levels = 3
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -9052,7 +7087,7 @@
 				add_ownership = {
 					country = {
 						country = c:ALI
-						levels = 3
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -9067,7 +7102,7 @@
 				add_ownership = {
 					country = {
 						country = c:JAP
-						levels = 17
+						levels = 9
 					}
 				}
 				reserves = 1
@@ -9082,22 +7117,7 @@
 				add_ownership = {
 					country = {
 						country = c:SCA
-						levels = 5
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_YEMEN = {
-		region_state:MAH = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:MAH
-						levels = 1
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -9112,7 +7132,7 @@
 				add_ownership = {
 					country = {
 						country = c:TUR
-						levels = 13
+						levels = 7
 					}
 				}
 				reserves = 1
@@ -9127,7 +7147,7 @@
 				add_ownership = {
 					country = {
 						country = c:GBR
-						levels = 5
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -9142,7 +7162,7 @@
 				add_ownership = {
 					country = {
 						country = c:X22
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -9157,7 +7177,7 @@
 				add_ownership = {
 					country = {
 						country = c:KYR
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -9172,7 +7192,7 @@
 				add_ownership = {
 					country = {
 						country = c:X16
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -9187,7 +7207,7 @@
 				add_ownership = {
 					country = {
 						country = c:MSH
-						levels = 4
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -9196,21 +7216,6 @@
 		}
 	}
 	s:STATE_ZAMBEZIA = {
-		region_state:MSH = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:MSH
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
-		}
-	}
-	s:STATE_ZANZIBAR = {
 		region_state:MSH = {
 			create_building = {
 				building = "building_construction_sector"
@@ -9232,7 +7237,7 @@
 				add_ownership = {
 					country = {
 						country = c:SCA
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -9247,7 +7252,7 @@
 				add_ownership = {
 					country = {
 						country = c:ALI
-						levels = 9
+						levels = 4
 					}
 				}
 				reserves = 1
@@ -9262,7 +7267,7 @@
 				add_ownership = {
 					country = {
 						country = c:ALI
-						levels = 7
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -9282,21 +7287,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_iron_frame_buildings" }
-			}
-		}
-	}
-	s:STATE_ZULULAND = {
-		region_state:MSH = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:MSH
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
 			}
 		}
 	}

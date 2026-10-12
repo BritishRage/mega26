@@ -204,7 +204,7 @@
 				add_ownership = {
 					country = {
 						country = c:X50
-						levels = 24
+						levels = 28
 					}
 				}
 				reserves = 1
@@ -523,7 +523,7 @@
 				add_ownership = {
 					country = {
 						country = c:BUK
-						levels = 21
+						levels = 19
 					}
 				}
 				reserves = 1
@@ -1207,10 +1207,6 @@
 			}
 		}
 	}
-	s:STATE_ALTAI = {
-		region_state:ALI = {
-		}
-	}
 	s:STATE_ALTO_PARAGUAY = {
 		region_state:PLT = {
 			create_building = {
@@ -1457,8 +1453,6 @@
 				reserves = 1
 				activate_production_methods = { "pm_basic_port" }
 			}
-		}
-		region_state:HAW = {
 		}
 		region_state:JAP = {
 			create_building = {
@@ -8028,14 +8022,12 @@
 				activate_production_methods = { "pm_basic_port" }
 			}
 		}
-		region_state:SPA = {
-		}
-		region_state:V27 = {
+		region_state:X50 = {
 			create_building = {
 				building = "building_barrack"
 				add_ownership = {
 					country = {
-						country = c:V27
+						country = c:X50
 						levels = 1
 					}
 				}
@@ -8046,7 +8038,7 @@
 				building = "building_port"
 				add_ownership = {
 					country = {
-						country = c:V27
+						country = c:X50
 						levels = 1
 					}
 				}
@@ -8939,8 +8931,6 @@
 				reserves = 1
 				activate_production_methods = { "pm_basic_port" }
 			}
-		}
-		region_state:X12 = {
 		}
 		region_state:X16 = {
 			create_building = {
@@ -10801,8 +10791,6 @@
 		}
 	}
 	s:STATE_EASTERN_SERBIA = {
-		region_state:HRE = {
-		}
 		region_state:TUR = {
 			create_building = {
 				building = "building_barrack"
@@ -11744,20 +11732,18 @@
 		}
 	}
 	s:STATE_EAST_JAVA = {
-		region_state:V27 = {
+		region_state:W91 = {
 			create_building = {
 				building = "building_barrack"
 				add_ownership = {
 					country = {
-						country = c:V27
+						country = c:W91
 						levels = 1
 					}
 				}
 				reserves = 1
 				activate_production_methods = { "pm_samurai_training" }
 			}
-		}
-		region_state:W91 = {
 			create_building = {
 				building = "building_fishing_wharf"
 				add_ownership = {
@@ -12288,8 +12274,6 @@
 		}
 	}
 	s:STATE_EGYPTIAN_DESERT = {
-		region_state:TUR = {
-		}
 		region_state:X07 = {
 			create_building = {
 				building = "building_naval_administration"
@@ -13878,8 +13862,6 @@
 		}
 	}
 	s:STATE_GALICH = {
-		region_state:BUK = {
-		}
 		region_state:SCA = {
 			create_building = {
 				building = "building_logging_camp"
@@ -17553,8 +17535,6 @@
 				activate_production_methods = { "pm_samurai_training" }
 			}
 		}
-		region_state:X30 = {
-		}
 	}
 	s:STATE_INDIAN_OCEAN_TERRITORY = {
 		region_state:MSH = {
@@ -19591,8 +19571,6 @@
 				activate_production_methods = { }
 			}
 		}
-		region_state:X79 = {
-		}
 	}
 	s:STATE_KASTAMONU = {
 		region_state:TUR = {
@@ -20025,8 +20003,6 @@
 		}
 	}
 	s:STATE_KERMAN = {
-		region_state:BUK = {
-		}
 		region_state:TUR = {
 			create_building = {
 				building = "building_vineyard"
@@ -20402,8 +20378,6 @@
 		}
 	}
 	s:STATE_KIRGHIZIA = {
-		region_state:ALI = {
-		}
 		region_state:BUK = {
 			create_building = {
 				building = "building_barrack"
@@ -20545,8 +20519,6 @@
 				reserves = 1
 				activate_production_methods = { "pm_simple_forestry" "pm_hardwood" }
 			}
-		}
-		region_state:HAW = {
 		}
 	}
 	s:STATE_KONYA = {
@@ -20737,8 +20709,6 @@
 		}
 	}
 	s:STATE_KRASNOYARSK = {
-		region_state:ALI = {
-		}
 		region_state:BUK = {
 			create_building = {
 				building = "building_logging_camp"
@@ -23263,8 +23233,6 @@
 				activate_production_methods = { "pm_basic_port" }
 			}
 		}
-		region_state:X81 = {
-		}
 	}
 	s:STATE_MACEDONIA = {
 		region_state:TUR = {
@@ -23793,7 +23761,7 @@
 				add_ownership = {
 					country = {
 						country = c:W64
-						levels = 2
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -23983,8 +23951,6 @@
 		}
 	}
 	s:STATE_MALWA = {
-		region_state:MSH = {
-		}
 		region_state:W46 = {
 			create_building = {
 				building = "building_barrack"
@@ -26451,13 +26417,13 @@
 				activate_production_methods = { "pm_basic_port" }
 			}
 		}
-		region_state:V27 = {
+		region_state:X50 = {
 			create_building = {
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
 						type = building_logging_camp
-						country = c:V27
+						country = c:X50
 						levels = 1
 						region = STATE_MOLUCCAS
 					}
@@ -26470,7 +26436,7 @@
 				add_ownership = {
 					building = {
 						type = building_fishing_wharf
-						country = c:V27
+						country = c:X50
 						levels = 1
 						region = STATE_MOLUCCAS
 					}
@@ -26483,7 +26449,7 @@
 				add_ownership = {
 					building = {
 						type = building_manor_house
-						country = c:V27
+						country = c:X50
 						levels = 1
 						region = STATE_MOLUCCAS
 					}
@@ -26495,7 +26461,7 @@
 				building = "building_port"
 				add_ownership = {
 					country = {
-						country = c:V27
+						country = c:X50
 						levels = 1
 					}
 				}
@@ -26626,8 +26592,6 @@
 		}
 	}
 	s:STATE_MONTANA = {
-		region_state:CSC = {
-		}
 		region_state:X30 = {
 			create_building = {
 				building = "building_wheat_farm"
@@ -27184,7 +27148,7 @@
 				add_ownership = {
 					country = {
 						country = c:V27
-						levels = 10
+						levels = 4
 					}
 				}
 				reserves = 1
@@ -28172,10 +28136,6 @@
 		}
 	}
 	s:STATE_NGARI = {
-		region_state:ALI = {
-		}
-		region_state:BUK = {
-		}
 		region_state:X16 = {
 			create_building = {
 				building = "building_trade_center"
@@ -28228,8 +28188,6 @@
 		}
 	}
 	s:STATE_NICARAGUA = {
-		region_state:X22 = {
-		}
 		region_state:X25 = {
 			create_building = {
 				building = "building_dye_plantation"
@@ -29658,74 +29616,18 @@
 				activate_production_methods = { }
 			}
 		}
-		region_state:V27 = {
+		region_state:X50 = {
 			create_building = {
 				building = "building_port"
 				add_ownership = {
 					country = {
-						country = c:V27
-						levels = 1
+						country = c:X50
+						levels = 2
 					}
 				}
 				reserves = 1
 				activate_production_methods = { "pm_basic_port" }
 			}
-		}
-		region_state:W44 = {
-			create_building = {
-				building = "building_logging_camp"
-				add_ownership = {
-					building = {
-						type = building_manor_house
-						country = c:W44
-						levels = 1
-						region = STATE_NORTH_SUMATRA
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_saw_mills" "pm_increased_hardwood" }
-			}
-			create_building = {
-				building = "building_rice_farm"
-				add_ownership = {
-					building = {
-						type = building_manor_house
-						country = c:W44
-						levels = 1
-						region = STATE_NORTH_SUMATRA
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_fig_orchards_building_rice_farm" "pm_tools_building_rice_farm" }
-			}
-			create_building = {
-				building = "building_livestock_ranch"
-				add_ownership = {
-					building = {
-						type = building_manor_house
-						country = c:W44
-						levels = 5
-						region = STATE_NORTH_SUMATRA
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_butchering_tools" }
-			}
-		}
-		region_state:W83 = {
-			create_building = {
-				building = "building_barrack"
-				add_ownership = {
-					country = {
-						country = c:W83
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_samurai_training" }
-			}
-		}
-		region_state:X50 = {
 			create_building = {
 				building = "building_logging_camp"
 				add_ownership = {
@@ -29785,17 +29687,6 @@
 				activate_production_methods = { "pm_butchering_tools" }
 			}
 			create_building = {
-				building = "building_port"
-				add_ownership = {
-					country = {
-						country = c:X50
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_basic_port" }
-			}
-			create_building = {
 				building = "building_dye_plantation"
 				add_ownership = {
 					building = {
@@ -29837,11 +29728,65 @@
 				add_ownership = {
 					country = {
 						country = c:X50
-						levels = 8
+						levels = 10
 					}
 				}
 				reserves = 1
 				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
+			}
+		}
+		region_state:W44 = {
+			create_building = {
+				building = "building_logging_camp"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:W44
+						levels = 1
+						region = STATE_NORTH_SUMATRA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_saw_mills" "pm_increased_hardwood" }
+			}
+			create_building = {
+				building = "building_rice_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:W44
+						levels = 1
+						region = STATE_NORTH_SUMATRA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_fig_orchards_building_rice_farm" "pm_tools_building_rice_farm" }
+			}
+			create_building = {
+				building = "building_livestock_ranch"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:W44
+						levels = 5
+						region = STATE_NORTH_SUMATRA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_butchering_tools" }
+			}
+		}
+		region_state:W83 = {
+			create_building = {
+				building = "building_barrack"
+				add_ownership = {
+					country = {
+						country = c:W83
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_samurai_training" }
 			}
 		}
 	}
@@ -30171,8 +30116,6 @@
 		}
 	}
 	s:STATE_OKLAHOMA = {
-		region_state:TEX = {
-		}
 		region_state:X30 = {
 			create_building = {
 				building = "building_barrack"
@@ -31227,8 +31170,6 @@
 		}
 	}
 	s:STATE_OUTER_MANCHURIA = {
-		region_state:ALI = {
-		}
 		region_state:JAP = {
 			create_building = {
 				building = "building_naval_administration"
@@ -33630,8 +33571,6 @@
 		}
 	}
 	s:STATE_RAJPUTANA = {
-		region_state:BUK = {
-		}
 		region_state:W46 = {
 			create_building = {
 				building = "building_barrack"
@@ -34837,8 +34776,6 @@
 				reserves = 1
 				activate_production_methods = { "pm_forest_glass" "pm_ceramics" }
 			}
-		}
-		region_state:MSH = {
 		}
 		region_state:V19 = {
 			create_building = {
@@ -36192,8 +36129,6 @@
 		}
 	}
 	s:STATE_SEMNAN = {
-		region_state:BUK = {
-		}
 		region_state:TUR = {
 			create_building = {
 				building = "building_wheat_farm"
@@ -36705,8 +36640,6 @@
 		}
 	}
 	s:STATE_SICHUAN = {
-		region_state:ALI = {
-		}
 		region_state:KYR = {
 			create_building = {
 				building = "building_coal_mine"
@@ -36769,8 +36702,6 @@
 				reserves = 1
 				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
 			}
-		}
-		region_state:X16 = {
 		}
 	}
 	s:STATE_SICILY = {
@@ -38049,47 +37980,6 @@
 				activate_production_methods = { "pm_basic_port" }
 			}
 		}
-		region_state:V27 = {
-		}
-		region_state:W44 = {
-			create_building = {
-				building = "building_barrack"
-				add_ownership = {
-					country = {
-						country = c:W44
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_samurai_training" }
-			}
-			create_building = {
-				building = "building_logging_camp"
-				add_ownership = {
-					building = {
-						type = building_logging_camp
-						country = c:W44
-						levels = 1
-						region = STATE_SOUTH_SUMATRA
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_saw_mills" "pm_increased_hardwood" }
-			}
-			create_building = {
-				building = "building_dye_plantation"
-				add_ownership = {
-					building = {
-						type = building_manor_house
-						country = c:W44
-						levels = 2
-						region = STATE_SOUTH_SUMATRA
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
-			}
-		}
 		region_state:X50 = {
 			create_building = {
 				building = "building_logging_camp"
@@ -38185,6 +38075,45 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_butchering_tools" }
+			}
+		}
+		region_state:W44 = {
+			create_building = {
+				building = "building_barrack"
+				add_ownership = {
+					country = {
+						country = c:W44
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_samurai_training" }
+			}
+			create_building = {
+				building = "building_logging_camp"
+				add_ownership = {
+					building = {
+						type = building_logging_camp
+						country = c:W44
+						levels = 1
+						region = STATE_SOUTH_SUMATRA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_saw_mills" "pm_increased_hardwood" }
+			}
+			create_building = {
+				building = "building_dye_plantation"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:W44
+						levels = 2
+						region = STATE_SOUTH_SUMATRA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
 			}
 		}
 	}
@@ -38346,8 +38275,6 @@
 		}
 	}
 	s:STATE_SUNDA_ISLANDS = {
-		region_state:GBR = {
-		}
 		region_state:HAW = {
 			create_building = {
 				building = "building_barrack"
@@ -38522,8 +38449,6 @@
 				reserves = 1
 				activate_production_methods = { "pm_apple_orchards" "pm_tools" }
 			}
-		}
-		region_state:TAR = {
 		}
 	}
 	s:STATE_SUZHOU = {
@@ -38795,7 +38720,7 @@
 				add_ownership = {
 					country = {
 						country = c:BUK
-						levels = 20
+						levels = 19
 					}
 				}
 				reserves = 1
@@ -39445,8 +39370,6 @@
 		}
 	}
 	s:STATE_TAURIDA = {
-		region_state:HRE = {
-		}
 		region_state:X88 = {
 			create_building = {
 				building = "building_naval_administration"
@@ -39497,8 +39420,6 @@
 		}
 	}
 	s:STATE_TENASSERIM = {
-		region_state:HRE = {
-		}
 		region_state:W44 = {
 			create_building = {
 				building = "building_fishing_wharf"
@@ -41080,10 +41001,6 @@
 			}
 		}
 	}
-	s:STATE_TUVA = {
-		region_state:ALI = {
-		}
-	}
 	s:STATE_TVER = {
 		region_state:SCA = {
 			create_building = {
@@ -41929,7 +41846,7 @@
 				add_ownership = {
 					country = {
 						country = c:BUK
-						levels = 13
+						levels = 12
 					}
 				}
 				reserves = 1
@@ -42130,8 +42047,6 @@
 		}
 	}
 	s:STATE_UTAH = {
-		region_state:CSC = {
-		}
 		region_state:TEX = {
 			create_building = {
 				building = "building_trade_center"
@@ -42371,7 +42286,7 @@
 				add_ownership = {
 					country = {
 						country = c:BUK
-						levels = 34
+						levels = 32
 					}
 				}
 				reserves = 1
@@ -45644,10 +45559,6 @@
 				reserves = 1
 				activate_production_methods = { "pm_fig_orchards_building_rice_farm" "pm_tools_building_rice_farm" }
 			}
-		}
-	}
-	s:STATE_YAKUTSK = {
-		region_state:BUK = {
 		}
 	}
 	s:STATE_YANGHO = {
