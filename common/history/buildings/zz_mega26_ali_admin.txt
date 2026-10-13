@@ -1,0 +1,94 @@
+﻿# mega26: Altai's administration, placed by tax-capacity value: industry per pop, the capital's +25%,
+# and iron/coal states (built up first, so they get 15% headroom). Each state is filled to its shortfall and no further.
+BUILDINGS = {
+	s:STATE_DZUNGARIA = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 10
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
+			}
+		}
+	}
+	s:STATE_HINGGAN = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 14
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
+			}
+		}
+	}
+	s:STATE_SHANXI = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 7
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
+			}
+		}
+	}
+	s:STATE_SHAOZHOU = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 10
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
+			}
+		}
+	}
+	s:STATE_SHENGJING = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 14
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
+			}
+		}
+	}
+	s:STATE_URGA = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 12
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
+			}
+		}
+	}
+}
