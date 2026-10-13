@@ -8454,12 +8454,22 @@
 			create_pop = {
 				culture = korean
 				religion = confucian
-				size = 159146
+				size = 85467
+			}
+			create_pop = { # mega26: Koreans converted to Japanese
+				culture = japanese
+				religion = confucian
+				size = 73679
 			}
 			create_pop = {
 				culture = korean
 				religion = mahayana
-				size = 83061
+				size = 44607
+			}
+			create_pop = { # mega26: Koreans converted to Japanese
+				culture = japanese
+				religion = mahayana
+				size = 38454
 			}
 			create_pop = {
 				culture = japanese
@@ -8469,12 +8479,22 @@
 			create_pop = {
 				culture = korean
 				religion = confucian
-				size = 549358
+				size = 295025
+			}
+			create_pop = { # mega26: Koreans converted to Japanese
+				culture = japanese
+				religion = confucian
+				size = 254333
 			}
 			create_pop = {
 				culture = korean
 				religion = mahayana
-				size = 279219
+				size = 149951
+			}
+			create_pop = { # mega26: Koreans converted to Japanese
+				culture = japanese
+				religion = mahayana
+				size = 129268
 			}
 			create_pop = {
 				culture = japanese
@@ -8484,12 +8504,22 @@
 			create_pop = {
 				culture = korean
 				religion = confucian
-				size = 546379
+				size = 293425
+			}
+			create_pop = { # mega26: Koreans converted to Japanese
+				culture = japanese
+				religion = confucian
+				size = 252954
 			}
 			create_pop = {
 				culture = korean
 				religion = mahayana
-				size = 249937
+				size = 134225
+			}
+			create_pop = { # mega26: Koreans converted to Japanese
+				culture = japanese
+				religion = mahayana
+				size = 115712
 			}
 			create_pop = {
 				culture = japanese
@@ -43108,12 +43138,22 @@
 			create_pop = {
 				culture = korean
 				religion = confucian
-				size = 521835
+				size = 288154
+			}
+			create_pop = { # mega26: Koreans converted to Japanese
+				culture = japanese
+				religion = confucian
+				size = 233681
 			}
 			create_pop = {
 				culture = korean
 				religion = mahayana
-				size = 203828
+				size = 112553
+			}
+			create_pop = { # mega26: Koreans converted to Japanese
+				culture = japanese
+				religion = mahayana
+				size = 91275
 			}
 			create_pop = {
 				culture = japanese
@@ -43123,12 +43163,22 @@
 			create_pop = {
 				culture = korean
 				religion = confucian
-				size = 353952
+				size = 195450
+			}
+			create_pop = { # mega26: Koreans converted to Japanese
+				culture = japanese
+				religion = confucian
+				size = 158502
 			}
 			create_pop = {
 				culture = korean
 				religion = mahayana
-				size = 156315
+				size = 86316
+			}
+			create_pop = { # mega26: Koreans converted to Japanese
+				culture = japanese
+				religion = mahayana
+				size = 69999
 			}
 			create_pop = {
 				culture = japanese
@@ -43138,12 +43188,22 @@
 			create_pop = {
 				culture = korean
 				religion = confucian
-				size = 635116
+				size = 350707
+			}
+			create_pop = { # mega26: Koreans converted to Japanese
+				culture = japanese
+				religion = confucian
+				size = 284409
 			}
 			create_pop = {
 				culture = korean
 				religion = mahayana
-				size = 265291
+				size = 146492
+			}
+			create_pop = { # mega26: Koreans converted to Japanese
+				culture = japanese
+				religion = mahayana
+				size = 118799
 			}
 			create_pop = {
 				culture = japanese
@@ -43153,12 +43213,22 @@
 			create_pop = {
 				culture = korean
 				religion = confucian
-				size = 477203
+				size = 263508
+			}
+			create_pop = { # mega26: Koreans converted to Japanese
+				culture = japanese
+				religion = confucian
+				size = 213695
 			}
 			create_pop = {
 				culture = korean
 				religion = mahayana
-				size = 190595
+				size = 105245
+			}
+			create_pop = { # mega26: Koreans converted to Japanese
+				culture = japanese
+				religion = mahayana
+				size = 85350
 			}
 			create_pop = {
 				culture = japanese
@@ -43168,12 +43238,22 @@
 			create_pop = {
 				culture = korean
 				religion = confucian
-				size = 503800
+				size = 278195
+			}
+			create_pop = { # mega26: Koreans converted to Japanese
+				culture = japanese
+				religion = confucian
+				size = 225605
 			}
 			create_pop = {
 				culture = korean
 				religion = mahayana
-				size = 198925
+				size = 109845
+			}
+			create_pop = { # mega26: Koreans converted to Japanese
+				culture = japanese
+				religion = mahayana
+				size = 89080
 			}
 			create_pop = {
 				culture = japanese
@@ -43183,12 +43263,22 @@
 			create_pop = {
 				culture = korean
 				religion = confucian
-				size = 437283
+				size = 241465
+			}
+			create_pop = { # mega26: Koreans converted to Japanese
+				culture = japanese
+				religion = confucian
+				size = 195818
 			}
 			create_pop = {
 				culture = korean
 				religion = mahayana
-				size = 155441
+				size = 85834
+			}
+			create_pop = { # mega26: Koreans converted to Japanese
+				culture = japanese
+				religion = mahayana
+				size = 69607
 			}
 			create_pop = {
 				culture = japanese
@@ -45997,12 +46087,22 @@
 			create_pop = {
 				culture = korean
 				religion = confucian
-				size = 506966
+				size = 153646
+			}
+			create_pop = { # mega26: Koreans converted to Japanese
+				culture = japanese
+				religion = confucian
+				size = 353320
 			}
 			create_pop = {
 				culture = korean
 				religion = mahayana
-				size = 221454
+				size = 67116
+			}
+			create_pop = { # mega26: Koreans converted to Japanese
+				culture = japanese
+				religion = mahayana
+				size = 154338
 			}
 			create_pop = {
 				culture = japanese
@@ -46022,12 +46122,22 @@
 			create_pop = {
 				culture = korean
 				religion = confucian
-				size = 143330
+				size = 43439
+			}
+			create_pop = { # mega26: Koreans converted to Japanese
+				culture = japanese
+				religion = confucian
+				size = 99891
 			}
 			create_pop = {
 				culture = korean
 				religion = mahayana
-				size = 193014
+				size = 58497
+			}
+			create_pop = { # mega26: Koreans converted to Japanese
+				culture = japanese
+				religion = mahayana
+				size = 134517
 			}
 			create_pop = {
 				culture = japanese
@@ -46042,12 +46152,22 @@
 			create_pop = {
 				culture = korean
 				religion = confucian
-				size = 73936
+				size = 22408
+			}
+			create_pop = { # mega26: Koreans converted to Japanese
+				culture = japanese
+				religion = confucian
+				size = 51528
 			}
 			create_pop = {
 				culture = korean
 				religion = mahayana
-				size = 89782
+				size = 27210
+			}
+			create_pop = { # mega26: Koreans converted to Japanese
+				culture = japanese
+				religion = mahayana
+				size = 62572
 			}
 			create_pop = {
 				culture = japanese
@@ -46907,12 +47027,22 @@
 			create_pop = {
 				culture = korean
 				religion = confucian
-				size = 486515
+				size = 261755
+			}
+			create_pop = { # mega26: Koreans converted to Japanese
+				culture = japanese
+				religion = confucian
+				size = 224760
 			}
 			create_pop = {
 				culture = korean
 				religion = mahayana
-				size = 209540
+				size = 112737
+			}
+			create_pop = { # mega26: Koreans converted to Japanese
+				culture = japanese
+				religion = mahayana
+				size = 96803
 			}
 			create_pop = {
 				culture = japanese
@@ -46922,12 +47052,22 @@
 			create_pop = {
 				culture = korean
 				religion = confucian
-				size = 353952
+				size = 190433
+			}
+			create_pop = { # mega26: Koreans converted to Japanese
+				culture = japanese
+				religion = confucian
+				size = 163519
 			}
 			create_pop = {
 				culture = korean
 				religion = mahayana
-				size = 156315
+				size = 84101
+			}
+			create_pop = { # mega26: Koreans converted to Japanese
+				culture = japanese
+				religion = mahayana
+				size = 72214
 			}
 			create_pop = {
 				culture = japanese
@@ -46937,12 +47077,22 @@
 			create_pop = {
 				culture = korean
 				religion = confucian
-				size = 480336
+				size = 258430
+			}
+			create_pop = { # mega26: Koreans converted to Japanese
+				culture = japanese
+				religion = confucian
+				size = 221906
 			}
 			create_pop = {
 				culture = korean
 				religion = mahayana
-				size = 211361
+				size = 113716
+			}
+			create_pop = { # mega26: Koreans converted to Japanese
+				culture = japanese
+				religion = mahayana
+				size = 97645
 			}
 			create_pop = {
 				culture = japanese
@@ -46952,12 +47102,22 @@
 			create_pop = {
 				culture = korean
 				religion = confucian
-				size = 669036
+				size = 359955
+			}
+			create_pop = { # mega26: Koreans converted to Japanese
+				culture = japanese
+				religion = confucian
+				size = 309081
 			}
 			create_pop = {
 				culture = korean
 				religion = mahayana
-				size = 284109
+				size = 152856
+			}
+			create_pop = { # mega26: Koreans converted to Japanese
+				culture = japanese
+				religion = mahayana
+				size = 131253
 			}
 			create_pop = {
 				culture = japanese
@@ -59476,12 +59636,22 @@
 			create_pop = {
 				culture = korean
 				religion = confucian
-				size = 318292
+				size = 182250
+			}
+			create_pop = { # mega26: Koreans converted to Japanese
+				culture = japanese
+				religion = confucian
+				size = 136042
 			}
 			create_pop = {
 				culture = korean
 				religion = mahayana
-				size = 166122
+				size = 95120
+			}
+			create_pop = { # mega26: Koreans converted to Japanese
+				culture = japanese
+				religion = mahayana
+				size = 71002
 			}
 			create_pop = {
 				culture = japanese
@@ -59491,12 +59661,22 @@
 			create_pop = {
 				culture = korean
 				religion = confucian
-				size = 659244
+				size = 377476
+			}
+			create_pop = { # mega26: Koreans converted to Japanese
+				culture = japanese
+				religion = confucian
+				size = 281768
 			}
 			create_pop = {
 				culture = korean
 				religion = mahayana
-				size = 278966
+				size = 159733
+			}
+			create_pop = { # mega26: Koreans converted to Japanese
+				culture = japanese
+				religion = mahayana
+				size = 119233
 			}
 			create_pop = {
 				culture = japanese
@@ -59506,12 +59686,22 @@
 			create_pop = {
 				culture = korean
 				religion = confucian
-				size = 665736
+				size = 381193
+			}
+			create_pop = { # mega26: Koreans converted to Japanese
+				culture = japanese
+				religion = confucian
+				size = 284543
 			}
 			create_pop = {
 				culture = korean
 				religion = mahayana
-				size = 276122
+				size = 158104
+			}
+			create_pop = { # mega26: Koreans converted to Japanese
+				culture = japanese
+				religion = mahayana
+				size = 118018
 			}
 			create_pop = {
 				culture = japanese
@@ -59521,12 +59711,22 @@
 			create_pop = {
 				culture = korean
 				religion = confucian
-				size = 474284
+				size = 271570
+			}
+			create_pop = { # mega26: Koreans converted to Japanese
+				culture = japanese
+				religion = confucian
+				size = 202714
 			}
 			create_pop = {
 				culture = korean
 				religion = mahayana
-				size = 176226
+				size = 100905
+			}
+			create_pop = { # mega26: Koreans converted to Japanese
+				culture = japanese
+				religion = mahayana
+				size = 75321
 			}
 			create_pop = {
 				culture = japanese
@@ -59536,12 +59736,22 @@
 			create_pop = {
 				culture = korean
 				religion = confucian
-				size = 593354
+				size = 339748
+			}
+			create_pop = { # mega26: Koreans converted to Japanese
+				culture = japanese
+				religion = confucian
+				size = 253606
 			}
 			create_pop = {
 				culture = korean
 				religion = mahayana
-				size = 260805
+				size = 149334
+			}
+			create_pop = { # mega26: Koreans converted to Japanese
+				culture = japanese
+				religion = mahayana
+				size = 111471
 			}
 			create_pop = {
 				culture = japanese
@@ -59551,12 +59761,22 @@
 			create_pop = {
 				culture = korean
 				religion = confucian
-				size = 692254
+				size = 396377
+			}
+			create_pop = { # mega26: Koreans converted to Japanese
+				culture = japanese
+				religion = confucian
+				size = 295877
 			}
 			create_pop = {
 				culture = korean
 				religion = mahayana
-				size = 369415
+				size = 211523
+			}
+			create_pop = { # mega26: Koreans converted to Japanese
+				culture = japanese
+				religion = mahayana
+				size = 157892
 			}
 			create_pop = {
 				culture = japanese
