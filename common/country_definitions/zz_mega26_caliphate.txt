@@ -1,6 +1,6 @@
 ﻿# mega26: the Ottoman Caliphate, proclaimed by the Ottoman player through a decision (zz_mega26_caliphate decisions)
 CLF = {
-	color = { 38 112 118 } # mega26: deep Iznik-tile teal, darker and bluer than neighbouring Maharashtra's green
+	color = { 34 102 58 } # mega26: dark forest green, deeper and less saturated than neighbouring Maharashtra's bright green
 	country_type = recognized
 	tier = empire
 	cultures = { turkish }
