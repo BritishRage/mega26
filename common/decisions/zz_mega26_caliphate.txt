@@ -1,0 +1,23 @@
+﻿# mega26: the Ottoman player can proclaim the Caliphate whenever they feel they've earned it.
+# Same approach as the Great Mongolian State decision: change_tag, players only, the AI never takes it.
+mega26_proclaim_ottoman_caliphate = {
+	is_shown = {
+		exists = c:TUR
+		c:TUR = ROOT
+		is_player = yes # mega26: players only - the AI never sees or takes this
+		NOT = { exists = c:CLF }
+	}
+
+	possible = {
+		is_subject = no
+		is_at_war = no
+	}
+
+	when_taken = {
+		change_tag = CLF
+	}
+
+	ai_chance = {
+		value = 0
+	}
+}

@@ -1,0 +1,6 @@
+﻿CLF = { # mega26: Ottoman Caliphate
+	flag_definition = {
+		coa = CLF
+		priority = 1
+	}
+}
