@@ -4609,7 +4609,7 @@
 		activate_law = law_type:law_mercantilism
 		activate_law = law_type:law_public_schools
 		activate_law = law_type:law_right_of_assembly
-		activate_law = law_type:law_tenant_farmers # mega26: serfdom would block interventionism
+		activate_law = law_type:law_expanded_latifundias # mega26: no serfdom (it blocks interventionism); law opened to SPA in common/laws/01_land_reform.txt
 		activate_law = law_type:law_state_religion
 		activate_law = law_type:law_interventionism
 		set_institution_investment_level = {
