@@ -1,0 +1,6 @@
+﻿l_english:
+ # mega26: National Guard shows as the Japanese Self Defense Forces for Japan's player; vanilla name otherwise (and outside a game)
+ law_national_guard: "[SelectLocalization(GetPlayer.IsValid, 'mega26_law_national_guard_ingame', 'mega26_law_national_guard_default')]"
+ mega26_law_national_guard_ingame: "[GetPlayer.GetCustom('mega26_national_guard_name')]"
+ mega26_law_national_guard_jap: "Japanese Self Defense Forces"
+ mega26_law_national_guard_default: "National Guard"
