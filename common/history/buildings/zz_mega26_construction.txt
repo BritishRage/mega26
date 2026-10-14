@@ -182,17 +182,6 @@
 	}
 	s:STATE_AMUR = {
 		region_state:ALI = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:ALI
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
 		}
 	}
 	s:STATE_AMUR = {
@@ -242,17 +231,6 @@
 	}
 	s:STATE_ANNAM = {
 		region_state:ALI = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:ALI
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
 		}
 	}
 	s:STATE_ANNAM = {
@@ -662,17 +640,6 @@
 	}
 	s:STATE_BEIJING = {
 		region_state:ALI = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:ALI
-						levels = 5
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
 		}
 	}
 	s:STATE_BEIRA = {
@@ -1277,17 +1244,6 @@
 	}
 	s:STATE_CHONGQING = {
 		region_state:ALI = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:ALI
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
 		}
 	}
 	s:STATE_CHUGOKU = {
@@ -1487,32 +1443,10 @@
 	}
 	s:STATE_DZUNGARIA = {
 		region_state:ALI = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:ALI
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
 		}
 	}
 	s:STATE_EASTERN_HUBEI = {
 		region_state:ALI = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:ALI
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
 		}
 	}
 	s:STATE_EASTERN_MALI = {
@@ -2102,17 +2036,6 @@
 	}
 	s:STATE_FUJIAN = {
 		region_state:ALI = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:ALI
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
 		}
 	}
 	s:STATE_GALICH = {
@@ -2147,17 +2070,6 @@
 	}
 	s:STATE_GANSU = {
 		region_state:ALI = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:ALI
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
 		}
 	}
 	s:STATE_GELRE = {
@@ -2267,32 +2179,10 @@
 	}
 	s:STATE_GUANGDONG = {
 		region_state:ALI = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:ALI
-						levels = 5
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
 		}
 	}
 	s:STATE_GUANGXI = {
 		region_state:ALI = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:ALI
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
 		}
 	}
 	s:STATE_GUATEMALA = {
@@ -2432,17 +2322,6 @@
 	}
 	s:STATE_HENAN = {
 		region_state:ALI = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:ALI
-						levels = 5
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
 		}
 	}
 	s:STATE_HERAT = {
@@ -2552,17 +2431,6 @@
 	}
 	s:STATE_HINGGAN = {
 		region_state:ALI = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:ALI
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
 		}
 	}
 	s:STATE_HOKKAIDO = {
@@ -2642,17 +2510,6 @@
 	}
 	s:STATE_HUNAN = {
 		region_state:ALI = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:ALI
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
 		}
 	}
 	s:STATE_HYDERABAD = {
@@ -2822,32 +2679,10 @@
 	}
 	s:STATE_JIANGSU = {
 		region_state:ALI = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:ALI
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
 		}
 	}
 	s:STATE_JIANGXI = {
 		region_state:ALI = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:ALI
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
 		}
 	}
 	s:STATE_JUTLAND = {
@@ -4142,17 +3977,6 @@
 	}
 	s:STATE_NANJING = {
 		region_state:ALI = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:ALI
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
 		}
 	}
 	s:STATE_NEJD = {
@@ -4292,17 +4116,6 @@
 	}
 	s:STATE_NINGXIA = {
 		region_state:ALI = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:ALI
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
 		}
 	}
 	s:STATE_NIZHNY_NOVGOROD = {
@@ -4352,17 +4165,6 @@
 	}
 	s:STATE_NORTHERN_ANHUI = {
 		region_state:ALI = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:ALI
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
 		}
 	}
 	s:STATE_NORTHERN_BALUCHISTAN = {
@@ -4397,17 +4199,6 @@
 	}
 	s:STATE_NORTHERN_MANCHURIA = {
 		region_state:ALI = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:ALI
-						levels = 4
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
 		}
 	}
 	s:STATE_NORTHERN_NORWAY = {
@@ -5567,32 +5358,10 @@
 	}
 	s:STATE_SHANDONG = {
 		region_state:ALI = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:ALI
-						levels = 5
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
 		}
 	}
 	s:STATE_SHANXI = {
 		region_state:ALI = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:ALI
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
 		}
 	}
 	s:STATE_SHAN_STATES = {
@@ -5612,32 +5381,10 @@
 	}
 	s:STATE_SHAOZHOU = {
 		region_state:ALI = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:ALI
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
 		}
 	}
 	s:STATE_SHENGJING = {
 		region_state:ALI = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:ALI
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
 		}
 	}
 	s:STATE_SHIKOKU = {
@@ -5747,32 +5494,10 @@
 	}
 	s:STATE_SOUTHERN_ANHUI = {
 		region_state:ALI = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:ALI
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
 		}
 	}
 	s:STATE_SOUTHERN_MANCHURIA = {
 		region_state:ALI = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:ALI
-						levels = 7
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
 		}
 	}
 	s:STATE_SOUTH_ANGOLA = {
@@ -5927,17 +5652,6 @@
 	}
 	s:STATE_SUZHOU = {
 		region_state:ALI = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:ALI
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
 		}
 	}
 	s:STATE_SVEALAND = {
@@ -6137,17 +5851,6 @@
 	}
 	s:STATE_TIANSHAN = {
 		region_state:ALI = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:ALI
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
 		}
 	}
 	s:STATE_TIMBUKTU = {
@@ -6242,17 +5945,6 @@
 	}
 	s:STATE_TONKIN = {
 		region_state:ALI = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:ALI
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
 		}
 	}
 	s:STATE_TONKIN = {
@@ -6422,17 +6114,6 @@
 	}
 	s:STATE_ULIASTAI = {
 		region_state:ALI = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:ALI
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
 		}
 	}
 	s:STATE_ULSTER = {
@@ -6542,17 +6223,6 @@
 	}
 	s:STATE_URGA = {
 		region_state:ALI = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:ALI
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
 		}
 	}
 	s:STATE_URUGUAY = {
@@ -6842,17 +6512,6 @@
 	}
 	s:STATE_WESTERN_HUBEI = {
 		region_state:ALI = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:ALI
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
 		}
 	}
 	s:STATE_WESTERN_NEW_GUINEA = {
@@ -7082,17 +6741,6 @@
 	}
 	s:STATE_XIAN = {
 		region_state:ALI = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:ALI
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
 		}
 	}
 	s:STATE_YANGHO = {
@@ -7247,32 +6895,10 @@
 	}
 	s:STATE_ZHEJIANG = {
 		region_state:ALI = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:ALI
-						levels = 4
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
 		}
 	}
 	s:STATE_ZHILI = {
 		region_state:ALI = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:ALI
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = {  }
-			}
 		}
 	}
 	s:STATE_ZULIA = {

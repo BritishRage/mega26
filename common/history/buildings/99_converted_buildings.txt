@@ -4539,17 +4539,6 @@
 				activate_production_methods = { "pm_pig_iron" }
 			}
 			create_building = {
-				building = "building_government_administration"
-				add_ownership = {
-					country = {
-						country = c:ALI
-						levels = 23
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
-			}
-			create_building = {
 				building = "building_port"
 				add_ownership = {
 					country = {
@@ -37465,17 +37454,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_handcrafted_furniture" "pm_luxury_furniture" }
-			}
-			create_building = {
-				building = "building_government_administration"
-				add_ownership = {
-					country = {
-						country = c:ALI
-						levels = 37
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
 			}
 		}
 	}
