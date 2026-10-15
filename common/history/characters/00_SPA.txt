@@ -67,7 +67,7 @@
 			ruler = yes
 			is_general = yes
 			commander_rank = commander_rank_3
-			culture = cu:french
+			culture = cu:french # mega26: was spanish
 			religion = rel:catholic
 			birth_date = 1809.6.17
 			traits = {

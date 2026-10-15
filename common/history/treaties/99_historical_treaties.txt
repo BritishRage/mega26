@@ -7,7 +7,7 @@ TREATIES = {
 
 		is_draft = no
 		entered_into_force_on = 1701.1.1
-		binding_period = { years = 234 } # runs to 1935, 99 years after the 1836 start (139 years expired in 1840)
+		binding_period = { years = 139 } # runs to 1840, 4 years after the 1836 start
 
 		articles_to_create = {
 			{

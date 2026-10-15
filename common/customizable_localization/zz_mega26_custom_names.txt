@@ -1,0 +1,19 @@
+﻿# mega26: per-country names, picked by the viewing player's country (GetPlayer), vanilla text for everyone else
+mega26_national_guard_name = {
+	type = country
+	random_valid = no
+
+	text = {
+		trigger = {
+			c:JAP ?= this
+		}
+		localization_key = mega26_law_national_guard_jap
+	}
+
+	text = {
+		trigger = {
+			always = yes
+		}
+		localization_key = mega26_law_national_guard_default
+	}
+}

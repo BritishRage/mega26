@@ -1,0 +1,170 @@
+﻿# mega26: Altai's construction sectors, in its development states: wood (wooden buildings now), iron and coal
+# (iron-frame later, and the mines get built here first), enough people and spare infrastructure (2 per level, 8 kept free
+# for the camps and mines), at most 10 levels per state, favouring states Altai can fully tax. Planned with ali/joint.py.
+BUILDINGS = {
+	s:STATE_AMUR = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 10
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_ANNAM = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 10
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_GUIZHOU = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 9
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_HINGGAN = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 7
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_SHANXI = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 10
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_SHAOZHOU = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 7
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_SHENGJING = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 10
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_TOMSK = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 4
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_ULIASTAI = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 7
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_URGA = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 10
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+	s:STATE_XIAN = {
+		region_state:ALI = {
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:ALI
+						levels = 8
+					}
+				}
+				reserves = 1
+				activate_production_methods = {  }
+			}
+		}
+	}
+}
