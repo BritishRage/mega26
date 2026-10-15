@@ -10987,7 +10987,7 @@ REPLACE_OR_CREATE:W76 ?= {
 	country_type = recognized
 	tier = kingdom
 	cultures = { russian }
-	religion = orthodox
+	religion = hussite
 	capital = STATE_RYAZAN
 }
 
@@ -12127,7 +12127,7 @@ REPLACE_OR_CREATE:X88 ?= {
 REPLACE_OR_CREATE:X89 ?= {
 	color = { 232 206 0 }
 	country_type = recognized
-	tier = principality
+	tier = kingdom
 	cultures = { north_german }
 	religion = hussite
 	capital = STATE_HESSE
